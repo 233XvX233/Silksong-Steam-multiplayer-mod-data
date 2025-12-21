@@ -19,3 +19,8 @@ x: 63.85517
 y: 9.597684
 message: 这里有个卡墙问题
 
+sceneName: Bellway_01
+x: 63.85517
+y: 9.597684
+message: 在这缴费
+
