@@ -23,3 +23,8 @@ x: 294.5129
 y: 7.567685
 message: 好大叔！
 
+sceneName: Bonetown
+x: 294.5129
+y: 7.567685
+message: 好大叔！
+
