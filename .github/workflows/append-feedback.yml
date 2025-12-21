@@ -1,4 +1,4 @@
-name: Append feedback issue to comments.txt
+name: Append feedback issue to comments.txt (auto-merge)
 
 on:
   issues:
@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   append:
+    # 只处理带 feedback label 且不带 processed label 的 issue（防重复）
     if: "contains(github.event.issue.labels.*.name, 'feedback') && !contains(github.event.issue.labels.*.name, 'processed')"
     runs-on: ubuntu-latest
 
@@ -43,7 +44,7 @@ jobs:
             BLOCK="$BODY"
           fi
 
-          # 从 block 中解析字段
+          # 从 block 中解析四个字段（允许任意顺序）
           sceneName=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="sceneName"{sub(/^sceneName:[ ]*/, "", $0); print; exit}')
           x=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="x"{sub(/^x:[ ]*/, "", $0); print; exit}')
           y=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="y"{sub(/^y:[ ]*/, "", $0); print; exit}')
@@ -55,7 +56,7 @@ jobs:
           y=$(printf "%s" "${y:-}" | sed 's/\r$//')
           message=$(printf "%s" "${message:-}" | sed 's/\r$//')
 
-          # 写入固定格式（严格 4 行 + 空行）
+          # 追加写入严格格式：4 行 + 空行
           {
             echo "sceneName: ${sceneName}"
             echo "x: ${x}"
@@ -64,40 +65,55 @@ jobs:
             echo ""
           } >> "$FILE"
 
-      # 使用 PR 提交，避免 main 分支保护问题
-      - name: Create pull request
+      - name: Create or update pull request
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
           title: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
           body: |
             Auto-generated from issue #${{ github.event.issue.number }}.
-            Appended feedback in normalized format to comments.txt.
+            Appended normalized feedback block to comments.txt.
           branch: "auto/append-comments-${{ github.event.issue.number }}"
           delete-branch: true
           add-paths: |
             comments.txt
 
-      # ✅ 成功后留言
+      - name: Enable PR auto-merge (squash)
+        if: ${{ success() }}
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
+
       - name: Comment on issue
         if: ${{ success() }}
         uses: actions/github-script@v7
         with:
           script: |
+            const prNumber = Number("${{ steps.cpr.outputs.pull-request-number }}");
+            const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
             const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/comments.txt`;
+
+            const lines = [
+              "已处理 ✅",
+              "",
+              `- 已将反馈按固定格式追加到 \`comments.txt\`（PR #${prNumber}）`,
+              `- PR 链接：${prUrl}`,
+              "- 已启用 Auto-merge（squash）：满足规则后会自动合并到 main",
+              `- Unity Raw 读取：${rawUrl}`,
+              "- Unity 端建议读取时加 `?t=${UnixTime}` 绕过缓存",
+              "",
+              "（此 Issue 将打上 processed 标签并关闭）"
+            ];
+
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: [
-                "已成功处理 ✅",
-                "",
-                "",
-                "Issue 将被自动关闭"
-              ].join("\n")
+              body: lines.join("\n")
             });
 
-      # ✅ 成功后打 processed 标签（防重复）
       - name: Add processed label
         if: ${{ success() }}
         uses: actions/github-script@v7
@@ -110,7 +126,6 @@ jobs:
               labels: ["processed"]
             });
 
-      # ✅ 成功后关闭 issue
       - name: Close issue
         if: ${{ success() }}
         uses: actions/github-script@v7
