@@ -1,6 +1,1 @@
 
-sceneName: Bonetown
-x: 260.4245
-y: 7.567685
-message: 这里有个卡墙问题
-
