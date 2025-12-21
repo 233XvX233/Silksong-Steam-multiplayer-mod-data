@@ -158,3 +158,8 @@ x: 67,08718
 y: 9,597684
 message: cagao
 
+sceneName: Tut_01
+x: 44,88997
+y: 5,45802
+message: Mateusz gdzie lobby
+
