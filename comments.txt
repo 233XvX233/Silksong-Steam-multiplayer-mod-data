@@ -133,3 +133,8 @@ x: 47.07345
 y: 7.567685
 message: help
 
+sceneName: Tut_01
+x: 44,19493
+y: 32,56768
+message: oi
+
