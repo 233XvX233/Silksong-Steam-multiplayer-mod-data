@@ -68,3 +68,8 @@ x: 35,34721
 y: 53,56768
 message: hello
 
+sceneName: Tut_01
+x: 57.34959
+y: 4.567685
+message: ggg
+
