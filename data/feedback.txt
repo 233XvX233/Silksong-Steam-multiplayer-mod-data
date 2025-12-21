@@ -1,0 +1,22 @@
+
+-----
+issue: #37
+title: [Feedback] Tut_01 @ (55.89496612548828, 4.567685127258301)
+created: 2025-12-21T10:08:07Z
+
+
+**Scene:** Tut_01
+**Position:** (55.89496612548828, 4.567685127258301)
+
+**Message:**
+sceneName: Tut_01
+x: 55.89497
+y: 4.567685
+message: 这里有个卡墙问题
+
+**Meta**
+- GameVersion: undefined
+- Platform: WindowsPlayer
+- Time: undefined
+
+
