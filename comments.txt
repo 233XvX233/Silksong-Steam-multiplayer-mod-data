@@ -143,3 +143,8 @@ x: 238,5849
 y: 7,567685
 message: KUUU
 
+sceneName: Bonetown
+x: 238,5849
+y: 7,567685
+message: KUUU
+
