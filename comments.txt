@@ -118,3 +118,8 @@ x: 46.8299
 y: 4.567685
 message: CHEESE
 
+sceneName: Tut_01
+x: 25.3899
+y: 32.56768
+message: zzzzzz
+
