@@ -128,3 +128,8 @@ x: 47.07345
 y: 7.567685
 message: help
 
+sceneName: Ant_05b
+x: 47.07345
+y: 7.567685
+message: help
+
