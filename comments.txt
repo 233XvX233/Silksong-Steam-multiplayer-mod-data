@@ -3,4 +3,8 @@ x: 233.8302
 y: 7.567685
 message: 测试测试
 
+sceneName: Bonetown
+x: 240.9249
+y: 8.163066
+message: 我喜欢玩丝之歌
 
