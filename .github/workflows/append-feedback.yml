@@ -2,7 +2,7 @@ name: Append feedback issue to file
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened, labeled, edited]
 
 permissions:
   contents: write
@@ -10,8 +10,8 @@ permissions:
 
 jobs:
   append:
-    # 只有当 issue 有 feedback label 才执行
-    if: contains(github.event.issue.labels.*.name, 'feedback')
+    # 只处理带 feedback label 且不带 processed label 的 issue（防重复）
+    if: "contains(github.event.issue.labels.*.name, 'feedback') && !contains(github.event.issue.labels.*.name, 'processed')"
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +20,8 @@ jobs:
 
       - name: Append issue body to data/feedback.txt
         shell: bash
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           set -euo pipefail
 
@@ -27,13 +29,9 @@ jobs:
           mkdir -p "$(dirname "$FILE")"
           touch "$FILE"
 
-          # 取 issue 正文
-          BODY=$(cat <<'EOF'
-${{ github.event.issue.body }}
-EOF
-)
+          BODY="$ISSUE_BODY"
 
-          # ---- 解析策略：抓取 "Message:" 后面的那段（直到 "Meta" 或结尾）----
+          # 提取 "Message:" 后的块（到 "Meta" 或结尾）
           EXTRACTED=$(printf "%s\n" "$BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
@@ -41,11 +39,12 @@ EOF
             { if(inmsg==1) print }
           ')
 
-          # 去掉前后空行
-          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e 's/\r$//' | sed -e '/^[[:space:]]*$/N;/^\n$/D')"
-          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e :a -e '/^\n*$/{$d;N;ba}')"
+          # 去掉 CR 和前后空行
+          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e 's/\r$//' )"
+          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e :a -e '/^\n*$/{$d;N;ba}' )"
+          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e '1{/^$/d;}' )"
 
-          # 如果没提取到（格式不一致），退回直接用整个 BODY（避免丢数据）
+          # 如果没提取到，退回用全正文（不丢数据）
           if [ -z "${EXTRACTED:-}" ]; then
             EXTRACTED="$BODY"
           fi
@@ -68,45 +67,56 @@ EOF
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/feedback.txt
 
-          # 如果没有变更（比如重复触发但内容相同），不报错
+          # 没有变更就不提交（避免 workflow 报错）
           git commit -m "Append feedback from issue #${{ github.event.issue.number }}" || exit 0
           git push
 
       - name: Comment on issue (added to file)
         if: ${{ success() }}
-        shell: bash
-        run: |
-          set -euo pipefail
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/data/feedback.txt`;
+            const body = [
+              "已收录 ✅",
+              "",
+              "- 已追加写入：`data/feedback.txt`",
+              `- Raw 读取地址：${rawUrl}`,
+              "- Unity 端建议读取时加 `?t=${UnixTime}` 绕过缓存（例如：`" + rawUrl + "?t=1700000000`）",
+              "",
+              "（此 Issue 将自动关闭，并打上 processed 标签防重复）"
+            ].join("\n");
 
-          RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/data/feedback.txt"
-          MSG=$(cat <<EOF
-已收录 ✅
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body
+            });
 
-- 已追加写入：\`data/feedback.txt\`
-- Raw 读取地址：$RAW_URL
-- Unity 端建议读取时加上 \`?t=\${UnixTime}\` 绕过缓存（例如：\`$RAW_URL?t=1700000000\`）
-
-（此 Issue 将自动关闭）
-EOF
-)
-
-          # 使用 jq 生成 JSON（ubuntu-latest 通常自带 jq）
-          curl -sS -X POST \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments" \
-            -d "$(jq -nc --arg body "$MSG" '{body:$body}')"
+      - name: Add processed label
+        if: ${{ success() }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ["processed"]
+            });
 
       - name: Close issue
         if: ${{ success() }}
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          curl -sS -X PATCH \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}" \
-            -d '{"state":"closed"}'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            });
