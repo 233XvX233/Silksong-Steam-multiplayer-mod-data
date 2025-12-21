@@ -1,0 +1,78 @@
+name: Append feedback issue to file
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    # 只有当 issue 有 feedback label 才执行
+    if: contains(github.event.issue.labels.*.name, 'feedback')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Append issue body to data/feedback.txt
+        shell: bash
+        run: |
+          set -e
+
+          FILE="data/feedback.txt"
+          mkdir -p "$(dirname "$FILE")"
+          touch "$FILE"
+
+          # 取 issue 正文
+          BODY=$(cat <<'EOF'
+${{ github.event.issue.body }}
+EOF
+)
+
+          # ---- 解析策略（稳）：抓取 "Message:" 后面的那段（直到空行+Meta 或结尾）----
+          # 你现在的 issue 格式大概是：
+          # Message:
+          # sceneName: ...
+          # x: ...
+          # y: ...
+          # message: ...
+          # 
+          # Meta
+          #
+          # 下面 awk 会把 Message: 之后的块提取出来
+          EXTRACTED=$(printf "%s\n" "$BODY" | awk '
+            BEGIN{inmsg=0}
+            /^Message:/ {inmsg=1; next}
+            /^Meta/ {if(inmsg==1){exit}}
+            { if(inmsg==1) print }
+          ')
+
+          # 清理两端空行
+          EXTRACTED=$(printf "%s\n" "$EXTRACTED" | sed '/^[[:space:]]*$/N;/^\n$/D' | sed -e :a -e '/^\n*$/{$d;N;ba}' )
+
+          # 如果没提取到，就退回直接用整个 BODY（避免丢数据）
+          if [ -z "$EXTRACTED" ]; then
+            EXTRACTED="$BODY"
+          fi
+
+          {
+            echo ""
+            echo "-----"
+            echo "issue: #${{ github.event.issue.number }}"
+            echo "title: ${{ github.event.issue.title }}"
+            echo "created: ${{ github.event.issue.created_at }}"
+            echo ""
+            printf "%s\n" "$EXTRACTED"
+            echo ""
+          } >> "$FILE"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/feedback.txt
+          git commit -m "Append feedback from issue #${{ github.event.issue.number }}" || exit 0
+          git push
