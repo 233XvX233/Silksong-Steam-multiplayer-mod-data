@@ -98,3 +98,8 @@ x: 47.66219
 y: 4.567685
 message: zzzzzz
 
+sceneName: Tut_01
+x: 25.3899
+y: 32.56768
+message: zzzzzz
+
