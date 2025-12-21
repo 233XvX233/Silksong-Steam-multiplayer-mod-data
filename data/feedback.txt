@@ -64,3 +64,25 @@ message: 跳起来上方还有隐藏房间，注意有厉害的敌人！
 - Time: undefined
 
 
+
+-----
+issue: #41
+title: [Feedback] Tut_01 @ (101.84519958496094, 16.56768226623535)
+created: 2025-12-21T10:09:18Z
+
+
+**Scene:** Tut_01
+**Position:** (101.84519958496094, 16.56768226623535)
+
+**Message:**
+sceneName: Tut_01
+x: 101.8452
+y: 16.56768
+message: 这里有个卡墙问题
+
+**Meta**
+- GameVersion: undefined
+- Platform: WindowsPlayer
+- Time: undefined
+
+
