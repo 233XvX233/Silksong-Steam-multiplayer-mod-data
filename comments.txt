@@ -168,3 +168,8 @@ x: 44,88997
 y: 5,45802
 message: Mateusz gdzie lobby
 
+sceneName: Tut_01
+x: 43,15951
+y: 4,567685
+message: Mateusz Gdzie Lobby
+
