@@ -48,3 +48,8 @@ x: 223.9106
 y: 7.628405
 message: 我去，我喜欢玩丝之歌
 
+sceneName: Bonetown
+x: 261.0746
+y: 7.567686
+message: 这里有个卡墙问题
+
