@@ -13,3 +13,8 @@ x: 273.9652
 y: 7.567685
 message: 这里有个卡墙问题
 
+sceneName: Bonetown
+x: 273.9652
+y: 9.05058
+message: 杂货铺
+
