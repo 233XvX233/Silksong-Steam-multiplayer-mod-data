@@ -20,3 +20,25 @@ message: 这里有个卡墙问题
 - Time: undefined
 
 
+
+-----
+issue: #39
+title: [Feedback] Tut_01 @ (81.08497619628906, 9.5676851272583)
+created: 2025-12-21T10:08:31Z
+
+
+**Scene:** Tut_01
+**Position:** (81.08497619628906, 9.5676851272583)
+
+**Message:**
+sceneName: Tut_01
+x: 81.08498
+y: 9.567685
+message: 这里有个卡墙问题
+
+**Meta**
+- GameVersion: undefined
+- Platform: WindowsPlayer
+- Time: undefined
+
+
