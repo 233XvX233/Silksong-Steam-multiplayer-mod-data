@@ -18,3 +18,8 @@ x: 273.9652
 y: 9.05058
 message: 杂货铺
 
+sceneName: Bonetown
+x: 294.5129
+y: 7.567685
+message: 好大叔！
+
