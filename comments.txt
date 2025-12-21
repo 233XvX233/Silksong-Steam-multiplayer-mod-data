@@ -203,3 +203,8 @@ x: 91,54462
 y: 13,56769
 message: porno
 
+sceneName: Bone_East_05
+x: 91,54462
+y: 13,56769
+message: porno
+
