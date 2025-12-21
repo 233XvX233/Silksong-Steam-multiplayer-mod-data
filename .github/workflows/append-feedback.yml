@@ -21,7 +21,7 @@ jobs:
       - name: Append issue body to data/feedback.txt
         shell: bash
         run: |
-          set -e
+          set -euo pipefail
 
           FILE="data/feedback.txt"
           mkdir -p "$(dirname "$FILE")"
@@ -33,17 +33,7 @@ ${{ github.event.issue.body }}
 EOF
 )
 
-          # ---- 解析策略（稳）：抓取 "Message:" 后面的那段（直到空行+Meta 或结尾）----
-          # 你现在的 issue 格式大概是：
-          # Message:
-          # sceneName: ...
-          # x: ...
-          # y: ...
-          # message: ...
-          # 
-          # Meta
-          #
-          # 下面 awk 会把 Message: 之后的块提取出来
+          # ---- 解析策略：抓取 "Message:" 后面的那段（直到 "Meta" 或结尾）----
           EXTRACTED=$(printf "%s\n" "$BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
@@ -51,11 +41,12 @@ EOF
             { if(inmsg==1) print }
           ')
 
-          # 清理两端空行
-          EXTRACTED=$(printf "%s\n" "$EXTRACTED" | sed '/^[[:space:]]*$/N;/^\n$/D' | sed -e :a -e '/^\n*$/{$d;N;ba}' )
+          # 去掉前后空行
+          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e 's/\r$//' | sed -e '/^[[:space:]]*$/N;/^\n$/D')"
+          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e :a -e '/^\n*$/{$d;N;ba}')"
 
-          # 如果没提取到，就退回直接用整个 BODY（避免丢数据）
-          if [ -z "$EXTRACTED" ]; then
+          # 如果没提取到（格式不一致），退回直接用整个 BODY（避免丢数据）
+          if [ -z "${EXTRACTED:-}" ]; then
             EXTRACTED="$BODY"
           fi
 
@@ -71,27 +62,37 @@ EOF
           } >> "$FILE"
 
       - name: Commit and push
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/feedback.txt
+
+          # 如果没有变更（比如重复触发但内容相同），不报错
           git commit -m "Append feedback from issue #${{ github.event.issue.number }}" || exit 0
           git push
+
       - name: Comment on issue (added to file)
+        if: ${{ success() }}
         shell: bash
         run: |
-          set -e
+          set -euo pipefail
+
           RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/data/feedback.txt"
           MSG=$(cat <<EOF
 已收录 ✅
 
 - 已追加写入：\`data/feedback.txt\`
 - Raw 读取地址：$RAW_URL
-- 建议 Unity 端读取时加上 \`?t=\${UnixTime}\` 绕过缓存（例如：\`$RAW_URL?t=1700000000\`）
+- Unity 端建议读取时加上 \`?t=\${UnixTime}\` 绕过缓存（例如：\`$RAW_URL?t=1700000000\`）
 
 （此 Issue 将自动关闭）
 EOF
 )
+
+          # 使用 jq 生成 JSON（ubuntu-latest 通常自带 jq）
           curl -sS -X POST \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
@@ -99,9 +100,11 @@ EOF
             -d "$(jq -nc --arg body "$MSG" '{body:$body}')"
 
       - name: Close issue
+        if: ${{ success() }}
         shell: bash
         run: |
-          set -e
+          set -euo pipefail
+
           curl -sS -X PATCH \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
