@@ -8,3 +8,42 @@ x: 240.9249
 y: 8.163066
 message: 我喜欢玩丝之歌
 
+sceneName: Bonetown
+x: 246.4173
+y: 7.567685
+message: 这里有个卡墙问题
+
+sceneName: Bonetown
+x: 226.2123
+y: 7.567685
+message: 这里有个卡墙问题
+
+sceneName: Bonetown
+x: 179.4023
+y: 10.0674
+message: 这里有个卡墙问题
+
+sceneName: Bonetown
+x: 179.4023
+y: 10.0674
+message: 注意前方有坑！Pay attention to a pit ahead!
+
+sceneName: Bonetown
+x: 293.9874
+y: 9.975392
+message: 这里有个卡墙问题
+
+sceneName: Bonetown
+x: 293.9874
+y: 9.975392
+message: 好大叔！
+
+sceneName: Bonetown
+x: 223.2506
+y: 7.567685
+message: 这里有个卡墙问题
+
+sceneName: Bonetown
+x: 223.9106
+y: 7.628405
+message: 我去，我喜欢玩丝之歌
