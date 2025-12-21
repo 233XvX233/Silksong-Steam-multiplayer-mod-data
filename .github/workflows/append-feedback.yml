@@ -84,8 +84,6 @@ jobs:
               "已收录 ✅",
               "",
               "- 已追加写入：`data/feedback.txt`",
-              `- Raw 读取地址：${rawUrl}`,
-              "- Unity 端建议读取时加 `?t=${UnixTime}` 绕过缓存（例如：`" + rawUrl + "?t=1700000000`）",
               "",
               "（此 Issue 将自动关闭，并打上 processed 标签防重复）"
             ].join("\n");
