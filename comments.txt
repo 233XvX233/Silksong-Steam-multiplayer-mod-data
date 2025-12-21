@@ -52,3 +52,8 @@ sceneName: Bonetown
 x: 261.0746
 y: 7.567686
 message: 这里有个卡墙问题
+sceneName: Bonetown
+x: 260.4245
+y: 7.567685
+message: 城东地铁站
+
