@@ -148,3 +148,8 @@ x: 238,5849
 y: 7,567685
 message: KUUU
 
+sceneName: Bellway_01
+x: 67,08718
+y: 9,597684
+message: cagao
+
