@@ -8,3 +8,8 @@ x: 63.85517
 y: 9.597684
 message: 在这缴费
 
+sceneName: Bonetown
+x: 273.9652
+y: 7.567685
+message: 这里有个卡墙问题
+
