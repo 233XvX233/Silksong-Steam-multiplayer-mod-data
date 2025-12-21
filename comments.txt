@@ -48,3 +48,8 @@ x: 72.54002
 y: 7.567685
 message: 居然是菇
 
+sceneName: Bone_East_05
+x: 91.705
+y: 13.56769
+message: 太卡了队友跑了嘤嘤嘤
+
