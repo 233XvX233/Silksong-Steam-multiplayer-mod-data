@@ -6,18 +6,20 @@ on:
 
 permissions:
   contents: write
-  issues: write
   pull-requests: write
+  issues: write
 
 jobs:
   append:
-    # 只处理带 feedback label 且不带 processed label 的 issue（防重复）
+    # 只处理带 feedback 且不带 processed 的 issue（防重复）
     if: "contains(github.event.issue.labels.*.name, 'feedback') && !contains(github.event.issue.labels.*.name, 'processed')"
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Extract feedback and append to comments.txt
         shell: bash
@@ -31,15 +33,13 @@ jobs:
 
           BODY="$ISSUE_BODY"
 
-          # 提取 Message: 块（到 Meta 或结尾）
+          # 提取 Message: 块（到 Meta 或结尾）；没有则回退到全文
           BLOCK=$(printf "%s\n" "$BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
             /^Meta/ {if(inmsg==1){exit}}
             { if(inmsg==1) print }
           ')
-
-          # 没有 Message: 就回退到全文
           if [ -z "${BLOCK:-}" ]; then
             BLOCK="$BODY"
           fi
@@ -50,7 +50,7 @@ jobs:
           y=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="y"{sub(/^y:[ ]*/, "", $0); print; exit}')
           message=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="message"{sub(/^message:[ ]*/, "", $0); print; exit}')
 
-          # 清理 CR
+          # 清理 CR（Windows 换行）
           sceneName=$(printf "%s" "${sceneName:-}" | sed 's/\r$//')
           x=$(printf "%s" "${x:-}" | sed 's/\r$//')
           y=$(printf "%s" "${y:-}" | sed 's/\r$//')
@@ -69,25 +69,27 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: main
+          branch: auto/append-comments-${{ github.event.issue.number }}
+          delete-branch: true
           commit-message: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
           title: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
           body: |
             Auto-generated from issue #${{ github.event.issue.number }}.
-            Appended normalized feedback block to comments.txt.
-          branch: "auto/append-comments-${{ github.event.issue.number }}"
-          delete-branch: true
+            Appended feedback in normalized format to comments.txt.
           add-paths: |
             comments.txt
 
       - name: Enable PR auto-merge (squash)
-        if: ${{ success() }}
+        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
 
       - name: Comment on issue
-        if: ${{ success() }}
+        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
         uses: actions/github-script@v7
         with:
           script: |
@@ -95,27 +97,27 @@ jobs:
             const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
             const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/comments.txt`;
 
-            const lines = [
+            const body = [
               "已处理 ✅",
               "",
               `- 已将反馈按固定格式追加到 \`comments.txt\`（PR #${prNumber}）`,
               `- PR 链接：${prUrl}`,
-              "- 已启用 Auto-merge（squash）：满足规则后会自动合并到 main",
+              "- 已启用 Auto-merge（squash）：满足分支规则后会自动合并到 main",
               `- Unity Raw 读取：${rawUrl}`,
               "- Unity 端建议读取时加 `?t=${UnixTime}` 绕过缓存",
               "",
               "（此 Issue 将打上 processed 标签并关闭）"
-            ];
+            ].join("\n");
 
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: lines.join("\n")
+              body
             });
 
       - name: Add processed label
-        if: ${{ success() }}
+        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
         uses: actions/github-script@v7
         with:
           script: |
@@ -127,7 +129,7 @@ jobs:
             });
 
       - name: Close issue
-        if: ${{ success() }}
+        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
         uses: actions/github-script@v7
         with:
           script: |
