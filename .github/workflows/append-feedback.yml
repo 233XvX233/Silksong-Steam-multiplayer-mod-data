@@ -1,4 +1,4 @@
-name: Append feedback issue to file
+name: Append feedback issue to comments.txt
 
 on:
   issues:
@@ -7,94 +7,97 @@ on:
 permissions:
   contents: write
   issues: write
+  pull-requests: write
 
 jobs:
   append:
-    # 只处理带 feedback label 且不带 processed label 的 issue（防重复）
     if: "contains(github.event.issue.labels.*.name, 'feedback') && !contains(github.event.issue.labels.*.name, 'processed')"
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Append issue body to data/feedback.txt
+      - name: Extract feedback and append to comments.txt
         shell: bash
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           set -euo pipefail
 
-          FILE="data/feedback.txt"
-          mkdir -p "$(dirname "$FILE")"
+          FILE="comments.txt"
           touch "$FILE"
 
           BODY="$ISSUE_BODY"
 
-          # 提取 "Message:" 后的块（到 "Meta" 或结尾）
-          EXTRACTED=$(printf "%s\n" "$BODY" | awk '
+          # 提取 Message: 块（到 Meta 或结尾）
+          BLOCK=$(printf "%s\n" "$BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
             /^Meta/ {if(inmsg==1){exit}}
             { if(inmsg==1) print }
           ')
 
-          # 去掉 CR 和前后空行
-          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e 's/\r$//' )"
-          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e :a -e '/^\n*$/{$d;N;ba}' )"
-          EXTRACTED="$(printf "%s\n" "$EXTRACTED" | sed -e '1{/^$/d;}' )"
-
-          # 如果没提取到，退回用全正文（不丢数据）
-          if [ -z "${EXTRACTED:-}" ]; then
-            EXTRACTED="$BODY"
+          # 没有 Message: 就回退到全文
+          if [ -z "${BLOCK:-}" ]; then
+            BLOCK="$BODY"
           fi
 
+          # 从 block 中解析字段
+          sceneName=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="sceneName"{sub(/^sceneName:[ ]*/, "", $0); print; exit}')
+          x=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="x"{sub(/^x:[ ]*/, "", $0); print; exit}')
+          y=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="y"{sub(/^y:[ ]*/, "", $0); print; exit}')
+          message=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="message"{sub(/^message:[ ]*/, "", $0); print; exit}')
+
+          # 清理 CR
+          sceneName=$(printf "%s" "${sceneName:-}" | sed 's/\r$//')
+          x=$(printf "%s" "${x:-}" | sed 's/\r$//')
+          y=$(printf "%s" "${y:-}" | sed 's/\r$//')
+          message=$(printf "%s" "${message:-}" | sed 's/\r$//')
+
+          # 写入固定格式（严格 4 行 + 空行）
           {
-            echo ""
-            echo "-----"
-            echo "issue: #${{ github.event.issue.number }}"
-            echo "title: ${{ github.event.issue.title }}"
-            echo "created: ${{ github.event.issue.created_at }}"
-            echo ""
-            printf "%s\n" "$EXTRACTED"
+            echo "sceneName: ${sceneName}"
+            echo "x: ${x}"
+            echo "y: ${y}"
+            echo "message: ${message}"
             echo ""
           } >> "$FILE"
 
-      - name: Commit and push
-        shell: bash
-        run: |
-          set -euo pipefail
+      # 使用 PR 提交，避免 main 分支保护问题
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
+          title: "Append feedback to comments.txt from issue #${{ github.event.issue.number }}"
+          body: |
+            Auto-generated from issue #${{ github.event.issue.number }}.
+            Appended feedback in normalized format to comments.txt.
+          branch: "auto/append-comments-${{ github.event.issue.number }}"
+          delete-branch: true
+          add-paths: |
+            comments.txt
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add data/feedback.txt
-
-          # 没有变更就不提交（避免 workflow 报错）
-          git commit -m "Append feedback from issue #${{ github.event.issue.number }}" || exit 0
-          git push
-
-      - name: Comment on issue (added to file)
+      # ✅ 成功后留言
+      - name: Comment on issue
         if: ${{ success() }}
         uses: actions/github-script@v7
         with:
           script: |
-            const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/data/feedback.txt`;
-            const body = [
-              "已收录 ✅",
-              "",
-              "- 已追加写入：`data/feedback.txt`",
-              "",
-              "（此 Issue 将自动关闭，并打上 processed 标签防重复）"
-            ].join("\n");
-
+            const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/comments.txt`;
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body
+              body: [
+                "已成功处理 ✅",
+                "",
+                "",
+                "Issue 将被自动关闭"
+              ].join("\n")
             });
 
+      # ✅ 成功后打 processed 标签（防重复）
       - name: Add processed label
         if: ${{ success() }}
         uses: actions/github-script@v7
@@ -107,6 +110,7 @@ jobs:
               labels: ["processed"]
             });
 
+      # ✅ 成功后关闭 issue
       - name: Close issue
         if: ${{ success() }}
         uses: actions/github-script@v7
