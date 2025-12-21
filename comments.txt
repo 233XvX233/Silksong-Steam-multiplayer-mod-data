@@ -1,23 +1,7 @@
-
-sceneName: Bonetown
-x: 260.4245
-y: 7.567685
-message: 这里有个卡墙问题
-
-sceneName: Bonetown
-x: 260.4245
-y: 7.567685
-message: 这里有个卡墙问题
-
 sceneName: Bonetown
 x: 260.4245
 y: 7.567685
 message: 城东地铁站
-
-sceneName: Bellway_01
-x: 63.85517
-y: 9.597684
-message: 这里有个卡墙问题
 
 sceneName: Bellway_01
 x: 63.85517
