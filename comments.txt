@@ -33,3 +33,8 @@ x: 234.9511
 y: 7.567685
 message: 我真幸运！
 
+sceneName: Belltown
+x: 72.54002
+y: 7.567685
+message: 居然是菇
+
