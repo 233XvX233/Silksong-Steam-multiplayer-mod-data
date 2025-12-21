@@ -1,1 +1,6 @@
 
+sceneName: Bonetown
+x: 260.4245
+y: 7.567685
+message: 城东地铁站
+
