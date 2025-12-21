@@ -58,3 +58,8 @@ x: 140.3647
 y: 12.09968
 message: 111111111111
 
+sceneName: Bone_East_15
+x: 35,34721
+y: 53,56768
+message: hello
+
