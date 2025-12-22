@@ -268,3 +268,8 @@ x: 37.32986
 y: 32.56768
 message: omg
 
+sceneName: Tut_01b
+x: 81.51396
+y: 83.56767
+message: ：p
+
