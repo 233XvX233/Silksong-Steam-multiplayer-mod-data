@@ -453,3 +453,8 @@ x: 114.9148
 y: 50.56768
 message: Yooooo
 
+sceneName: Bonetown
+x: 239.275
+y: 7.567685
+message: dasd
+
