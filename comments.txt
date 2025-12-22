@@ -318,3 +318,8 @@ x: 16.36499
 y: 3.567686
 message: hi
 
+sceneName: Belltown_Shrine
+x: 54.5783
+y: 8.567684
+message: death to the ccp
+
