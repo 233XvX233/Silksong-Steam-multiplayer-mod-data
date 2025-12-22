@@ -263,3 +263,8 @@ x: 46.28501
 y: 21.56768
 message: jump down for a surprise
 
+sceneName: Tut_01
+x: 37.32986
+y: 32.56768
+message: omg
+
