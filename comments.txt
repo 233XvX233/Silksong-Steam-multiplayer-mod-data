@@ -273,3 +273,8 @@ x: 81.51396
 y: 83.56767
 message: ：p
 
+sceneName: Bonetown
+x: 300.9077
+y: 24.56768
+message: 波尚咔
+
