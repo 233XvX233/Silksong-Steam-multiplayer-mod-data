@@ -363,3 +363,8 @@ x: 135,9297
 y: 54,56768
 message: Oi
 
+sceneName: Bone_01c
+x: 137,2497
+y: 54,56768
+message: Se vc leu seu butão é meu
+
