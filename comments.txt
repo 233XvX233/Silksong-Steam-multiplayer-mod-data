@@ -408,3 +408,8 @@ x: 18.65928
 y: 16.56768
 message: 蚤安！
 
+sceneName: Bone_05b
+x: 56.62012
+y: 16.56768
+message: wc苔莓。。。
+
