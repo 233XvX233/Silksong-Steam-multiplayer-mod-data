@@ -158,3 +158,8 @@ x: 282.5357
 y: 7.567685
 message: 敲敲敲
 
+sceneName: Bone_East_05
+x: 13.18184
+y: 7.567685
+message: pee pee poo poo
+
