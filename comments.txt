@@ -438,3 +438,8 @@ x: 80,19315
 y: 7,567685
 message: pega cleito n jogo
 
+sceneName: Belltown
+x: 83,1881
+y: 7,567685
+message: Quem ler o butão é meu
+
