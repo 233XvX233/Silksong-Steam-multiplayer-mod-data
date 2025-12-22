@@ -158,3 +158,8 @@ x: 105,5198
 y: 5,293074
 message: GOD HELP ME
 
+sceneName: Bonetown
+x: 282.5357
+y: 7.567685
+message: 敲敲敲
+
