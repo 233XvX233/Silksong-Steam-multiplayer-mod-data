@@ -2,7 +2,7 @@ name: Append feedback issue to comments.txt (single PR)
 
 on:
   issues:
-    types: [opened, labeled, edited]
+    types: [labeled]
 
 permissions:
   contents: write
@@ -11,10 +11,10 @@ permissions:
 
 jobs:
   append:
-    if: "contains(github.event.issue.labels.*.name, 'feedback') && !contains(github.event.issue.labels.*.name, 'processed')"
+    # ✅ 只有“这次新增的标签就是 feedback”才跑；且未 processed 才跑
+    if: github.event.label.name == 'feedback' && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
 
-    # 可选：防止同一时间多次触发互相打架（同一 repo 只跑一个）
     concurrency:
       group: append-comments
       cancel-in-progress: false
@@ -67,7 +67,6 @@ jobs:
             echo ""
           } >> "$FILE"
 
-      # ✅ 永远更新同一个 PR（auto/comments）
       - name: Create or update single pull request
         id: cpr
         uses: peter-evans/create-pull-request@v6
@@ -83,7 +82,6 @@ jobs:
           add-paths: |
             comments.txt
 
-      # 可选：开启 auto-merge（需要仓库 Settings 里允许 Allow auto-merge）
       - name: Enable PR auto-merge (squash)
         if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
         uses: peter-evans/enable-pull-request-automerge@v3
