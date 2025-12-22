@@ -203,3 +203,8 @@ x: 125.9577
 y: 54.56768
 message: HIT！
 
+sceneName: Bone_01
+x: 124.5627
+y: 56.90795
+message: 这里有隐藏BRO！
+
