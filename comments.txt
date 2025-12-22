@@ -178,3 +178,8 @@ x: 67,84
 y: 72,56767
 message: AYUDA
 
+sceneName: Bone_East_17
+x: 70,54758
+y: 81,56767
+message: TROLO
+
