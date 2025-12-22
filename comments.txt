@@ -433,3 +433,8 @@ x: 73,54
 y: 7,567685
 message: EAEEEEEEEEEE
 
+sceneName: Belltown
+x: 80,19315
+y: 7,567685
+message: pega cleito n jogo
+
