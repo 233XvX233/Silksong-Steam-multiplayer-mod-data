@@ -293,3 +293,8 @@ x: 85.70604
 y: 15.61906
 message: 好吃的自助餐
 
+sceneName: Bone_East_15
+x: 35.34721
+y: 53.56768
+message: fgxfd
+
