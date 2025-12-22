@@ -218,3 +218,8 @@ x: 48.75097
 y: 9.577685
 message: 经典陷阱
 
+sceneName: Belltown_07
+x: 38.25
+y: 10.15111
+message: 上有隐藏
+
