@@ -383,3 +383,8 @@ x: 18.68005
 y: 16.56768
 message: 蚤安
 
+sceneName: Bone_10
+x: 28.59998
+y: 16.56768
+message: 怎么看不到人TT
+
