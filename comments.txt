@@ -223,3 +223,8 @@ x: 38.25
 y: 10.15111
 message: 上有隐藏
 
+sceneName: Tut_01
+x: 34.19195
+y: 32.56768
+message: peepeepoopoo
+
