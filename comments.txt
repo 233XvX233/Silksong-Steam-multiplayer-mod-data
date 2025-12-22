@@ -393,3 +393,8 @@ x: 45.97992
 y: 60.56768
 message: 啥意思
 
+sceneName: Ant_05b
+x: 47,27876
+y: 9,93781
+message: Se leu seu bobozão é meu
+
