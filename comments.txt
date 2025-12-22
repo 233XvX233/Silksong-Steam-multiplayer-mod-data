@@ -213,3 +213,8 @@ x: 62.19739
 y: 97.43991
 message: 这里往右有条路
 
+sceneName: Shellwood_02
+x: 48.75097
+y: 9.577685
+message: 经典陷阱
+
