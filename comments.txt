@@ -328,3 +328,8 @@ x: 32.74769
 y: 24.56768
 message: die
 
+sceneName: Abyss_12
+x: 22.23497
+y: 8.567684
+message: 前有无畏
+
