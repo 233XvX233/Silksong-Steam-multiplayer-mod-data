@@ -353,3 +353,8 @@ x: 106.54
 y: 75.57767
 message: HXSFGHSFH
 
+sceneName: Bone_01
+x: 111.12
+y: 59.56768
+message: GJDGSDFGJD
+
