@@ -233,3 +233,8 @@ x: 105,5198
 y: 5,293074
 message: GOD HELP ME
 
+sceneName: Bonetown
+x: 67,49001
+y: 7,567692
+message: GRAND MOTHER MOSS
+
