@@ -348,3 +348,8 @@ x: 18.80972
 y: 4.567685
 message: 前有7
 
+sceneName: Bone_01
+x: 106.54
+y: 75.57767
+message: HXSFGHSFH
+
