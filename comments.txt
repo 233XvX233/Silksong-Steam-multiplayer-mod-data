@@ -418,3 +418,8 @@ x: 45,95455
 y: 4,567685
 message: opa
 
+sceneName: Bone_East_12
+x: 85,00198
+y: 7,567685
+message: Se você leu seu bobozão é meu
+
