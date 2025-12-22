@@ -423,3 +423,8 @@ x: 85,00198
 y: 7,567685
 message: Se você leu seu bobozão é meu
 
+sceneName: Bone_East_12
+x: 90,75188
+y: 9,248167
+message: This boss bugs with 2 or more players
+
