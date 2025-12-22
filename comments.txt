@@ -188,3 +188,8 @@ x: 43,21295
 y: 4,567685
 message: IZI
 
+sceneName: Belltown_Room_pinsmith
+x: 22.89499
+y: 7.567685
+message: 磨 还是免费的磨针
+
