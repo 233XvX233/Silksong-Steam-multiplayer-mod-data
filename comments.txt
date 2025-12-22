@@ -333,3 +333,8 @@ x: 22.23497
 y: 8.567684
 message: 前有无畏
 
+sceneName: Belltown
+x: 75.2239
+y: 7.567685
+message: babo
+
