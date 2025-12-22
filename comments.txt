@@ -258,3 +258,8 @@ x: 90.40352
 y: 4.767686
 message: dfgfdg
 
+sceneName: Tut_01
+x: 46.28501
+y: 21.56768
+message: jump down for a surprise
+
