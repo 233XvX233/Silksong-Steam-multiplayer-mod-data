@@ -388,3 +388,8 @@ x: 28.59998
 y: 16.56768
 message: 怎么看不到人TT
 
+sceneName: Bone_03
+x: 45.97992
+y: 60.56768
+message: 啥意思
+
