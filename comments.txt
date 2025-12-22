@@ -173,3 +173,8 @@ x: 43.3224
 y: 25.56768
 message: Farting on my roomates door
 
+sceneName: Bone_East_17
+x: 67,84
+y: 72,56767
+message: AYUDA
+
