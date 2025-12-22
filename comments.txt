@@ -448,3 +448,8 @@ x: 90,22416
 y: 7,567685
 message: die
 
+sceneName: Bone_01
+x: 114.9148
+y: 50.56768
+message: Yooooo
+
