@@ -208,3 +208,8 @@ x: 124.5627
 y: 56.90795
 message: 这里有隐藏BRO！
 
+sceneName: Belltown_basement
+x: 62.19739
+y: 97.43991
+message: 这里往右有条路
+
