@@ -343,3 +343,8 @@ x: 18.94557
 y: 4.567685
 message: ///
 
+sceneName: Greymoor_20b
+x: 18.80972
+y: 4.567685
+message: 前有7
+
