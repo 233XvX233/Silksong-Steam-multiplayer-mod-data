@@ -19,29 +19,9 @@ y: 7.567685
 message: 好大叔！
 
 sceneName: Bonetown
-x: 294.5129
-y: 7.567685
-message: 好大叔！
-
-sceneName: Bonetown
 x: 234.9511
 y: 7.567685
 message: 我真幸运！
-
-sceneName: Bonetown
-x: 234.9511
-y: 7.567685
-message: 我真幸运！
-
-sceneName: Belltown
-x: 72.54002
-y: 7.567685
-message: 居然是菇
-
-sceneName: Belltown
-x: 72.54002
-y: 7.567685
-message: 居然是菇
 
 sceneName: Belltown
 x: 72.54002
@@ -63,16 +43,6 @@ x: 35,34721
 y: 53,56768
 message: hello
 
-sceneName: Bone_East_15
-x: 35,34721
-y: 53,56768
-message: hello
-
-sceneName: Tut_01
-x: 57.34959
-y: 4.567685
-message: ggg
-
 sceneName: Tut_01
 x: 57.34959
 y: 4.567685
@@ -87,11 +57,6 @@ sceneName: Tut_01
 x: 53.20502
 y: 4.567685
 message: hello
-
-sceneName: Tut_01
-x: 47.66219
-y: 4.567685
-message: zzzzzz
 
 sceneName: Tut_01
 x: 47.66219
@@ -128,11 +93,6 @@ x: 47.07345
 y: 7.567685
 message: help
 
-sceneName: Ant_05b
-x: 47.07345
-y: 7.567685
-message: help
-
 sceneName: Tut_01
 x: 44,19493
 y: 32,56768
@@ -143,16 +103,6 @@ x: 238,5849
 y: 7,567685
 message: KUUU
 
-sceneName: Bonetown
-x: 238,5849
-y: 7,567685
-message: KUUU
-
-sceneName: Bellway_01
-x: 67,08718
-y: 9,597684
-message: cagao
-
 sceneName: Bellway_01
 x: 67,08718
 y: 9,597684
@@ -162,16 +112,6 @@ sceneName: Tut_01
 x: 44,88997
 y: 5,45802
 message: Mateusz gdzie lobby
-
-sceneName: Tut_01
-x: 44,88997
-y: 5,45802
-message: Mateusz gdzie lobby
-
-sceneName: Tut_01
-x: 43,15951
-y: 4,567685
-message: Mateusz Gdzie Lobby
 
 sceneName: Tut_01
 x: 43,15951
@@ -184,23 +124,8 @@ y: 7,567685
 message: dash
 
 sceneName: Ant_05b
-x: 43,57945
-y: 7,567685
-message: dash
-
-sceneName: Ant_05b
 x: 29,29747
 y: 7,567686
-message: porno
-
-sceneName: Ant_05b
-x: 29,29747
-y: 7,567686
-message: porno
-
-sceneName: Bone_East_05
-x: 91,54462
-y: 13,56769
 message: porno
 
 sceneName: Bone_East_05
@@ -212,16 +137,6 @@ sceneName: Room_Forge
 x: 54,86998
 y: 32,56768
 message: Mateusz gdzie lobby
-
-sceneName: Room_Forge
-x: 54,86998
-y: 32,56768
-message: Mateusz gdzie lobby
-
-sceneName: Tut_01
-x: 42,005
-y: 4,567685
-message: GOD WAS HERE
 
 sceneName: Tut_01
 x: 42,005
@@ -232,11 +147,6 @@ sceneName: Tut_03
 x: 105,5198
 y: 5,293074
 message: GOD HELP ME
-
-sceneName: Bonetown
-x: 67,49001
-y: 7,567692
-message: GRAND MOTHER MOSS
 
 sceneName: Bonetown
 x: 67,49001
