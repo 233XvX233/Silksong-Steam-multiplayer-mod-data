@@ -378,3 +378,8 @@ x: 8,904998
 y: 33,56768
 message: hit
 
+sceneName: Bone_10
+x: 18.68005
+y: 16.56768
+message: 蚤安
+
