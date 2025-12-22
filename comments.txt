@@ -253,3 +253,8 @@ x: 54.57142
 y: 16.56768
 message: 苔莓被吞了。。。
 
+sceneName: Tut_03
+x: 90.40352
+y: 4.767686
+message: dfgfdg
+
