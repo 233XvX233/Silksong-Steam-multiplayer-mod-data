@@ -323,3 +323,8 @@ x: 54.5783
 y: 8.567684
 message: death to the ccp
 
+sceneName: Coral_Judge_Arena
+x: 32.74769
+y: 24.56768
+message: die
+
