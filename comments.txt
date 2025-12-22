@@ -288,3 +288,8 @@ x: 109.734
 y: 12.56769
 message: 臭臭
 
+sceneName: Shadow_18
+x: 85.70604
+y: 15.61906
+message: 好吃的自助餐
+
