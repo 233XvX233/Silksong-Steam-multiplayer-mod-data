@@ -218,3 +218,8 @@ x: 54,86998
 y: 32,56768
 message: Mateusz gdzie lobby
 
+sceneName: Tut_01
+x: 42,005
+y: 4,567685
+message: GOD WAS HERE
+
