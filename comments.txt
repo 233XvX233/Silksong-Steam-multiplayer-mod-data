@@ -428,3 +428,8 @@ x: 90,75188
 y: 9,248167
 message: This boss bugs with 2 or more players
 
+sceneName: Belltown
+x: 73,54
+y: 7,567685
+message: EAEEEEEEEEEE
+
