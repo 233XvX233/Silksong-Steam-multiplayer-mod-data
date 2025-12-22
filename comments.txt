@@ -228,3 +228,8 @@ x: 42,005
 y: 4,567685
 message: GOD WAS HERE
 
+sceneName: Tut_03
+x: 105,5198
+y: 5,293074
+message: GOD HELP ME
+
