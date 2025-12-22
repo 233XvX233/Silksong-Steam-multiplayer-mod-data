@@ -198,3 +198,8 @@ x: 70.72501
 y: 8.392395
 message: 你说钟心镇二楼是什么意思？
 
+sceneName: Bone_01
+x: 125.9577
+y: 54.56768
+message: HIT！
+
