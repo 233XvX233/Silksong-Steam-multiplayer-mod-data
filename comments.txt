@@ -238,3 +238,8 @@ x: 67,49001
 y: 7,567692
 message: GRAND MOTHER MOSS
 
+sceneName: Bonetown
+x: 67,49001
+y: 7,567692
+message: GRAND MOTHER MOSS
+
