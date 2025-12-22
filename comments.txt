@@ -313,3 +313,8 @@ x: 58.49167
 y: 7.567685
 message: babo
 
+sceneName: Belltown_04
+x: 16.36499
+y: 3.567686
+message: hi
+
