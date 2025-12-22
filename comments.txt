@@ -368,3 +368,8 @@ x: 137,2497
 y: 54,56768
 message: Se vc leu seu butão é meu
 
+sceneName: Mosstown_02
+x: 4,779998
+y: 33,56768
+message: Bro
+
