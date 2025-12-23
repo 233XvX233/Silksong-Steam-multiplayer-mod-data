@@ -788,3 +788,8 @@ x: 26,77812
 y: 6,567685
 message: dadadadadadadadawssssssssssssdsadadaddadaadadadadwssasdaddsaadwdsadadwsaads
 
+sceneName: Ant_04_left
+x: 25,29934
+y: 6,567685
+message: cheddar is cool
+
