@@ -558,3 +558,8 @@ x: 21.20437
 y: 51.25081
 message: hphphphphphphphph
 
+sceneName: Belltown
+x: 48.30306
+y: 7.567685
+message: Babo
+
