@@ -723,3 +723,8 @@ x: 25.37398
 y: 15.56769
 message: 到此一游
 
+sceneName: Coral_12
+x: 64.57806
+y: 7.624696
+message: 地图姐我爱你
+
