@@ -783,3 +783,8 @@ x: 27,95997
 y: 4,567685
 message: COOL
 
+sceneName: Ant_04_left
+x: 26,77812
+y: 6,567685
+message: dadadadadadadadawssssssssssssdsadadaddadaadadadadwssasdaddsaadwdsadadwsaads
+
