@@ -573,3 +573,8 @@ x: 119.6504
 y: 7.567685
 message: 这里真美
 
+sceneName: Belltown_04
+x: 27.30935
+y: 4.567685
+message: what
+
