@@ -758,3 +758,8 @@ x: 71.35181
 y: 7.567685
 message: same lmao
 
+sceneName: Belltown
+x: 75.02081
+y: 7.567685
+message: i also think they didnt silk the song enough
+
