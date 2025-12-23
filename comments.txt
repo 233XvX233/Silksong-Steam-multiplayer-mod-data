@@ -543,3 +543,8 @@ x: 63.77625
 y: 38.56768
 message: 有隐藏
 
+sceneName: Bone_06
+x: 91.06133
+y: 3.567686
+message: byd人呢
+
