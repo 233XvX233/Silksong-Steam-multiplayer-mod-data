@@ -498,3 +498,8 @@ x: 9.87
 y: 12.56769
 message: sj
 
+sceneName: Bonetown
+x: 298.3692
+y: 24.56768
+message: ai lai lai lai oooo sharoh
+
