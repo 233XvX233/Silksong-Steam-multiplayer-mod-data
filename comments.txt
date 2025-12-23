@@ -648,3 +648,8 @@ x: 33.98716
 y: 7.133746
 message: 小鱼
 
+sceneName: Ant_04_left
+x: 32.89988
+y: 6.567685
+message: 谁放的闪
+
