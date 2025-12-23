@@ -563,3 +563,8 @@ x: 48.30306
 y: 7.567685
 message: Babo
 
+sceneName: Halfway_01
+x: 30.11009
+y: 4.567685
+message: aaa
+
