@@ -778,3 +778,8 @@ x: 35,89996
 y: 4,567685
 message: pon
 
+sceneName: Halfway_01
+x: 27,95997
+y: 4,567685
+message: COOL
+
