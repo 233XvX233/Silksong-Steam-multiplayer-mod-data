@@ -773,3 +773,8 @@ x: 88,35307
 y: 7,567685
 message: GGS
 
+sceneName: Halfway_01
+x: 35,89996
+y: 4,567685
+message: pon
+
