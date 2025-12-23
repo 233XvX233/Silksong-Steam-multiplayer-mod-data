@@ -738,3 +738,8 @@ x: 50.195
 y: 16.56768
 message: 苔莓可以坐火刷新一个
 
+sceneName: Bone_East_04b
+x: 10.155
+y: 95.56767
+message: Herro!
+
