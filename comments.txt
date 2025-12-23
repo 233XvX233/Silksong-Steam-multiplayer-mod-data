@@ -508,3 +508,8 @@ x: 32.78699
 y: 96.56767
 message: eyla !!!
 
+sceneName: Tut_01
+x: 45.49991
+y: 4.567685
+message: 아니
+
