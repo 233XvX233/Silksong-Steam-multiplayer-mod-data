@@ -473,3 +473,8 @@ x: 76.1701
 y: 35.56768
 message: 还可以留言诶！
 
+sceneName: Bonetown
+x: 235.8102
+y: 7.567685
+message: 我真幸运！
+
