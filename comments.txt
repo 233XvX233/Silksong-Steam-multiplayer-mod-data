@@ -743,3 +743,8 @@ x: 10.155
 y: 95.56767
 message: Herro!
 
+sceneName: Bone_East_04b
+x: 10.16
+y: 95.56767
+message: hiiiiii
+
