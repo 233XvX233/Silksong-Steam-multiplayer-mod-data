@@ -503,3 +503,8 @@ x: 298.3692
 y: 24.56768
 message: ai lai lai lai oooo sharoh
 
+sceneName: Belltown_basement
+x: 32.78699
+y: 96.56767
+message: eyla !!!
+
