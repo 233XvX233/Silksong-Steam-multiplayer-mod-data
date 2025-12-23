@@ -623,3 +623,8 @@ x: 80.79012
 y: 35.56768
 message: 前有绝境
 
+sceneName: Tut_01b
+x: 74.02509
+y: 35.56768
+message: 这啥
+
