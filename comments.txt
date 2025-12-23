@@ -583,3 +583,8 @@ x: 21.64584
 y: 118.5677
 message: hello
 
+sceneName: Peak_01
+x: 29.37132
+y: 180.5677
+message: 加油啊主播！
+
