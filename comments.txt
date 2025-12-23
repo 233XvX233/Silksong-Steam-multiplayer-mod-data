@@ -748,3 +748,8 @@ x: 10.16
 y: 95.56767
 message: hiiiiii
 
+sceneName: Halfway_01
+x: 34.0298
+y: 4.567685
+message: I JUST DIED BRUH AND I CAME FROM MOUNT FAY ;-;
+
