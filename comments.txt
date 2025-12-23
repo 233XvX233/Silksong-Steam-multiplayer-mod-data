@@ -608,3 +608,8 @@ x: 74.52009
 y: 35.56768
 message: aa
 
+sceneName: Ant_04_left
+x: 34.24453
+y: 6.567685
+message: 救我
+
