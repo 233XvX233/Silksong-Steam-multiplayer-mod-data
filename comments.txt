@@ -673,3 +673,8 @@ x: 21.63445
 y: 4.567685
 message: 前有惊喜
 
+sceneName: Bone_East_12
+x: 89.81004
+y: 7.567685
+message: 8888
+
