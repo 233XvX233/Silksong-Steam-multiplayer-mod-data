@@ -538,3 +538,8 @@ x: 16.01929
 y: 16.56769
 message: 蚤安
 
+sceneName: Bone_10
+x: 63.77625
+y: 38.56768
+message: 有隐藏
+
