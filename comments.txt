@@ -593,3 +593,8 @@ x: 22.63602
 y: 4.567685
 message: 123
 
+sceneName: Bellshrine
+x: 24.96097
+y: 4.567685
+message: 5666
+
