@@ -683,3 +683,8 @@ x: 89.81003
 y: 7.567685
 message: 6666
 
+sceneName: Bone_East_12
+x: 92.97243
+y: 7.567685
+message: 傻逼
+
