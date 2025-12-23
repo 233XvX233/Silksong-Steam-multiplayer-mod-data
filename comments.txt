@@ -478,3 +478,8 @@ x: 235.8102
 y: 7.567685
 message: 我真幸运！
 
+sceneName: Bonetown
+x: 233.6389
+y: 7.567685
+message: 我真幸运，我真幸运！
+
