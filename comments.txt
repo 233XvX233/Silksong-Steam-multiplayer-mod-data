@@ -493,3 +493,8 @@ x: 236.4707
 y: 13.0384
 message: 我真幸运！
 
+sceneName: Coral_32
+x: 9.87
+y: 12.56769
+message: sj
+
