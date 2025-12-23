@@ -553,3 +553,8 @@ x: 21.20437
 y: 51.25081
 message: 111hp
 
+sceneName: Bone_07
+x: 21.20437
+y: 51.25081
+message: hphphphphphphphph
+
