@@ -663,3 +663,8 @@ x: 36.24694
 y: 17.56768
 message: 胜利啊！胜利！
 
+sceneName: Bone_East_12
+x: 104.5881
+y: 7.567685
+message: 666
+
