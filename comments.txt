@@ -638,3 +638,8 @@ x: 46.5386
 y: 4.567685
 message: 耗子好帅
 
+sceneName: Bonetown
+x: 303.615
+y: 7.567685
+message: 哈哈哈
+
