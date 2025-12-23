@@ -568,3 +568,8 @@ x: 30.11009
 y: 4.567685
 message: aaa
 
+sceneName: Bonetown
+x: 119.6504
+y: 7.567685
+message: 这里真美
+
