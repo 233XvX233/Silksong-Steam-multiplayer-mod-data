@@ -753,3 +753,8 @@ x: 34.0298
 y: 4.567685
 message: I JUST DIED BRUH AND I CAME FROM MOUNT FAY ;-;
 
+sceneName: Belltown
+x: 71.35181
+y: 7.567685
+message: same lmao
+
