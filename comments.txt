@@ -678,3 +678,8 @@ x: 89.81004
 y: 7.567685
 message: 8888
 
+sceneName: Bone_East_12
+x: 89.81003
+y: 7.567685
+message: 6666
+
