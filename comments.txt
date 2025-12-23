@@ -588,3 +588,8 @@ x: 29.37132
 y: 180.5677
 message: 加油啊主播！
 
+sceneName: Bellshrine
+x: 22.63602
+y: 4.567685
+message: 123
+
