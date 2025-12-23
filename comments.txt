@@ -548,3 +548,8 @@ x: 91.06133
 y: 3.567686
 message: byd人呢
 
+sceneName: Bone_07
+x: 21.20437
+y: 51.25081
+message: 111hp
+
