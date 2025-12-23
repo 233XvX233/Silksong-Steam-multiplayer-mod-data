@@ -708,3 +708,8 @@ x: 63.04003
 y: 9.597686
 message: 、、、
 
+sceneName: Belltown_Shrine
+x: 64,50967
+y: 11,01958
+message: nigger
+
