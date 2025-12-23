@@ -613,3 +613,8 @@ x: 34.24453
 y: 6.567685
 message: 救我
 
+sceneName: Bone_East_15
+x: 35.34721
+y: 53.97768
+message: 你好
+
