@@ -463,3 +463,8 @@ x: 392,5
 y: 1001
 message: fsefsf
 
+sceneName: Belltown_Shrine
+x: 45.98531
+y: 8.567684
+message: GLORY TO THE CCP
+
