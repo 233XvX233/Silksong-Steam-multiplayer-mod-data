@@ -943,3 +943,8 @@ x: 52.98995
 y: 4.567685
 message: 嗷嗷嗷
 
+sceneName: Tut_01
+x: 11.40354
+y: 97.56769
+message: 前有boss
+
