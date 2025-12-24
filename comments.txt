@@ -993,3 +993,8 @@ x: 79.47012
 y: 35.56768
 message: 巨大宝箱
 
+sceneName: Bone_East_20
+x: 147.0484
+y: 19.56768
+message: 碎片！
+
