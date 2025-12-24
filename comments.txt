@@ -818,3 +818,8 @@ x: 25,65504
 y: 23,56768
 message: sadadas
 
+sceneName: Bone_08
+x: 16,96307
+y: 23,56768
+message: EU AMO MAMA
+
