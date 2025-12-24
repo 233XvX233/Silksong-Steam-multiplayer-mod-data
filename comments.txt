@@ -883,3 +883,8 @@ x: 9.336504
 y: 3.567686
 message: disc
 
+sceneName: Tut_01
+x: 55.25471
+y: 4.567685
+message: 右边有隐藏房间
+
