@@ -988,3 +988,8 @@ x: 95.51878
 y: 23.56768
 message: 嗷呜~
 
+sceneName: Tut_01b
+x: 79.47012
+y: 35.56768
+message: 巨大宝箱
+
