@@ -958,3 +958,8 @@ x: 67.49995
 y: 7.567685
 message: 噶啦吗
 
+sceneName: Bone_01c
+x: 133.3224
+y: 54.56768
+message: 小心巨石
+
