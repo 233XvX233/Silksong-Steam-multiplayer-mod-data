@@ -1088,3 +1088,8 @@ x: 64.80497
 y: 96.56887
 message: 종 진짜 짜증나네
 
+sceneName: Belltown_basement
+x: 29.28216
+y: 96.56046
+message: EIRA~!!!
+
