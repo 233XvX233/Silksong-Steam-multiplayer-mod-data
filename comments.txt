@@ -983,3 +983,8 @@ x: 86.12
 y: 3.567686
 message: 左边左边左边
 
+sceneName: Bone_06
+x: 95.51878
+y: 23.56768
+message: 嗷呜~
+
