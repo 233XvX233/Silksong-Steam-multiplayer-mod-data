@@ -1063,3 +1063,8 @@ x: 34.27662
 y: 17.56768
 message: shut up nerds im better
 
+sceneName: Bone_10
+x: 30.91997
+y: 16.56768
+message: 벼룩좋아
+
