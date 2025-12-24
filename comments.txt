@@ -878,3 +878,8 @@ x: 52.76912
 y: 90.69466
 message: Fuck you
 
+sceneName: Mosstown_02c
+x: 9.336504
+y: 3.567686
+message: disc
+
