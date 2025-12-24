@@ -1023,3 +1023,8 @@ x: 28.42071
 y: 105.5847
 message: 你好
 
+sceneName: Bone_East_05
+x: 99.94585
+y: 13.56769
+message: 一起跳舞吧
+
