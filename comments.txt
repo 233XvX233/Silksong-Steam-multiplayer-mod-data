@@ -1098,3 +1098,8 @@ x: 41.3155
 y: 24.56768
 message: test
 
+sceneName: Bone_09
+x: 111,842
+y: 9,567685
+message: хуй
+
