@@ -828,3 +828,8 @@ x: 20,97498
 y: 55,56768
 message: ~AMO MAMA
 
+sceneName: Ant_02
+x: 20,13497
+y: 4,567685
+message: AMO MAMA
+
