@@ -1078,3 +1078,8 @@ x: 27.76447
 y: 96.56046
 message: EIRA!
 
+sceneName: Belltown_basement
+x: 34.24097
+y: 96.56767
+message: EIRA!
+
