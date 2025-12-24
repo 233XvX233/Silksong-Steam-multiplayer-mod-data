@@ -808,3 +808,8 @@ x: 46,62029
 y: 4,567685
 message: fg
 
+sceneName: Bone_12
+x: 39,29375
+y: 4,567685
+message: Henrique gosta de homens
+
