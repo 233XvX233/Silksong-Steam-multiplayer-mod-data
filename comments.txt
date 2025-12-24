@@ -953,3 +953,8 @@ x: 84.41536
 y: 17.56768
 message: 前有boss
 
+sceneName: Bonetown
+x: 67.49995
+y: 7.567685
+message: 噶啦吗
+
