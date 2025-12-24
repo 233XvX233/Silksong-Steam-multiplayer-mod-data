@@ -1033,3 +1033,8 @@ x: 16.80493
 y: 7.567685
 message: 하이
 
+sceneName: Bone_01
+x: 17.81499
+y: 7.567685
+message: 앙앙앙
+
