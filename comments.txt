@@ -1118,3 +1118,8 @@ x: 113,92
 y: 3,567686
 message: zalupa
 
+sceneName: Bone_East_09
+x: 7.264993
+y: 24.56768
+message: HEYA
+
