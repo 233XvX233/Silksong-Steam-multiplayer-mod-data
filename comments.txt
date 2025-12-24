@@ -868,3 +868,8 @@ x: 83.38886
 y: 83.56767
 message: Fuck you
 
+sceneName: Tut_01
+x: 54.24485
+y: 88.56767
+message: rock paper scissors
+
