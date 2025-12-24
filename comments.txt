@@ -1038,3 +1038,8 @@ x: 17.81499
 y: 7.567685
 message: 앙앙앙
 
+sceneName: Song_19_entrance
+x: 53.88598
+y: 50.5031
+message: 此有隐藏
+
