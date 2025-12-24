@@ -813,3 +813,8 @@ x: 39,29375
 y: 4,567685
 message: Henrique gosta de homens
 
+sceneName: Bone_08
+x: 25,65504
+y: 23,56768
+message: sadadas
+
