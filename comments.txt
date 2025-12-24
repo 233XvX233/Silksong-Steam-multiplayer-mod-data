@@ -1053,3 +1053,8 @@ x: 30,10941
 y: 17,56768
 message: my wife sucks me off all night
 
+sceneName: Tut_03
+x: 17.94169
+y: 17.56768
+message: maxy is my malewife
+
