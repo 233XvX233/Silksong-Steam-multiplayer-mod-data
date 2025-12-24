@@ -833,3 +833,8 @@ x: 20,13497
 y: 4,567685
 message: AMO MAMA
 
+sceneName: Mosstown_02c
+x: 43.19539
+y: 3.567686
+message: hey
+
