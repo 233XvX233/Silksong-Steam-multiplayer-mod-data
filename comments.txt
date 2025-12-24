@@ -963,3 +963,8 @@ x: 133.3224
 y: 54.56768
 message: 小心巨石
 
+sceneName: Mosstown_02c
+x: 38.02729
+y: 3.567686
+message: 进锅里面可以回血
+
