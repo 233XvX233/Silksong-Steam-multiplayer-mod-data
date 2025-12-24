@@ -1013,3 +1013,8 @@ x: 188.944
 y: 15.56222
 message: 右下有钱
 
+sceneName: Mosstown_01
+x: 35.71992
+y: 21.56768
+message: 右边有钱
+
