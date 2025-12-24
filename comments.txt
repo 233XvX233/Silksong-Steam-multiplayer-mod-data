@@ -1058,3 +1058,8 @@ x: 17.94169
 y: 17.56768
 message: maxy is my malewife
 
+sceneName: Tut_03
+x: 34.27662
+y: 17.56768
+message: shut up nerds im better
+
