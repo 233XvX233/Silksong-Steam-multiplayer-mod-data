@@ -948,3 +948,8 @@ x: 11.40354
 y: 97.56769
 message: 前有boss
 
+sceneName: Tut_03
+x: 84.41536
+y: 17.56768
+message: 前有boss
+
