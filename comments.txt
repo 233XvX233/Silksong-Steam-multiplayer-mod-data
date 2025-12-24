@@ -1018,3 +1018,8 @@ x: 35.71992
 y: 21.56768
 message: 右边有钱
 
+sceneName: Memory_Silk_Heart_BellBeast
+x: 28.42071
+y: 105.5847
+message: 你好
+
