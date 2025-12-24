@@ -843,3 +843,8 @@ x: 40.55538
 y: 3.567686
 message: boobs
 
+sceneName: Mosstown_02
+x: 157.6951
+y: 33.56768
+message: boobs
+
