@@ -803,3 +803,8 @@ x: 79.9884
 y: 7.567685
 message: who up silking they song
 
+sceneName: Bone_12
+x: 46,62029
+y: 4,567685
+message: fg
+
