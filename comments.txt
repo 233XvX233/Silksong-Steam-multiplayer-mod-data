@@ -1008,3 +1008,8 @@ x: 57.07
 y: 7.567685
 message: 甲沟炎犯了
 
+sceneName: Bone_04
+x: 188.944
+y: 15.56222
+message: 右下有钱
+
