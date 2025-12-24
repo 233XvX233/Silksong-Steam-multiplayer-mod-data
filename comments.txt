@@ -913,3 +913,8 @@ x: 102.0076
 y: 16.56768
 message: 你做到了
 
+sceneName: Bone_01
+x: 10.225
+y: 7.567683
+message: 打语音吗？
+
