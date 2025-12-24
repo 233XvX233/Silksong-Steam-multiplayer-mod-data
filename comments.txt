@@ -1103,3 +1103,8 @@ x: 111,842
 y: 9,567685
 message: хуй
 
+sceneName: Bonetown
+x: 235.4801
+y: 9.585767
+message: hola cielito
+
