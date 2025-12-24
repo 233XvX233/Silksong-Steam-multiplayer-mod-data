@@ -863,3 +863,8 @@ x: 55.10999
 y: 41.56768
 message: 这有隐藏
 
+sceneName: Tut_01b
+x: 83.38886
+y: 83.56767
+message: Fuck you
+
