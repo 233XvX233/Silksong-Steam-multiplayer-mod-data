@@ -1093,3 +1093,8 @@ x: 29.28216
 y: 96.56046
 message: EIRA~!!!
 
+sceneName: Coral_Judge_Arena
+x: 41.3155
+y: 24.56768
+message: test
+
