@@ -823,3 +823,8 @@ x: 16,96307
 y: 23,56768
 message: EU AMO MAMA
 
+sceneName: Bone_08
+x: 20,97498
+y: 55,56768
+message: ~AMO MAMA
+
