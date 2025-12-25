@@ -1258,3 +1258,8 @@ x: 73.69508
 y: 88.56767
 message: aa
 
+sceneName: Tut_01b
+x: 70.82385
+y: 88.56769
+message: awdasd
+
