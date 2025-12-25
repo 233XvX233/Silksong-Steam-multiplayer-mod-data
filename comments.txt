@@ -1203,3 +1203,8 @@ x: 48.41959
 y: 9.567685
 message: 前有地图
 
+sceneName: Peak_01
+x: 5.143061
+y: 250.5677
+message: 胜利
+
