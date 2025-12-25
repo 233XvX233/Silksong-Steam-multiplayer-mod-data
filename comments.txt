@@ -1113,3 +1113,8 @@ x: 26,86492
 y: 4,567685
 message: cu
 
+sceneName: Bellshrine
+x: 13,33499
+y: 5,186783
+message: ting... ting.... ting... thong!!!
+
