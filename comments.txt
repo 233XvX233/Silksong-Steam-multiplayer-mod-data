@@ -1508,3 +1508,8 @@ x: 56,22282
 y: 35,56768
 message: sziasztok cigányok
 
+sceneName: Tut_01b
+x: 88,87517
+y: 35,56768
+message: cigany
+
