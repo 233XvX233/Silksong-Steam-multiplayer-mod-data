@@ -1313,3 +1313,8 @@ x: 59.65999
 y: 7.567685
 message: 嘎啦玛
 
+sceneName: Bone_05
+x: 83.68851
+y: 3.567686
+message: 小狗
+
