@@ -1388,3 +1388,8 @@ x: 25.84598
 y: 4.567685
 message: XIXI
 
+sceneName: Bonetown
+x: 232.6393
+y: 7.567685
+message: 梦开始的地方
+
