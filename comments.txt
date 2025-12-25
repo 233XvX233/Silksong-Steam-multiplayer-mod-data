@@ -1343,3 +1343,8 @@ x: 59.28194
 y: 14.56769
 message: gay asf
 
+sceneName: Library_13
+x: 61.57064
+y: 14.56764
+message: help
+
