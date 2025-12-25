@@ -1253,3 +1253,8 @@ x: 45.93291
 y: 96.56767
 message: eraa!!
 
+sceneName: Tut_01b
+x: 73.69508
+y: 88.56767
+message: aa
+
