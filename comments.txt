@@ -1193,3 +1193,8 @@ x: 85.52857
 y: 15.61906
 message: sus
 
+sceneName: Shadow_18
+x: 81.94056
+y: 15.61906
+message: 皇家水道競技場
+
