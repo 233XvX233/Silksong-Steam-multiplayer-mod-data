@@ -1603,3 +1603,8 @@ x: 243.304
 y: 7.408124
 message: yo
 
+sceneName: Bonetown
+x: 249.1068
+y: 7.567685
+message: wsg
+
