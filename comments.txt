@@ -1473,3 +1473,8 @@ x: 10.48204
 y: 97.56767
 message: penis
 
+sceneName: Halfway_01
+x: 23.338
+y: 4.567685
+message: i like boobs
+
