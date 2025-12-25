@@ -1148,3 +1148,8 @@ x: 34.58324
 y: 15.62002
 message: 此处 下面有隐藏路径
 
+sceneName: Bone_09
+x: 107.289
+y: 9.567684
+message: bitch
+
