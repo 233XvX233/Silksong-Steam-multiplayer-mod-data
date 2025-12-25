@@ -1188,3 +1188,8 @@ x: 47.23759
 y: 21.32998
 message: EEE
 
+sceneName: Shadow_18
+x: 85.52857
+y: 15.61906
+message: sus
+
