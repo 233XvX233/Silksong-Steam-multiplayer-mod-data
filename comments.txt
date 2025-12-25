@@ -673,36 +673,6 @@ x: 21.63445
 y: 4.567685
 message: 前有惊喜
 
-sceneName: Bone_East_12
-x: 89.81004
-y: 7.567685
-message: 8888
-
-sceneName: Bone_East_12
-x: 89.81003
-y: 7.567685
-message: 6666
-
-sceneName: Bone_East_12
-x: 92.97243
-y: 7.567685
-message: 傻逼
-
-sceneName: Bone_East_12
-x: 91.46658
-y: 7.567685
-message: 666
-
-sceneName: Bone_East_12
-x: 90.53639
-y: 7.567686
-message: 66666666666666
-
-sceneName: Bone_East_12
-x: 97.47794
-y: 7.567685
-message: 666666666666666666666666666666666666666
-
 sceneName: Bellway_01
 x: 63.04003
 y: 9.597686
