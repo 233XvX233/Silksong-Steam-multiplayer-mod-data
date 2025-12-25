@@ -1483,3 +1483,8 @@ x: 22.9127
 y: 4.567685
 message: i like booty
 
+sceneName: Tut_01
+x: 43,65495
+y: 4,567685
+message: хуй
+
