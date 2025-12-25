@@ -1573,3 +1573,8 @@ x: 38.355
 y: 32.56768
 message: i lost my wife and my childrens but this game saved my life and this is my everything so please everyone promote this game i hope this game will be game of the year and not some kind of ai slop game
 
+sceneName: Bone_East_15
+x: 16.84728
+y: 53.56768
+message: frog
+
