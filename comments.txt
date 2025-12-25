@@ -1543,3 +1543,8 @@ x: 14,73394
 y: 4,567685
 message: xd
 
+sceneName: Tut_01b
+x: 77.67365
+y: 35.56768
+message: يا خبللي
+
