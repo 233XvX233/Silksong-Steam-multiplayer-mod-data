@@ -1433,3 +1433,8 @@ x: 16.93795
 y: 7.567685
 message: 듀듀듀
 
+sceneName: Bone_01
+x: 20.89793
+y: 7.567685
+message: 듀듀듀
+
