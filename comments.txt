@@ -1533,3 +1533,8 @@ x: 42.93496
 y: 7.570685
 message: lava ahead
 
+sceneName: Bone_02
+x: 45,90498
+y: 7,570685
+message: ez itt silksong
+
