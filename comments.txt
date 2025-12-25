@@ -1453,3 +1453,8 @@ x: 67.4
 y: 7.567685
 message: 嘎了嘎了
 
+sceneName: Tut_01
+x: 44.1948
+y: 4.567685
+message: 咕咕嘎嘎
+
