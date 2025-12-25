@@ -1318,3 +1318,8 @@ x: 83.68851
 y: 3.567686
 message: 小狗
 
+sceneName: Bone_05
+x: 84.67853
+y: 3.567686
+message: GGGGGGGGG
+
