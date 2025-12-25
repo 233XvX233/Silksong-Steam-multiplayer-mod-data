@@ -1273,3 +1273,8 @@ x: 36.73363
 y: 90.56767
 message: WOWOW
 
+sceneName: Tut_01
+x: 36.05227
+y: 4.567685
+message: dawdad
+
