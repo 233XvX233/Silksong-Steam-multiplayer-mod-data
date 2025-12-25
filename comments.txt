@@ -1528,3 +1528,8 @@ x: 21,72627
 y: 17,56768
 message: I hate niggers
 
+sceneName: Bone_02
+x: 42.93496
+y: 7.570685
+message: lava ahead
+
