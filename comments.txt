@@ -1503,3 +1503,8 @@ x: 67,48996
 y: 7,567685
 message: я пидорас
 
+sceneName: Tut_01
+x: 56,22282
+y: 35,56768
+message: sziasztok cigányok
+
