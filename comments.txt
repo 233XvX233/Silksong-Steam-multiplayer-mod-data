@@ -1128,3 +1128,8 @@ x: 85,63799
 y: 4,567685
 message: start digging in your butt twin
 
+sceneName: Mosstown_01
+x: 71,76929
+y: 4,567685
+message: Hornets silky nipples
+
