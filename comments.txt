@@ -1178,3 +1178,8 @@ x: 94.16908
 y: 50.56768
 message: 前方 准备好战斗
 
+sceneName: Ant_05b
+x: 48.42019
+y: 7.567685
+message: sdnsjkdlnsdflkjdfnv
+
