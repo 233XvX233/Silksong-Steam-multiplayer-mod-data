@@ -1333,3 +1333,8 @@ x: 3.420175
 y: 3.817686
 message: 裡面有怪人
 
+sceneName: Bone_02
+x: 3.817657
+y: 7.567685
+message: behiyou
+
