@@ -1548,3 +1548,8 @@ x: 77.67365
 y: 35.56768
 message: يا خبللي
 
+sceneName: Song_18
+x: 16.48
+y: 57.98868
+message: enable
+
