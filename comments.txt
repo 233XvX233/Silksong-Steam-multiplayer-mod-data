@@ -1183,3 +1183,8 @@ x: 48.42019
 y: 7.567685
 message: sdnsjkdlnsdflkjdfnv
 
+sceneName: Shadow_18
+x: 47.23759
+y: 21.32998
+message: EEE
+
