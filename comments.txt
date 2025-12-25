@@ -1383,3 +1383,8 @@ x: 136.73
 y: 38.56768
 message: 111
 
+sceneName: Bellshrine
+x: 25.84598
+y: 4.567685
+message: XIXI
+
