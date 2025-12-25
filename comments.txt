@@ -1598,3 +1598,8 @@ x: 226.2173
 y: 7.572043
 message: lol
 
+sceneName: Bonetown
+x: 243.304
+y: 7.408124
+message: yo
+
