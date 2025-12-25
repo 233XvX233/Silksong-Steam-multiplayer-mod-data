@@ -1268,3 +1268,8 @@ x: 32.77361
 y: 90.56767
 message: omg
 
+sceneName: Tut_01
+x: 36.73363
+y: 90.56767
+message: WOWOW
+
