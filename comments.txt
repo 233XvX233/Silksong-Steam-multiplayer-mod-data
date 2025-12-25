@@ -1373,3 +1373,8 @@ x: 99,31313
 y: 25,56768
 message: ты хуйло
 
+sceneName: Greymoor_22
+x: 74,50928
+y: 25,56768
+message: pidr
+
