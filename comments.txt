@@ -1108,3 +1108,8 @@ x: 25,21493
 y: 4,567685
 message: pinto
 
+sceneName: Bellshrine
+x: 26,86492
+y: 4,567685
+message: cu
+
