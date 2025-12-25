@@ -1538,3 +1538,8 @@ x: 22.97143
 y: 21.56768
 message: nooooo
 
+sceneName: Bone_07
+x: 14,73394
+y: 4,567685
+message: xd
+
