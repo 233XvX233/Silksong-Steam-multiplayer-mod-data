@@ -1588,3 +1588,8 @@ x: 53.86488
 y: 13.56769
 message: اا
 
+sceneName: Tut_01
+x: 39,98495
+y: 90,56767
+message: pisun
+
