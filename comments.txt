@@ -1478,3 +1478,8 @@ x: 23.338
 y: 4.567685
 message: i like boobs
 
+sceneName: Halfway_01
+x: 22.9127
+y: 4.567685
+message: i like booty
+
