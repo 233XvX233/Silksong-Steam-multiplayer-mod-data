@@ -1103,3 +1103,8 @@ x: 95.58041
 y: 7.567685
 message: WHY
 
+sceneName: Bellshrine
+x: 25,21493
+y: 4,567685
+message: pinto
+
