@@ -1538,3 +1538,8 @@ x: 45,90498
 y: 7,570685
 message: ez itt silksong
 
+sceneName: Bone_18
+x: 22.97143
+y: 21.56768
+message: nooooo
+
