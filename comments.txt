@@ -1208,3 +1208,8 @@ x: 5.143061
 y: 250.5677
 message: 胜利
 
+sceneName: Abyss_Cocoon
+x: 18.49306
+y: 6.365186
+message: 小小蕾丝，拿捏
+
