@@ -1443,3 +1443,8 @@ x: 99,62008
 y: 3,567686
 message: -a
 
+sceneName: Bone_10
+x: 31.73497
+y: 16.56743
+message: 蚤安
+
