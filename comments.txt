@@ -1288,3 +1288,8 @@ x: 76.40525
 y: 17.56768
 message: enddeous
 
+sceneName: Bonetown
+x: 65.88996
+y: 7.567687
+message: fuck you sunfall
+
