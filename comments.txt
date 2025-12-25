@@ -1238,3 +1238,8 @@ x: 18.98005
 y: 68.56767
 message: 留言
 
+sceneName: Belltown_Shrine
+x: 51.80001
+y: 8.567684
+message: retards were here
+
