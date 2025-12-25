@@ -1303,3 +1303,8 @@ x: 83.14648
 y: 3.567686
 message: ow
 
+sceneName: Belltown_basement
+x: 41.16468
+y: 96.56767
+message: BABAYAGA
+
