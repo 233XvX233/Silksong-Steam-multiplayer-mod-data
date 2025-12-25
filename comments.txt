@@ -1098,3 +1098,8 @@ x: 116,7224
 y: 7,567685
 message: ALOU
 
+sceneName: Bone_East_12
+x: 95.58041
+y: 7.567685
+message: WHY
+
