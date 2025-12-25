@@ -1578,3 +1578,8 @@ x: 16.84728
 y: 53.56768
 message: frog
 
+sceneName: Bone_04
+x: 61.28992
+y: 13.56769
+message: رلاةلل تلتل
+
