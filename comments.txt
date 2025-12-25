@@ -1458,3 +1458,8 @@ x: 44.1948
 y: 4.567685
 message: 咕咕嘎嘎
 
+sceneName: Ant_04_mid
+x: 190.4869
+y: 12.56769
+message: nice
+
