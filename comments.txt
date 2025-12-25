@@ -1173,3 +1173,8 @@ x: 50.65738
 y: 7.567685
 message: HELPPPPPPPPPPPPP
 
+sceneName: Bone_01
+x: 94.16908
+y: 50.56768
+message: 前方 准备好战斗
+
