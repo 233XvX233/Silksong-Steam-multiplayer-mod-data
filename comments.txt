@@ -1423,3 +1423,8 @@ x: 61.89893
 y: 13.56769
 message: 波尚卡！
 
+sceneName: Mosstown_02
+x: 10.8079
+y: 33.56767
+message: 左边有隐藏
+
