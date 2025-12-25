@@ -1218,3 +1218,8 @@ x: 254.0657
 y: 70.56767
 message: 讨厌跳跳乐
 
+sceneName: Peak_07
+x: 11.1
+y: 6.897685
+message: 是火啊
+
