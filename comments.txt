@@ -1293,3 +1293,8 @@ x: 65.88996
 y: 7.567687
 message: fuck you sunfall
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567685
+message: nigger
+
