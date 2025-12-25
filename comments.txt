@@ -1118,3 +1118,8 @@ x: 13,33499
 y: 5,186783
 message: ting... ting.... ting... thong!!!
 
+sceneName: Tut_01b
+x: 88.49393
+y: 83.56767
+message: I LOVE HER
+
