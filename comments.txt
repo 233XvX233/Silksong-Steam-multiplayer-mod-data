@@ -1248,3 +1248,8 @@ x: 34.59661
 y: 4.567685
 message: bbb
 
+sceneName: Belltown_basement
+x: 45.93291
+y: 96.56767
+message: eraa!!
+
