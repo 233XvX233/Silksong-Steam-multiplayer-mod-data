@@ -1143,3 +1143,8 @@ x: 197.5514
 y: 72.56767
 message: jump!
 
+sceneName: Tut_02
+x: 34.58324
+y: 15.62002
+message: 此处 下面有隐藏路径
+
