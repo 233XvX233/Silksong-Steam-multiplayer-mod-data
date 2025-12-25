@@ -1298,3 +1298,8 @@ x: 67.4
 y: 7.567685
 message: nigger
 
+sceneName: Bone_05
+x: 83.14648
+y: 3.567686
+message: ow
+
