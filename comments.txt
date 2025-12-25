@@ -1323,3 +1323,8 @@ x: 84.67853
 y: 3.567686
 message: GGGGGGGGG
 
+sceneName: Weave_04
+x: 7.429998
+y: 93.56767
+message: GAY
+
