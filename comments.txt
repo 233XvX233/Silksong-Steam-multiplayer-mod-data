@@ -1328,3 +1328,8 @@ x: 7.429998
 y: 93.56767
 message: GAY
 
+sceneName: Mosstown_02c
+x: 3.420175
+y: 3.817686
+message: 裡面有怪人
+
