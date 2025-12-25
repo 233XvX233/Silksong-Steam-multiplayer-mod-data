@@ -1158,3 +1158,8 @@ x: 27.07493
 y: 7.567685
 message: Nig
 
+sceneName: Dock_08
+x: 59.35757
+y: 7.567685
+message: knee
+
