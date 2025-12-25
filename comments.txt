@@ -1353,3 +1353,8 @@ x: 37.97987
 y: 4.567685
 message: wa
 
+sceneName: Dust_10
+x: 59.94008
+y: 15.43769
+message: 绝望的录像
+
