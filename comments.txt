@@ -1498,3 +1498,8 @@ x: 60,14865
 y: 88,56767
 message: я гей
 
+sceneName: Bonetown
+x: 67,48996
+y: 7,567685
+message: я пидорас
+
