@@ -1123,3 +1123,8 @@ x: 7.264993
 y: 24.56768
 message: HEYA
 
+sceneName: Bonetown
+x: 116,7224
+y: 7,567685
+message: ALOU
+
