@@ -1308,3 +1308,8 @@ x: 41.16468
 y: 96.56767
 message: BABAYAGA
 
+sceneName: Bonetown
+x: 59.65999
+y: 7.567685
+message: 嘎啦玛
+
