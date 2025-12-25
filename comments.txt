@@ -1223,3 +1223,8 @@ x: 11.1
 y: 6.897685
 message: 是火啊
 
+sceneName: Belltown_Shrine
+x: 47.20297
+y: 10.25655
+message: what heck
+
