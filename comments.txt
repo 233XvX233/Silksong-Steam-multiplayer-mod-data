@@ -1448,3 +1448,8 @@ x: 31.73497
 y: 16.56743
 message: 蚤安
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567685
+message: 嘎了嘎了
+
