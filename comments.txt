@@ -1758,3 +1758,8 @@ x: 57.67303
 y: 33.56768
 message: gx
 
+sceneName: Bone_05
+x: 64.90015
+y: 6.567686
+message: 当驯兽师的时候到了
+
