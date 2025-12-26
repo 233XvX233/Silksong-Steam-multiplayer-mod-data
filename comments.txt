@@ -1858,3 +1858,8 @@ x: 22.59295
 y: 4.567685
 message: ye
 
+sceneName: Halfway_01
+x: 18.13797
+y: 4.567685
+message: lc
+
