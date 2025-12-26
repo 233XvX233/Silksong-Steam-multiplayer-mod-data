@@ -1643,3 +1643,8 @@ x: 74.99004
 y: 7.567685
 message: hello wsg
 
+sceneName: Bonetown
+x: 80.10507
+y: 7.567685
+message: dwygdywg
+
