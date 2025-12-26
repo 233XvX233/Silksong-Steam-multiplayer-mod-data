@@ -1983,3 +1983,8 @@ x: 167.8741
 y: 7.567685
 message: I sparkle
 
+sceneName: Bone_10
+x: 61.95274
+y: 38.56768
+message: BREAK THIS!
+
