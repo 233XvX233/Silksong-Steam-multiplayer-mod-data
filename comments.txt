@@ -1703,3 +1703,8 @@ x: 84.97667
 y: 3.567686
 message: GGGGGGG
 
+sceneName: Bone_05
+x: 85.295
+y: 3.567686
+message: 啊~好好好好狗啊~~~~
+
