@@ -1613,3 +1613,8 @@ x: 50.565
 y: 4.567685
 message: fjkgkgk
 
+sceneName: Bone_East_11
+x: 30.1314
+y: 25.60523
+message: pure vessel likes men
+
