@@ -1653,3 +1653,8 @@ x: 25,07738
 y: 4,567685
 message: EU ODEIO NEGRO
 
+sceneName: Greymoor_20b
+x: 25,18909
+y: 4,567685
+message: amo o fip fop
+
