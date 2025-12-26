@@ -1608,3 +1608,8 @@ x: 249.1068
 y: 7.567685
 message: wsg
 
+sceneName: Tut_01
+x: 50.565
+y: 4.567685
+message: fjkgkgk
+
