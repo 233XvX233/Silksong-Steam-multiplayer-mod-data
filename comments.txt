@@ -1823,3 +1823,8 @@ x: 48.905
 y: 4.567685
 message: قبش
 
+sceneName: Ant_05b
+x: 54.09638
+y: 7.567685
+message: do it by yourself
+
