@@ -2098,3 +2098,8 @@ x: 14.89603
 y: 4.567685
 message: hello
 
+sceneName: Bellshrine
+x: 18.52601
+y: 4.567685
+message: Kys
+
