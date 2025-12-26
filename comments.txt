@@ -1873,3 +1873,8 @@ x: 38.98243
 y: 4.567685
 message: adadad
 
+sceneName: Belltown_basement_03
+x: 93.25169
+y: 102.5677
+message: 钟心寺铃幽子
+
