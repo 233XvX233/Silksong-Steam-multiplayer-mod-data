@@ -1908,3 +1908,8 @@ x: 22.35263
 y: 91.62363
 message: hu
 
+sceneName: Bonetown
+x: 71.05426
+y: 7.567685
+message: test
+
