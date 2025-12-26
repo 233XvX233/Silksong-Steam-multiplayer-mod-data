@@ -1888,3 +1888,8 @@ x: 88.651
 y: 8.567684
 message: 前有头目
 
+sceneName: Organ_01
+x: 68.265
+y: 17.50999
+message: 上有椅子
+
