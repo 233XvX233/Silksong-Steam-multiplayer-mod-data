@@ -1723,3 +1723,8 @@ x: 23.62488
 y: 32.56768
 message: 率东南是sb
 
+sceneName: Bonetown
+x: 66.64915
+y: 7.567685
+message: 律动难是sb
+
