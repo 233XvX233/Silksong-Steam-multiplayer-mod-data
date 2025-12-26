@@ -1748,3 +1748,8 @@ x: 96.32001
 y: 7.654428
 message: bug重灾区
 
+sceneName: Tut_01
+x: 41.42969
+y: 4.567685
+message: 嘿嘿嘿
+
