@@ -2073,3 +2073,8 @@ x: 63,91001
 y: 7,567685
 message: BOIII
 
+sceneName: Bone_East_12
+x: 93,70638
+y: 7,567685
+message: VERY BUG MENS
+
