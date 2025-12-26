@@ -1853,3 +1853,8 @@ x: 33.05316
 y: 4.567686
 message: how to turn these comments off...
 
+sceneName: Halfway_01
+x: 22.59295
+y: 4.567685
+message: ye
+
