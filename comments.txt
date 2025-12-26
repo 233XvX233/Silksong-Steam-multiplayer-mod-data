@@ -1728,3 +1728,8 @@ x: 66.64915
 y: 7.567685
 message: 律动难是sb
 
+sceneName: Belltown_Shrine
+x: 50.86349
+y: 8.567685
+message: widow ur cooked
+
