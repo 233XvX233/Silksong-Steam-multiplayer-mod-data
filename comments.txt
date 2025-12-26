@@ -2113,3 +2113,8 @@ x: 9.874999
 y: 69.56767
 message: Boobies
 
+sceneName: Tut_01
+x: 50,38231
+y: 4,567685
+message: dcfdfds
+
