@@ -1693,3 +1693,8 @@ x: 65.16396
 y: 7.567685
 message: 小谢尔玛
 
+sceneName: Bone_05
+x: 84.10866
+y: 3.567686
+message: 啊~好好好好狗啊~lllllll
+
