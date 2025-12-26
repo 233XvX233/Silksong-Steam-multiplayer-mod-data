@@ -1753,3 +1753,8 @@ x: 41.42969
 y: 4.567685
 message: 嘿嘿嘿
 
+sceneName: Greymoor_03
+x: 57.67303
+y: 33.56768
+message: gx
+
