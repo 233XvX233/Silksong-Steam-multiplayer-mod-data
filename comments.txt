@@ -2033,3 +2033,8 @@ x: 29.55221
 y: 53.56768
 message: my dad got it on this bench right here
 
+sceneName: Ant_05b
+x: 56,66984
+y: 7,567685
+message: stop
+
