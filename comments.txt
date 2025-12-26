@@ -1898,3 +1898,8 @@ x: 30,89439
 y: 20,6596
 message: hi
 
+sceneName: Bone_East_07
+x: 34.80093
+y: 9.56834
+message: 此有隐藏道路
+
