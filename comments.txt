@@ -2103,3 +2103,8 @@ x: 18.52601
 y: 4.567685
 message: Kys
 
+sceneName: Bone_06
+x: 69.67999
+y: 5.567685
+message: smelly
+
