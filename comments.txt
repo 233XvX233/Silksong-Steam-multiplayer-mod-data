@@ -1638,3 +1638,8 @@ x: 70,16235
 y: 7,567685
 message: radwolf entero gay
 
+sceneName: Bonetown
+x: 74.99004
+y: 7.567685
+message: hello wsg
+
