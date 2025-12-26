@@ -2053,3 +2053,8 @@ x: 37,36476
 y: 7,567685
 message: very easy
 
+sceneName: Ant_03
+x: 44.08002
+y: 69.56769
+message: AWOO\
+
