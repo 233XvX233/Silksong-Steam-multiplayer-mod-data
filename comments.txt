@@ -1733,3 +1733,8 @@ x: 50.86349
 y: 8.567685
 message: widow ur cooked
 
+sceneName: Bone_03
+x: 16.12599
+y: 36.59231
+message: sb吕东♂
+
