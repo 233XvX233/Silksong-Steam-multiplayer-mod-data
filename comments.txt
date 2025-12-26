@@ -2088,3 +2088,8 @@ x: 95.57553
 y: 12.06769
 message: how the fuck did u get here
 
+sceneName: Bone_East_20
+x: 92.27667
+y: 16.56768
+message: if you want to get inside then bash yourself against the ground very hard
+
