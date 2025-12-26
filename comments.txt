@@ -2008,3 +2008,8 @@ x: 34.655
 y: 4.567685
 message: you found craft metal cool yay
 
+sceneName: Bone_07
+x: 34.75118
+y: 4.567685
+message: RUN.
+
