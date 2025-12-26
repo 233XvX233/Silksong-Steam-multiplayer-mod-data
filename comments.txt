@@ -1828,3 +1828,8 @@ x: 54.09638
 y: 7.567685
 message: do it by yourself
 
+sceneName: Tut_01
+x: 41.415
+y: 4.567685
+message: 哇哦
+
