@@ -1973,3 +1973,8 @@ x: 267.3647
 y: 7.567685
 message: 内有大狗
 
+sceneName: Bone_01c
+x: 168.7416
+y: 7.567685
+message: here lies the sparkley one
+
