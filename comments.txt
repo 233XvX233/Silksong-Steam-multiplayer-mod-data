@@ -1948,3 +1948,8 @@ x: 44.555
 y: 7.863246
 message: 에이라 ~~ ㅋㅋ
 
+sceneName: Bone_East_15
+x: 35,34721
+y: 53,97768
+message: пупупу
+
