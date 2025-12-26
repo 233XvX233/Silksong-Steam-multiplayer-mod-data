@@ -1903,3 +1903,8 @@ x: 34.80093
 y: 9.56834
 message: 此有隐藏道路
 
+sceneName: Cog_04
+x: 22.35263
+y: 91.62363
+message: hu
+
