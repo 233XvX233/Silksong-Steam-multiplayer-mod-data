@@ -1648,3 +1648,8 @@ x: 80.10507
 y: 7.567685
 message: dwygdywg
 
+sceneName: Greymoor_20b
+x: 25,07738
+y: 4,567685
+message: EU ODEIO NEGRO
+
