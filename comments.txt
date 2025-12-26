@@ -1878,3 +1878,8 @@ x: 93.25169
 y: 102.5677
 message: 钟心寺铃幽子
 
+sceneName: Belltown_basement_03
+x: 92.67977
+y: 102.5677
+message: 钟心镇铃幽子
+
