@@ -2068,3 +2068,8 @@ x: 140.9706
 y: 99.56767
 message: BREAK HERE!
 
+sceneName: Bonetown
+x: 63,91001
+y: 7,567685
+message: BOIII
+
