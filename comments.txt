@@ -1623,3 +1623,8 @@ x: 47.24244
 y: 34.56768
 message: sunfall is gay
 
+sceneName: Ant_19
+x: 50.66821
+y: 38.89166
+message: pure vessel likes men
+
