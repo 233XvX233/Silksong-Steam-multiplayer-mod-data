@@ -1968,3 +1968,8 @@ x: 63,87487
 y: 4,567685
 message: gozei
 
+sceneName: Bonetown
+x: 267.3647
+y: 7.567685
+message: 内有大狗
+
