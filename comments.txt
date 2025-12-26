@@ -1893,3 +1893,8 @@ x: 68.265
 y: 17.50999
 message: 上有椅子
 
+sceneName: Tut_02
+x: 30,89439
+y: 20,6596
+message: hi
+
