@@ -2038,3 +2038,8 @@ x: 56,66984
 y: 7,567685
 message: stop
 
+sceneName: Bone_East_04b
+x: 19,02716
+y: 86,56767
+message: olá
+
