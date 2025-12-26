@@ -2043,3 +2043,8 @@ x: 19,02716
 y: 86,56767
 message: olá
 
+sceneName: Bone_East_15
+x: 5,13229
+y: 55,58723
+message: nunca jogue isso com seu amogo
+
