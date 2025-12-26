@@ -2118,3 +2118,8 @@ x: 50,38231
 y: 4,567685
 message: dcfdfds
 
+sceneName: Tut_01
+x: 50,08955
+y: 4,567685
+message: hola
+
