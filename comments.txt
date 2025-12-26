@@ -1843,3 +1843,8 @@ x: 52.88591
 y: 34.56768
 message: im gay
 
+sceneName: Coral_Judge_Arena
+x: 37.13781
+y: 24.56768
+message: 。。
+
