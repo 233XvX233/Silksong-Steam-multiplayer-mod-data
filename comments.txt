@@ -1663,3 +1663,8 @@ x: 23,48496
 y: 4,567685
 message: eu irei gozar em todooooooossss
 
+sceneName: Greymoor_20b
+x: 26,23846
+y: 4,567685
+message: penis
+
