@@ -1688,3 +1688,8 @@ x: 27,63499
 y: 4,567685
 message: gozei
 
+sceneName: Bone_01
+x: 65.16396
+y: 7.567685
+message: 小谢尔玛
+
