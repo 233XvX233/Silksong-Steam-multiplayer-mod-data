@@ -1838,3 +1838,8 @@ x: 51.93097
 y: 34.56767
 message: i am ggay
 
+sceneName: Ant_19
+x: 52.88591
+y: 34.56768
+message: im gay
+
