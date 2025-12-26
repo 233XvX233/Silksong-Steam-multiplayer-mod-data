@@ -1993,3 +1993,8 @@ x: 122.0637
 y: 9.567685
 message: Lava down here
 
+sceneName: Bone_02
+x: 121.3897
+y: 9.567685
+message: LAVAA
+
