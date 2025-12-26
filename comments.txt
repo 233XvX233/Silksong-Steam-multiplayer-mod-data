@@ -1883,3 +1883,8 @@ x: 92.67977
 y: 102.5677
 message: 钟心镇铃幽子
 
+sceneName: Shellwood_20
+x: 88.651
+y: 8.567684
+message: 前有头目
+
