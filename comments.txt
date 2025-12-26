@@ -1743,3 +1743,8 @@ x: 86.55525
 y: 83.59782
 message: 我姐是人
 
+sceneName: Bone_East_12
+x: 96.32001
+y: 7.654428
+message: bug重灾区
+
