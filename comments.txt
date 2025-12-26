@@ -1988,3 +1988,8 @@ x: 61.95274
 y: 38.56768
 message: BREAK THIS!
 
+sceneName: Bone_02
+x: 122.0637
+y: 9.567685
+message: Lava down here
+
