@@ -1683,3 +1683,8 @@ x: 29,72554
 y: 4,567685
 message: SEEEXO
 
+sceneName: Greymoor_20b
+x: 27,63499
+y: 4,567685
+message: gozei
+
