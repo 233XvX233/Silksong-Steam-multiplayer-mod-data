@@ -1978,3 +1978,8 @@ x: 168.7416
 y: 7.567685
 message: here lies the sparkley one
 
+sceneName: Bone_01c
+x: 167.8741
+y: 7.567685
+message: I sparkle
+
