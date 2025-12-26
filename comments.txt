@@ -1738,3 +1738,8 @@ x: 16.12599
 y: 36.59231
 message: sb吕东♂
 
+sceneName: Tut_01b
+x: 86.55525
+y: 83.59782
+message: 我姐是人
+
