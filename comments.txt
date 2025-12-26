@@ -2078,3 +2078,8 @@ x: 93,70638
 y: 7,567685
 message: VERY BUG MENS
 
+sceneName: Bone_East_20
+x: 97.55554
+y: 16.56768
+message: there is nothing here lol
+
