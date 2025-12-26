@@ -2028,3 +2028,8 @@ x: 28.47987
 y: 6.567685
 message: go on... take a seat
 
+sceneName: Bone_East_15
+x: 29.55221
+y: 53.56768
+message: my dad got it on this bench right here
+
