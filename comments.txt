@@ -2083,3 +2083,8 @@ x: 97.55554
 y: 16.56768
 message: there is nothing here lol
 
+sceneName: Bone_East_20
+x: 95.57553
+y: 12.06769
+message: how the fuck did u get here
+
