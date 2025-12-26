@@ -1933,3 +1933,8 @@ x: 39.97857
 y: 34.56768
 message: sa
 
+sceneName: Bone_East_12
+x: 101.8874
+y: 7.567685
+message: 666
+
