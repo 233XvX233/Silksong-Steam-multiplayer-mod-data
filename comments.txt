@@ -2058,3 +2058,8 @@ x: 44.08002
 y: 69.56769
 message: AWOO\
 
+sceneName: Coral_02
+x: 31.28094
+y: 62.56768
+message: RAAAAAAAAAAAAHHHHH
+
