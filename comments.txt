@@ -2093,3 +2093,8 @@ x: 92.27667
 y: 16.56768
 message: if you want to get inside then bash yourself against the ground very hard
 
+sceneName: Bellshrine
+x: 14.89603
+y: 4.567685
+message: hello
+
