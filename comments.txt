@@ -2003,3 +2003,8 @@ x: 98.13203
 y: 23.56768
 message: awoooooo :3
 
+sceneName: Bone_07
+x: 34.655
+y: 4.567685
+message: you found craft metal cool yay
+
