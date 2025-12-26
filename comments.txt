@@ -1803,3 +1803,8 @@ x: 19.15498
 y: 36.59231
 message: 左有工具
 
+sceneName: Bonetown
+x: 244.7197
+y: 7.567685
+message: 果然是悲剧......
+
