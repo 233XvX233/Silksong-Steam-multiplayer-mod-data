@@ -2498,3 +2498,8 @@ x: 43.53986
 y: 21.56768
 message: 此处三十念珠
 
+sceneName: Bonetown
+x: 288.9303
+y: 7.567685
+message: 200多人联机到此一游
+
