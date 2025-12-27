@@ -2783,3 +2783,8 @@ x: 88.23002
 y: 7.567685
 message: 卡在对话了
 
+sceneName: Bone_East_05
+x: 19.93365
+y: 27.31248
+message: 跳蚤在上面
+
