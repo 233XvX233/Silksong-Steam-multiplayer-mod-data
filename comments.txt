@@ -2708,3 +2708,8 @@ x: 62.95497
 y: 33.56768
 message: ht
 
+sceneName: Bone_05
+x: 91.01523
+y: 3.567686
+message: 是陷阱啊！快跑！
+
