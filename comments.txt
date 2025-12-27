@@ -2158,3 +2158,8 @@ x: 62.4239
 y: 9.597684
 message: OK
 
+sceneName: Ant_05b
+x: 54,93934
+y: 7,567685
+message: muito bugado
+
