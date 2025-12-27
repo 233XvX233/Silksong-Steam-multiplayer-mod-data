@@ -2183,3 +2183,8 @@ x: 50.20502
 y: 135.5677
 message: 欢迎来到第三幕
 
+sceneName: Memory_Silk_Heart_BellBeast
+x: 25.72071
+y: 105.5847
+message: 飞起来
+
