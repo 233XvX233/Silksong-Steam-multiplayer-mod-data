@@ -2138,3 +2138,8 @@ x: 85.31769
 y: 3.567686
 message: we are charlie kirk
 
+sceneName: Bone_03
+x: 13,51941
+y: 36,59231
+message: nunca jogue com seus amigos
+
