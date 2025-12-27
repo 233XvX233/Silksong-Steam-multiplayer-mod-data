@@ -2593,3 +2593,8 @@ x: 253.6759
 y: 7.567686
 message: 好卡啊
 
+sceneName: Bonetown
+x: 253.6759
+y: 7.567681
+message: 好卡啊
+
