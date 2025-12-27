@@ -2663,3 +2663,8 @@ x: 86.00275
 y: 37.39582
 message: 咕咕嘎嘎
 
+sceneName: Bone_01
+x: 87.273
+y: 37.5463
+message: 我是高玩
+
