@@ -2478,3 +2478,8 @@ x: 67.4
 y: 7.567685
 message: 嘎啦嘛您内
 
+sceneName: Tut_01
+x: 35.57887
+y: 4.567685
+message: 你好
+
