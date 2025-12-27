@@ -2828,3 +2828,8 @@ x: 50.4
 y: 4.567685
 message: hola
 
+sceneName: Tut_02
+x: 133.5057
+y: 11.56769
+message: hola
+
