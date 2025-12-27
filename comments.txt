@@ -2268,3 +2268,8 @@ x: 16.00001
 y: 32.56768
 message: 你好
 
+sceneName: Tut_02
+x: 99.49751
+y: 9.567685
+message: HI
+
