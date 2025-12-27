@@ -2533,3 +2533,8 @@ x: 48.84789
 y: 17.56768
 message: 何意味
 
+sceneName: Bonetown
+x: 74.33253
+y: 7.567685
+message: 大家好
+
