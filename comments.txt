@@ -2628,3 +2628,8 @@ x: 106.7951
 y: 23.56768
 message: 陷阱
 
+sceneName: Bone_01
+x: 103.8101
+y: 23.56768
+message: 哦，不
+
