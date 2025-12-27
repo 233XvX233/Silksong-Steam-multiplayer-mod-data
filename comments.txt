@@ -2623,3 +2623,8 @@ x: 104.598
 y: 23.56768
 message: 中计了
 
+sceneName: Bone_01
+x: 106.7951
+y: 23.56768
+message: 陷阱
+
