@@ -2223,3 +2223,8 @@ x: 43.90497
 y: 4.567685
 message: 看不到人
 
+sceneName: Tut_01
+x: 34.74813
+y: 4.567685
+message: hi
+
