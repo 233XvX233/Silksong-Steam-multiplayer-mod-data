@@ -2543,3 +2543,8 @@ x: 51.25307
 y: 17.56768
 message: 人们人呢
 
+sceneName: Tut_03
+x: 73.15644
+y: 17.56768
+message: he yi wei
+
