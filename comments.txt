@@ -2738,3 +2738,8 @@ x: 85.13551
 y: 3.569935
 message: 前有苔藓冲锋者
 
+sceneName: Chapel_Wanderer
+x: 46.83664
+y: 81.56767
+message: 救命
+
