@@ -2148,3 +2148,8 @@ x: 36,2709
 y: 21,56768
 message: nihao
 
+sceneName: Bellshrine
+x: 24,88494
+y: 4,567685
+message: nihao
+
