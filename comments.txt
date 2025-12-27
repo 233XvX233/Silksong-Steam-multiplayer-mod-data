@@ -2603,3 +2603,8 @@ x: 256.2071
 y: 7.567685
 message: hi
 
+sceneName: Bone_01
+x: 95.81327
+y: 23.56768
+message: 快来
+
