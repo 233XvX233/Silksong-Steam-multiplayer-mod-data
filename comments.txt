@@ -2678,3 +2678,8 @@ x: 51.25995
 y: 202.5677
 message: bvbv
 
+sceneName: Bone_01
+x: 84.87526
+y: 33.33302
+message: 又掉进陷阱了？
+
