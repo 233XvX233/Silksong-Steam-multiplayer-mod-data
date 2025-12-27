@@ -2548,3 +2548,8 @@ x: 73.15644
 y: 17.56768
 message: he yi wei
 
+sceneName: Bone_01
+x: 93.9487
+y: 28.56003
+message: 人没来齐故没怪
+
