@@ -2173,3 +2173,8 @@ x: 32.94
 y: 9.567685
 message: XD
 
+sceneName: Shadow_18
+x: 89.12802
+y: 15.61906
+message: 对面的墙往上爬可以补丝
+
