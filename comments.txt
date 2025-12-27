@@ -2308,3 +2308,8 @@ x: 42.69694
 y: 17.56768
 message: 大孜然我们怎么办
 
+sceneName: Bonetown
+x: 67.49001
+y: 7.567687
+message: galama
+
