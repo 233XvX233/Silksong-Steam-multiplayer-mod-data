@@ -2578,3 +2578,8 @@ x: 254.7843
 y: 7.567685
 message: 冲刺
 
+sceneName: Tut_01
+x: 24.76339
+y: 32.56768
+message: zzzz
+
