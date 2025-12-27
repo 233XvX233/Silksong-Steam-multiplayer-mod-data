@@ -2483,3 +2483,8 @@ x: 35.57887
 y: 4.567685
 message: 你好
 
+sceneName: Bone_01
+x: 102.8501
+y: 23.56696
+message: 有陷阱！
+
