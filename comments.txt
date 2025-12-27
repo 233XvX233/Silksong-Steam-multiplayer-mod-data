@@ -2413,3 +2413,8 @@ x: 41.20546
 y: 4.567685
 message: hi
 
+sceneName: Tut_01
+x: 33.48117
+y: 4.567685
+message: 你好
+
