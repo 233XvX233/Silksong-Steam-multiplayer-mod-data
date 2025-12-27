@@ -2793,3 +2793,8 @@ x: 67.4
 y: 7.567693
 message: xtl
 
+sceneName: Coral_19b
+x: 60.265
+y: 48.56768
+message: 111
+
