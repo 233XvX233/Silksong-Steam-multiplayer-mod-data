@@ -2653,3 +2653,8 @@ x: 97.41161
 y: 19.42862
 message: 自杀是哪个
 
+sceneName: Bonetown
+x: 243.4803
+y: 7.567685
+message: 欸你怎么似了
+
