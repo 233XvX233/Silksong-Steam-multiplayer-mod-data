@@ -2473,3 +2473,8 @@ x: 32.39734
 y: 4.567685
 message: 在这等吗
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567685
+message: 嘎啦嘛您内
+
