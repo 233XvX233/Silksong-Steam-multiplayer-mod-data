@@ -2313,3 +2313,8 @@ x: 67.49001
 y: 7.567687
 message: galama
 
+sceneName: Tut_03
+x: 66.05206
+y: 17.56768
+message: 大孜然我们怎么办
+
