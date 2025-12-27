@@ -2168,3 +2168,8 @@ x: 91.77756
 y: 7.567685
 message: sdads
 
+sceneName: Bone_East_07
+x: 32.94
+y: 9.567685
+message: XD
+
