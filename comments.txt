@@ -2583,3 +2583,8 @@ x: 24.76339
 y: 32.56768
 message: zzzz
 
+sceneName: Bonetown
+x: 255.9858
+y: 7.567685
+message: 好卡啊
+
