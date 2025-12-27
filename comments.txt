@@ -2778,3 +2778,8 @@ x: 85.22999
 y: 7.567685
 message: 动不了了
 
+sceneName: Bone_East_12
+x: 88.23002
+y: 7.567685
+message: 卡在对话了
+
