@@ -2143,3 +2143,8 @@ x: 13,51941
 y: 36,59231
 message: nunca jogue com seus amigos
 
+sceneName: Mosstown_01
+x: 36,2709
+y: 21,56768
+message: nihao
+
