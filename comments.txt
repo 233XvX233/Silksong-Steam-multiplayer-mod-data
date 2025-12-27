@@ -2788,3 +2788,8 @@ x: 19.93365
 y: 27.31248
 message: 跳蚤在上面
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567693
+message: xtl
+
