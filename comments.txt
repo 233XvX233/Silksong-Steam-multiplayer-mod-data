@@ -2163,3 +2163,8 @@ x: 54,93934
 y: 7,567685
 message: muito bugado
 
+sceneName: Bone_East_12
+x: 91.77756
+y: 7.567685
+message: sdads
+
