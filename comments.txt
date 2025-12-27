@@ -2803,3 +2803,8 @@ x: 48,70991
 y: 4,567685
 message: фвававав
 
+sceneName: Bonetown
+x: 299.2267
+y: 7.567685
+message: 看得到吗
+
