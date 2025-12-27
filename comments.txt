@@ -2838,3 +2838,8 @@ x: 75.31995
 y: 9.567685
 message: 前有大运
 
+sceneName: Bone_East_17b
+x: 82.02144
+y: 29.56768
+message: awoooooooooooo :3
+
