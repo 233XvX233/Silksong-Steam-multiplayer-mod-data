@@ -2343,3 +2343,8 @@ x: 58.2381
 y: 17.56768
 message: F6留言
 
+sceneName: Tut_03
+x: 53.61808
+y: 17.56768
+message: F6留言
+
