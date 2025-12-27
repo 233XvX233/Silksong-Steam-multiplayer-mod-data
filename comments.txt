@@ -2133,3 +2133,8 @@ x: 238.78
 y: 7.827684
 message: Mi madre es pistolera
 
+sceneName: Bone_06
+x: 85.31769
+y: 3.567686
+message: we are charlie kirk
+
