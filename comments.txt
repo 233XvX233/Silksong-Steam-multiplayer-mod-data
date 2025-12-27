@@ -2808,3 +2808,8 @@ x: 299.2267
 y: 7.567685
 message: 看得到吗
 
+sceneName: Bonetown
+x: 243.3998
+y: 7.567685
+message: qwq
+
