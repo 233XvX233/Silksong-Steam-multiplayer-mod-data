@@ -2648,3 +2648,8 @@ x: 91.35953
 y: 50.56768
 message: da dao sha
 
+sceneName: Bone_01
+x: 97.41161
+y: 19.42862
+message: 自杀是哪个
+
