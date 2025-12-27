@@ -2743,3 +2743,8 @@ x: 46.83664
 y: 81.56767
 message: 救命
 
+sceneName: Bone_05
+x: 72.6059
+y: 3.567686
+message: 加我steam?
+
