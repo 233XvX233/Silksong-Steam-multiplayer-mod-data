@@ -2718,3 +2718,8 @@ x: 92.72004
 y: 3.567686
 message: 我做到了！
 
+sceneName: Tut_01
+x: 25.21121
+y: 77.56769
+message: bowling
+
