@@ -2753,3 +2753,8 @@ x: 115.2169
 y: 46.56768
 message: 111
 
+sceneName: Bone_19
+x: 126.409
+y: 16.61027
+message: 前有宝箱
+
