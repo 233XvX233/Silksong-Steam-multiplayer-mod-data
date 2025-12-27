@@ -2723,3 +2723,8 @@ x: 25.21121
 y: 77.56769
 message: bowling
 
+sceneName: Bone_04
+x: 14.46503
+y: 18.56768
+message: 你怎么睡着了
+
