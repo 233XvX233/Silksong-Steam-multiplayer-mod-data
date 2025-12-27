@@ -2273,3 +2273,8 @@ x: 99.49751
 y: 9.567685
 message: HI
 
+sceneName: Tut_02
+x: 130.35
+y: 48.5188
+message: 敌人不动正常吗
+
