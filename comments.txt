@@ -2813,3 +2813,8 @@ x: 243.3998
 y: 7.567685
 message: qwq
 
+sceneName: Bone_01
+x: 29.51345
+y: 8.567684
+message: qwq
+
