@@ -2773,3 +2773,8 @@ x: 23.96996
 y: 55.56768
 message: 前有龙牙哥
 
+sceneName: Bone_East_12
+x: 85.22999
+y: 7.567685
+message: 动不了了
+
