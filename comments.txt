@@ -2673,3 +2673,8 @@ x: 55.50505
 y: 13.56769
 message: 啵尚咔！
 
+sceneName: Coral_03
+x: 51.25995
+y: 202.5677
+message: bvbv
+
