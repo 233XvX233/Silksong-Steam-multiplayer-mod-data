@@ -2608,3 +2608,8 @@ x: 95.81327
 y: 23.56768
 message: 快来
 
+sceneName: Bone_01
+x: 88.80813
+y: 29.31502
+message: 没怪啊
+
