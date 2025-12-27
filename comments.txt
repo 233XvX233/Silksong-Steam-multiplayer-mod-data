@@ -2643,3 +2643,8 @@ x: 92.41964
 y: 23.40812
 message: 没有房主
 
+sceneName: Bone_01
+x: 91.35953
+y: 50.56768
+message: da dao sha
+
