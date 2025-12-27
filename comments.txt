@@ -2668,3 +2668,8 @@ x: 87.273
 y: 37.5463
 message: 我是高玩
 
+sceneName: Bone_04
+x: 55.50505
+y: 13.56769
+message: 啵尚咔！
+
