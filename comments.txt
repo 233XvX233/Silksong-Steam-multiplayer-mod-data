@@ -2728,3 +2728,8 @@ x: 14.46503
 y: 18.56768
 message: 你怎么睡着了
 
+sceneName: Chapel_Wanderer
+x: 46.83664
+y: 81.56767
+message: 被大汉强奸了
+
