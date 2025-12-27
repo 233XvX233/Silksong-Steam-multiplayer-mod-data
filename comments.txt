@@ -2848,3 +2848,8 @@ x: 23.25497
 y: 40.56768
 message: 看得到吗
 
+sceneName: Tut_01
+x: 47.03378
+y: 4.567685
+message: go right4
+
