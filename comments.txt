@@ -2218,3 +2218,8 @@ x: 100.08
 y: 3.567686
 message: Pigeon Stinky
 
+sceneName: Tut_01
+x: 43.90497
+y: 4.567685
+message: 看不到人
+
