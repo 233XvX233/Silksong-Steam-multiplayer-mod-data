@@ -2128,3 +2128,8 @@ x: 105.7599
 y: 9.567685
 message: gay
 
+sceneName: Bonetown
+x: 238.78
+y: 7.827684
+message: Mi madre es pistolera
+
