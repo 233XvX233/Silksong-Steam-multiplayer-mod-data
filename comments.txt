@@ -2818,3 +2818,8 @@ x: 29.51345
 y: 8.567684
 message: qwq
 
+sceneName: Bone_01
+x: 98.89922
+y: 23.56696
+message: 为什么下不去
+
