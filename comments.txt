@@ -2823,3 +2823,8 @@ x: 98.89922
 y: 23.56696
 message: 为什么下不去
 
+sceneName: Tut_01
+x: 50.4
+y: 4.567685
+message: hola
+
