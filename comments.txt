@@ -2748,3 +2748,8 @@ x: 72.6059
 y: 3.567686
 message: 加我steam?
 
+sceneName: Tut_02
+x: 115.2169
+y: 46.56768
+message: 111
+
