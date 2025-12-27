@@ -2408,3 +2408,8 @@ x: 20.5787
 y: 7.567685
 message: 。。
 
+sceneName: Tut_01
+x: 41.20546
+y: 4.567685
+message: hi
+
