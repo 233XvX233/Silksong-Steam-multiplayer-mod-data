@@ -3143,3 +3143,8 @@ x: 6.264998
 y: 11.56769
 message: hello
 
+sceneName: Tut_01
+x: 45,96453
+y: 4,567685
+message: BagirkuSs тут нема
+
