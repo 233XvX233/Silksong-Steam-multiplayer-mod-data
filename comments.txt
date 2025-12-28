@@ -3448,3 +3448,8 @@ x: 47.24882
 y: 4.567685
 message: yoo
 
+sceneName: Bellshrine
+x: 16,96606
+y: 4,567685
+message: bolas
+
