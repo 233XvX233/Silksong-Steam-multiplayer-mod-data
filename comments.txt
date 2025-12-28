@@ -3218,3 +3218,8 @@ x: 32.09571
 y: 4.567685
 message: EEEEEEEEE
 
+sceneName: Bone_East_02
+x: 151.6118
+y: 9.567685
+message: Garama
+
