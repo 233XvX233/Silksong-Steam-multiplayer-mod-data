@@ -3128,3 +3128,8 @@ x: 38.51994
 y: 4.567685
 message: hi
 
+sceneName: Bone_03
+x: 24.86677
+y: 36.59231
+message: kill
+
