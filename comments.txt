@@ -3468,3 +3468,8 @@ x: 15.8212
 y: 7.567685
 message: check uuuuuuuuuuu
 
+sceneName: Slab_06
+x: 50.56987
+y: 6.721695
+message: EIRA!!
+
