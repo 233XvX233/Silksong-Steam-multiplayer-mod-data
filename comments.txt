@@ -3233,3 +3233,8 @@ x: 67,49996
 y: 7,567685
 message: PAtrick gay
 
+sceneName: Bonetown
+x: 80,10507
+y: 7,567685
+message: swin
+
