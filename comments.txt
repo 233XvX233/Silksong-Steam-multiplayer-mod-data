@@ -3358,3 +3358,8 @@ x: 19.72997
 y: 21.56768
 message: us suck
 
+sceneName: Ant_03
+x: 42.46004
+y: 69.56767
+message: AWOO
+
