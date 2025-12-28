@@ -3378,3 +3378,8 @@ x: 41,669
 y: 4,567685
 message: лох
 
+sceneName: Halfway_01
+x: 29,57037
+y: 4,567685
+message: Zote was here!
+
