@@ -2858,3 +2858,8 @@ x: 43,13992
 y: 32,56768
 message: Apestas
 
+sceneName: Tut_02
+x: 103,7629
+y: 31,56768
+message: apestas
+
