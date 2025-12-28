@@ -3443,3 +3443,8 @@ x: 43.23499
 y: 4.567685
 message: sss
 
+sceneName: Tut_01
+x: 47.24882
+y: 4.567685
+message: yoo
+
