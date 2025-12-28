@@ -3338,3 +3338,8 @@ x: 45.29033
 y: 13.63063
 message: FIRST TIME?
 
+sceneName: Dust_Chef
+x: 11,53889
+y: 26,5687
+message: мама нибожука максима
+
