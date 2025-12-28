@@ -3168,3 +3168,8 @@ x: 6.080037
 y: 12.22634
 message: BIFI WAS HERE TOO
 
+sceneName: Tut_01b
+x: 93.31966
+y: 84.55254
+message: I KILLED HER BY MISTAKE
+
