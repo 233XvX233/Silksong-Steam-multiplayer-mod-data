@@ -3023,3 +3023,8 @@ x: 125
 y: 11.56769
 message: 前方小虫子可以下批
 
+sceneName: Tut_02
+x: 125.01
+y: 12.68984
+message: AIU5_7提供
+
