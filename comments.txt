@@ -3438,3 +3438,8 @@ x: 33,58924
 y: 17,56768
 message: 5AWS4E7URXJFG
 
+sceneName: Tut_01
+x: 43.23499
+y: 4.567685
+message: sss
+
