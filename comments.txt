@@ -3073,3 +3073,8 @@ x: 22.09865
 y: 7.567685
 message: 666
 
+sceneName: Tut_01
+x: 40.03352
+y: 7.730004
+message: F6留言
+
