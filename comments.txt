@@ -3373,3 +3373,8 @@ x: 206.62
 y: 34.65952
 message: njasndas
 
+sceneName: Tut_01
+x: 41,669
+y: 4,567685
+message: лох
+
