@@ -3183,3 +3183,8 @@ x: 95.33382
 y: 50.56768
 message: NOTHING BEGIN NOTHING END EVERYHING SIMPLY CONTINUES -BIFI
 
+sceneName: Bone_04
+x: 49.79375
+y: 13.56768
+message: I love yuko <3
+
