@@ -3193,3 +3193,8 @@ x: 44.91497
 y: 7.570679
 message: YOU CANT SWIM IN LAVA BUT YOU CAN ATLEAST TRY
 
+sceneName: Greymoor_05
+x: 77,72303
+y: 5,567685
+message: сосал?
+
