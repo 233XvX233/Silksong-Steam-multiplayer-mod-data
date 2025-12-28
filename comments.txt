@@ -3088,3 +3088,8 @@ x: 20.92354
 y: 7.567685
 message: dont move               like AIU5_7             go
 
+sceneName: Tut_01b
+x: 122.8716
+y: 40.52533
+message: 前方有甲壳碎片 （AIU5_7)
+
