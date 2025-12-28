@@ -2873,3 +2873,8 @@ x: 30,06491
 y: 7,567685
 message: GER
 
+sceneName: Coral_Judge_Arena
+x: 36.26403
+y: 24.56768
+message: c vngbfh
+
