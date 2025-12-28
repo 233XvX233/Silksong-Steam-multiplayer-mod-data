@@ -2928,3 +2928,8 @@ x: 36,22948
 y: 4,567685
 message: sadw
 
+sceneName: Tut_01
+x: 37,71449
+y: 4,567685
+message: selam
+
