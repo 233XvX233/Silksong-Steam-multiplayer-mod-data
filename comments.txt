@@ -3118,3 +3118,8 @@ x: 95.11911
 y: 17.56768
 message: AIU5_7提供 （之后随缘提供提示）
 
+sceneName: Bone_East_12
+x: 94.84
+y: 7.567685
+message: bro why cant i move
+
