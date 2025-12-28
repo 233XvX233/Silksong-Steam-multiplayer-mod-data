@@ -2978,3 +2978,8 @@ x: 101.1229
 y: 7.341351
 message: KJJKJKJK
 
+sceneName: Tut_01
+x: 36.80548
+y: 4.567685
+message: 咕咕嘎嘎
+
