@@ -3238,3 +3238,8 @@ x: 80,10507
 y: 7,567685
 message: swin
 
+sceneName: Bonetown
+x: 111,2902
+y: 7,567685
+message: swin
+
