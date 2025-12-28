@@ -3333,3 +3333,8 @@ x: 43.90382
 y: 13.63063
 message: SHAW
 
+sceneName: Bone_19
+x: 45.29033
+y: 13.63063
+message: FIRST TIME?
+
