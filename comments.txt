@@ -3213,3 +3213,8 @@ x: 98.93759
 y: 7.567685
 message: hi im kenn
 
+sceneName: Bellshrine_05
+x: 32.09571
+y: 4.567685
+message: EEEEEEEEE
+
