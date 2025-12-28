@@ -3483,3 +3483,8 @@ x: 16.21068
 y: 4.567685
 message: bababoy
 
+sceneName: Tut_03
+x: 93.20853
+y: 4.567685
+message: HI ISAAC I SEE YOU
+
