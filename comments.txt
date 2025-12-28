@@ -3008,3 +3008,8 @@ x: 56.34742
 y: 4.567685
 message: F6留言
 
+sceneName: Tut_01
+x: 43.43227
+y: 8.867832
+message: 你看啥
+
