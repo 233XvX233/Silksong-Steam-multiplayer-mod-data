@@ -3283,3 +3283,8 @@ x: 104.8835
 y: 3.567686
 message: SHAW
 
+sceneName: Bone_03
+x: 32,50888
+y: 92,56767
+message: 67
+
