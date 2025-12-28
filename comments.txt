@@ -3198,3 +3198,8 @@ x: 77,72303
 y: 5,567685
 message: сосал?
 
+sceneName: Bonetown
+x: 298.1747
+y: 24.56768
+message: HI
+
