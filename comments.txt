@@ -3083,3 +3083,8 @@ x: 47.8264
 y: 4.567685
 message: F6留言（AIU5_7提供）
 
+sceneName: Tut_01
+x: 20.92354
+y: 7.567685
+message: dont move               like AIU5_7             go
+
