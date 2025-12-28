@@ -3523,3 +3523,8 @@ x: 83,90009
 y: 7,567685
 message: fia da puta oce
 
+sceneName: Tut_01
+x: 75.39996
+y: 9.567685
+message: $$$$$$$$
+
