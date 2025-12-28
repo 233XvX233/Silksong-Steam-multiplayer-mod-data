@@ -3293,3 +3293,8 @@ x: 68,75471
 y: 9,597684
 message: 67\
 
+sceneName: Tut_01
+x: 52.26484
+y: 88.56767
+message: try finger, but hole
+
