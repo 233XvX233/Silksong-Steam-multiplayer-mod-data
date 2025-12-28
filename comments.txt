@@ -2963,3 +2963,8 @@ x: 103.6348
 y: 3.567686
 message: 前有小兵
 
+sceneName: Coral_33
+x: 21.63153
+y: 61.56768
+message: 骰子王
+
