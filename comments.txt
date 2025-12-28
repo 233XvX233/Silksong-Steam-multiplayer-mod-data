@@ -3323,3 +3323,8 @@ x: 50.2769
 y: 3.567686
 message: GET 5 HEADASS
 
+sceneName: Bone_19
+x: 117.735
+y: 16.61027
+message: YOU CANT TELL ME WHAT TO DO
+
