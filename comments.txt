@@ -3263,3 +3263,8 @@ x: 19,52816
 y: 4,567685
 message: Сосали????!!!
 
+sceneName: Belltown_basement
+x: 31,76078
+y: 96,56767
+message: Говноеды сюдааа.
+
