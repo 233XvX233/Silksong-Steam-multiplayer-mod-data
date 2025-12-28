@@ -2888,3 +2888,8 @@ x: 31.92182
 y: 96.56767
 message: eira!
 
+sceneName: Bone_East_09
+x: 9.184998
+y: 24.56769
+message: hey
+
