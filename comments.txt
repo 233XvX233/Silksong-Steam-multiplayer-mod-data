@@ -3298,3 +3298,8 @@ x: 52.26484
 y: 88.56767
 message: try finger, but hole
 
+sceneName: Bellway_03
+x: 43,18587
+y: 9,567685
+message: сосали?
+
