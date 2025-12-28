@@ -3318,3 +3318,8 @@ x: 41.2154
 y: 3.567686
 message: ADIIIIIIIIINO
 
+sceneName: Mosstown_02c
+x: 50.2769
+y: 3.567686
+message: GET 5 HEADASS
+
