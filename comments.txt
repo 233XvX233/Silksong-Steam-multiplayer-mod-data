@@ -3413,3 +3413,8 @@ x: 5,336428
 y: 57,56767
 message: asdsad
 
+sceneName: Tut_01
+x: 54,55456
+y: 4,567685
+message: nunununu
+
