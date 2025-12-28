@@ -3398,3 +3398,8 @@ x: 31.34272
 y: 38.56768
 message: Awoooooo
 
+sceneName: Bellshrine_05
+x: 22.81599
+y: 4.567685
+message: kadema
+
