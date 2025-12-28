@@ -2918,3 +2918,8 @@ x: 58.71178
 y: 17.56768
 message: 6666666666666
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567687
+message: QINGSHURUWB
+
