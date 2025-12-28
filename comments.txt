@@ -3393,3 +3393,8 @@ x: 27.05376
 y: 38.56768
 message: AWOOOOOOOOO
 
+sceneName: Bone_East_05
+x: 31.34272
+y: 38.56768
+message: Awoooooo
+
