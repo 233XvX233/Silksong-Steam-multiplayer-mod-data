@@ -2853,3 +2853,8 @@ x: 47.03378
 y: 4.567685
 message: go right4
 
+sceneName: Tut_01
+x: 43,13992
+y: 32,56768
+message: Apestas
+
