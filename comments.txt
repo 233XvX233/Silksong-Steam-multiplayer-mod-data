@@ -2893,3 +2893,8 @@ x: 9.184998
 y: 24.56769
 message: hey
 
+sceneName: Coral_Judge_Arena
+x: 43.86854
+y: 24.56805
+message: your test worked
+
