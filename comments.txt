@@ -3148,3 +3148,8 @@ x: 45,96453
 y: 4,567685
 message: BagirkuSs тут нема
 
+sceneName: Bonetown
+x: 64.92128
+y: 7.567685
+message: HI
+
