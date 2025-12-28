@@ -3363,3 +3363,8 @@ x: 42.46004
 y: 69.56767
 message: AWOO
 
+sceneName: Ant_03
+x: 46.075
+y: 69.56769
+message: AWOOOOOOOOOOOO
+
