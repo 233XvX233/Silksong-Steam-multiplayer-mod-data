@@ -2933,3 +2933,8 @@ x: 37,71449
 y: 4,567685
 message: selam
 
+sceneName: Tut_01b
+x: 108.8131
+y: 43.57793
+message: 666
+
