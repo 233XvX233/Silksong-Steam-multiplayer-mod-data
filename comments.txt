@@ -2878,3 +2878,8 @@ x: 36.26403
 y: 24.56768
 message: c vngbfh
 
+sceneName: Coral_Judge_Arena
+x: 50.04681
+y: 24.56768
+message: hiiiiiiii
+
