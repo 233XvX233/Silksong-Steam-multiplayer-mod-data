@@ -3078,3 +3078,8 @@ x: 40.03352
 y: 7.730004
 message: F6留言
 
+sceneName: Tut_01
+x: 47.8264
+y: 4.567685
+message: F6留言（AIU5_7提供）
+
