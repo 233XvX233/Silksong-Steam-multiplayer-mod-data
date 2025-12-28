@@ -3203,3 +3203,8 @@ x: 298.1747
 y: 24.56768
 message: HI
 
+sceneName: Bone_East_12
+x: 98.93758
+y: 7.567685
+message: fuck you
+
