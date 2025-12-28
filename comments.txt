@@ -3188,3 +3188,8 @@ x: 49.79375
 y: 13.56768
 message: I love yuko <3
 
+sceneName: Bone_02
+x: 44.91497
+y: 7.570679
+message: YOU CANT SWIM IN LAVA BUT YOU CAN ATLEAST TRY
+
