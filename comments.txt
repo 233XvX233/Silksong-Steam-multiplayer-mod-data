@@ -3388,3 +3388,8 @@ x: 40,83495
 y: 10,92768
 message: Zote was here!
 
+sceneName: Bone_East_05
+x: 27.05376
+y: 38.56768
+message: AWOOOOOOOOO
+
