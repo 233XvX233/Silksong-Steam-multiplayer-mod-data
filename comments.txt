@@ -3308,3 +3308,8 @@ x: 253.5641
 y: 7.567685
 message: shaw
 
+sceneName: Belltown_basement
+x: 37,00633
+y: 96,56767
+message: Hitler
+
