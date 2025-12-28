@@ -3328,3 +3328,8 @@ x: 117.735
 y: 16.61027
 message: YOU CANT TELL ME WHAT TO DO
 
+sceneName: Bone_19
+x: 43.90382
+y: 13.63063
+message: SHAW
+
