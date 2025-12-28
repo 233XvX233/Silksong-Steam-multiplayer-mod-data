@@ -3513,3 +3513,8 @@ x: 48,30492
 y: 4,567685
 message: adw
 
+sceneName: Tut_01
+x: 10,77621
+y: 11,56769
+message: OI
+
