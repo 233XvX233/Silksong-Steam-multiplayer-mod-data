@@ -3288,3 +3288,8 @@ x: 32,50888
 y: 92,56767
 message: 67
 
+sceneName: Bellway_01
+x: 68,75471
+y: 9,597684
+message: 67\
+
