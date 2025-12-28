@@ -3273,3 +3273,8 @@ x: 104.9336
 y: 3.567686
 message: SHAW
 
+sceneName: Tut_03
+x: 108.0185
+y: 3.567686
+message: Holy fuck im so close
+
