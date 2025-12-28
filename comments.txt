@@ -3243,3 +3243,8 @@ x: 111,2902
 y: 7,567685
 message: swin
 
+sceneName: Bone_01
+x: 72,04762
+y: 71,56767
+message: loh
+
