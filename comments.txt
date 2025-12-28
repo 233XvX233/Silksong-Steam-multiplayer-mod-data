@@ -3173,3 +3173,8 @@ x: 93.31966
 y: 84.55254
 message: I KILLED HER BY MISTAKE
 
+sceneName: Bone_01
+x: 126.0351
+y: 55.26708
+message: BREAK THIS
+
