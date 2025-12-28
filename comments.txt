@@ -3028,3 +3028,8 @@ x: 125.01
 y: 12.68984
 message: AIU5_7提供
 
+sceneName: Tut_02
+x: 6.770003
+y: 9.94
+message: 上方有甲壳碎片
+
