@@ -3478,3 +3478,8 @@ x: 25.96729
 y: 96.56046
 message: EIRA!!!
 
+sceneName: Bellshrine_05
+x: 16.21068
+y: 4.567685
+message: bababoy
+
