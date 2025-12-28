@@ -3153,3 +3153,8 @@ x: 64.92128
 y: 7.567685
 message: HI
 
+sceneName: Bonetown
+x: 75.64633
+y: 7.567685
+message: YO
+
