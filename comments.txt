@@ -3313,3 +3313,8 @@ x: 37,00633
 y: 96,56767
 message: Hitler
 
+sceneName: Mosstown_02c
+x: 41.2154
+y: 3.567686
+message: ADIIIIIIIIINO
+
