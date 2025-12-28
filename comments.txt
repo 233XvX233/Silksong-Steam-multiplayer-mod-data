@@ -3228,3 +3228,8 @@ x: 44,56787
 y: 17,56768
 message: Swinam salam
 
+sceneName: Bonetown
+x: 67,49996
+y: 7,567685
+message: PAtrick gay
+
