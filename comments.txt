@@ -3163,3 +3163,8 @@ x: 39.36346
 y: 4.567685
 message: BIFI WAS HERE CAREFULL I MAY RAPE YOU
 
+sceneName: Tut_01
+x: 6.080037
+y: 12.22634
+message: BIFI WAS HERE TOO
+
