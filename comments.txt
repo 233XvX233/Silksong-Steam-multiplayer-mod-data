@@ -3248,3 +3248,8 @@ x: 72,04762
 y: 71,56767
 message: loh
 
+sceneName: Halfway_01
+x: 29,98494
+y: 4,567685
+message: сосал?
+
