@@ -3488,3 +3488,8 @@ x: 93.20853
 y: 4.567685
 message: HI ISAAC I SEE YOU
 
+sceneName: Halfway_01
+x: 42,97301
+y: 10,9475
+message: this bench is not very confy
+
