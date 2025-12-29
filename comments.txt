@@ -3963,3 +3963,8 @@ x: 34,10642
 y: 3,567686
 message: big boobs
 
+sceneName: Mosstown_02c
+x: 28,48643
+y: 3,567686
+message: milf boobs
+
