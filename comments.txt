@@ -3998,3 +3998,8 @@ x: 186,6105
 y: 6,567685
 message: cuzinho fresco
 
+sceneName: Tut_03
+x: 106,0356
+y: 3,567686
+message: oi medice
+
