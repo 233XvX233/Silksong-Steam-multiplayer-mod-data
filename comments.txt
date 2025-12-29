@@ -3638,3 +3638,8 @@ x: 66,17587
 y: 7,567685
 message: paridurasimanet
 
+sceneName: Bone_01c
+x: 136,9197
+y: 54,56768
+message: be careful with the rocks
+
