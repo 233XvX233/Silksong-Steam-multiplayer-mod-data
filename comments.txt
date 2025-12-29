@@ -3893,3 +3893,8 @@ x: 13.05136
 y: 88.64124
 message: awooooooooo
 
+sceneName: Bonetown
+x: 308,1726
+y: 17,81768
+message: jk
+
