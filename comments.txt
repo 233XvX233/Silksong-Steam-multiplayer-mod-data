@@ -3558,3 +3558,8 @@ x: 54.29395
 y: 7.567685
 message: FATTY
 
+sceneName: Tut_01b
+x: 80,46012
+y: 35,56768
+message: feios
+
