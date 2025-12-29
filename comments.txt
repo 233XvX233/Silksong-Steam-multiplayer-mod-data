@@ -3883,3 +3883,8 @@ x: 25.88252
 y: 47.90563
 message: awooooooooooooooo
 
+sceneName: Library_13
+x: 56.42422
+y: 14.56769
+message: REAL
+
