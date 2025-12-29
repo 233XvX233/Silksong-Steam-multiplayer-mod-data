@@ -3878,3 +3878,8 @@ x: 47.71998
 y: 22.56768
 message: EIRA!\
 
+sceneName: Shellwood_03
+x: 25.88252
+y: 47.90563
+message: awooooooooooooooo
+
