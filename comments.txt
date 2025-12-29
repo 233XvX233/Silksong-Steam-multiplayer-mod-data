@@ -3798,3 +3798,8 @@ x: 24,30629
 y: 6,567685
 message: IM LOVE YOUR FAT MOM
 
+sceneName: Ant_17
+x: 24,79278
+y: 6,567685
+message: LOVE FAT MOM
+
