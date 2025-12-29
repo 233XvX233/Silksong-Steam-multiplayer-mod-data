@@ -3993,3 +3993,8 @@ x: 181,0379
 y: 6,567685
 message: hg
 
+sceneName: Bone_05
+x: 186,6105
+y: 6,567685
+message: cuzinho fresco
+
