@@ -3983,3 +3983,8 @@ x: 38.37096
 y: 9.56741
 message: NOOO IM NAKED ;-;
 
+sceneName: Bone_05
+x: 88,68632
+y: 3,567686
+message: Amassei a besta
+
