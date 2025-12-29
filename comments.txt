@@ -4028,3 +4028,8 @@ x: 133,8747
 y: 11,56769
 message: what
 
+sceneName: Tut_02
+x: 127,0509
+y: 11,56769
+message: hi
+
