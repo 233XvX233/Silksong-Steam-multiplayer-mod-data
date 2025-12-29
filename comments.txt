@@ -3918,3 +3918,8 @@ x: 236,0022
 y: 7,607192
 message: br estrupado
 
+sceneName: Bonetown
+x: 229,8469
+y: 8,991272
+message: tua vó é banguela aquela abusada
+
