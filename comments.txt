@@ -3673,3 +3673,8 @@ x: 43.63496
 y: 4.567685
 message: yello
 
+sceneName: Tut_01
+x: 24.80495
+y: 4.567685
+message: yello
+
