@@ -4038,3 +4038,8 @@ x: 114,8409
 y: 12,60374
 message: Abc²
 
+sceneName: Bone_East_12
+x: 98,57062
+y: 7,567685
+message: cu
+
