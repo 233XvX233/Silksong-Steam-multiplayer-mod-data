@@ -3973,3 +3973,8 @@ x: 66.64803
 y: 7.567685
 message: Babo
 
+sceneName: Memory_Silk_Heart_BellBeast
+x: 30,61069
+y: 105,5847
+message: estive aqui - MathZera
+
