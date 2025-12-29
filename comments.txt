@@ -3938,3 +3938,8 @@ x: 21.48642
 y: 3.567686
 message: HELLO!!! :D
 
+sceneName: Greymoor_03
+x: 33.77876
+y: 14.56769
+message: shaw
+
