@@ -3698,3 +3698,8 @@ x: 87.52034
 y: 17.56768
 message: fuck you
 
+sceneName: Ant_19
+x: 54.53075
+y: 34.56768
+message: iam gay
+
