@@ -4018,3 +4018,8 @@ x: 44,53349
 y: 92,56767
 message: gozadao
 
+sceneName: Bone_01
+x: 98,63493
+y: 50,56768
+message: eu dei o cu pro kid bengala
+
