@@ -3623,3 +3623,8 @@ x: 43,93604
 y: 7,567685
 message: гыгыгы
 
+sceneName: Belltown
+x: 42,93991
+y: 7,567685
+message: zieg heil
+
