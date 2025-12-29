@@ -3578,3 +3578,8 @@ x: 76,47505
 y: 7,567685
 message: hello guys
 
+sceneName: Bonetown
+x: 75,15504
+y: 8,861827
+message: speak, 'me mama'
+
