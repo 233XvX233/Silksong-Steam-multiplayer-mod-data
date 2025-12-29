@@ -3898,3 +3898,8 @@ x: 308,1726
 y: 17,81768
 message: jk
 
+sceneName: Bonetown
+x: 292,8268
+y: 7,567685
+message: Meudeus
+
