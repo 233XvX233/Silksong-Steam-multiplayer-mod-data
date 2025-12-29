@@ -3788,3 +3788,8 @@ x: 59.18983
 y: 7.567685
 message: SING!
 
+sceneName: Bone_01c
+x: 166.8024
+y: 7.567685
+message: Bell bounce
+
