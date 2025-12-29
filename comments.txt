@@ -3778,3 +3778,8 @@ x: 133,3307
 y: 11,56769
 message: meow
 
+sceneName: Bone_01
+x: 64.00015
+y: 7.567687
+message: SING SHERMA, SING!
+
