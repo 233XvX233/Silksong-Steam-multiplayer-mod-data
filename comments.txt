@@ -3903,3 +3903,8 @@ x: 292,8268
 y: 7,567685
 message: Meudeus
 
+sceneName: Bonetown
+x: 289,8566
+y: 7,567685
+message: porra
+
