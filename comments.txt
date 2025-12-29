@@ -3913,3 +3913,8 @@ x: 298,0697
 y: 7,567685
 message: cu
 
+sceneName: Bonetown
+x: 236,0022
+y: 7,607192
+message: br estrupado
+
