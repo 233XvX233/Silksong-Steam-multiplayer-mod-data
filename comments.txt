@@ -4003,3 +4003,8 @@ x: 106,0356
 y: 3,567686
 message: oi medice
 
+sceneName: Tut_03
+x: 95,20812
+y: 4,567685
+message: gabriel dá o butico
+
