@@ -3588,3 +3588,8 @@ x: 85.90515
 y: 35.56768
 message: man
 
+sceneName: Bone_East_17b
+x: 76.02191
+y: 29.56768
+message: amongus
+
