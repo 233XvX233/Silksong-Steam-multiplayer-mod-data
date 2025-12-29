@@ -3708,3 +3708,8 @@ x: 118.5481
 y: 53.7295
 message: 哈哈哈+
 
+sceneName: Tut_01
+x: 13.36994
+y: 11.56769
+message: birdbird是猪
+
