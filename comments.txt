@@ -3663,3 +3663,8 @@ x: 18,18528
 y: 4,567685
 message: HI  HITLER
 
+sceneName: Tut_01b
+x: 81.44981
+y: 83.56768
+message: what can i say
+
