@@ -3538,3 +3538,8 @@ x: 40,77243
 y: 10,92768
 message: Zote was here!!
 
+sceneName: Tut_01
+x: 40.40314
+y: 4.568939
+message: hiii.我是ai5-7朋友
+
