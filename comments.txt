@@ -3813,3 +3813,8 @@ x: 41.53979
 y: 7.567685
 message: hi
 
+sceneName: Bone_East_15
+x: 12.02067
+y: 53.56768
+message: fuck you baker
+
