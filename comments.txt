@@ -3633,3 +3633,8 @@ x: 90.06039
 y: 17.56768
 message: 666
 
+sceneName: Bone_01
+x: 66,17587
+y: 7,567685
+message: paridurasimanet
+
