@@ -3908,3 +3908,8 @@ x: 289,8566
 y: 7,567685
 message: porra
 
+sceneName: Bonetown
+x: 298,0697
+y: 7,567685
+message: cu
+
