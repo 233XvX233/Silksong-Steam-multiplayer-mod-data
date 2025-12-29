@@ -3533,3 +3533,8 @@ x: 17,84999
 y: 4,408094
 message: arroz
 
+sceneName: Halfway_01
+x: 40,77243
+y: 10,92768
+message: Zote was here!!
+
