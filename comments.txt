@@ -3628,3 +3628,8 @@ x: 42,93991
 y: 7,567685
 message: zieg heil
 
+sceneName: Tut_03
+x: 90.06039
+y: 17.56768
+message: 666
+
