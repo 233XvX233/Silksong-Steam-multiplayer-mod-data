@@ -3583,3 +3583,8 @@ x: 75,15504
 y: 8,861827
 message: speak, 'me mama'
 
+sceneName: Tut_01b
+x: 85.90515
+y: 35.56768
+message: man
+
