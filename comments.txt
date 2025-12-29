@@ -3888,3 +3888,8 @@ x: 56.42422
 y: 14.56769
 message: REAL
 
+sceneName: Belltown_04
+x: 13.05136
+y: 88.64124
+message: awooooooooo
+
