@@ -3548,3 +3548,8 @@ x: 85,63812
 y: 17,56768
 message: NAZISMO
 
+sceneName: Belltown_basement
+x: 36.02312
+y: 96.56767
+message: EIRA!!!!!
+
