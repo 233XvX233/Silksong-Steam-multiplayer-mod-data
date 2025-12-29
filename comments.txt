@@ -4033,3 +4033,8 @@ x: 127,0509
 y: 11,56769
 message: hi
 
+sceneName: Tut_02
+x: 114,8409
+y: 12,60374
+message: Abc²
+
