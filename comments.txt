@@ -3758,3 +3758,8 @@ x: 100.7287
 y: 94.56767
 message: 666抄袭梦之钉
 
+sceneName: Song_18
+x: 15.11609
+y: 57.56768
+message: THAT FUCKING BIRD THAT I HATE
+
