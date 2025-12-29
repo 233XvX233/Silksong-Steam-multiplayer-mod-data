@@ -3953,3 +3953,8 @@ x: 44,02407
 y: 33,56768
 message: gozada no pelo
 
+sceneName: Bonetown
+x: 242.9048
+y: 7.567685
+message: uohhhhhhhhhhhhhhh i love bunny :sob:
+
