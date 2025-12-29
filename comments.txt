@@ -3648,3 +3648,8 @@ x: 41,57882
 y: 23,56768
 message: money here...
 
+sceneName: Bone_East_12
+x: 64,60599
+y: 9,343679
+message: i am racist nazism
+
