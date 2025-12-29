@@ -3528,3 +3528,8 @@ x: 75.39996
 y: 9.567685
 message: $$$$$$$$
 
+sceneName: Bellshrine_05
+x: 17,84999
+y: 4,408094
+message: arroz
+
