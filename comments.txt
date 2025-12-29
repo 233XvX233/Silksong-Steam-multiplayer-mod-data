@@ -3928,3 +3928,8 @@ x: 62.84491
 y: 17.56768
 message: Dumb
 
+sceneName: Belltown_04
+x: 12.81531
+y: 88.64124
+message: awoooooooooo :3
+
