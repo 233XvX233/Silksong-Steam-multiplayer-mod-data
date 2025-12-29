@@ -3653,3 +3653,8 @@ x: 64,60599
 y: 9,343679
 message: i am racist nazism
 
+sceneName: Bellshrine_05
+x: 19,35301
+y: 4,567685
+message: HI HITLER
+
