@@ -3593,3 +3593,8 @@ x: 76.02191
 y: 29.56768
 message: amongus
 
+sceneName: Bone_East_17b
+x: 49.19714
+y: 29.56768
+message: hi
+
