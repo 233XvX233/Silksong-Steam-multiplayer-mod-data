@@ -3613,3 +3613,8 @@ x: 80.65012
 y: 32.61325
 message: QD
 
+sceneName: Bone_East_12
+x: 53.219
+y: 7.567685
+message: fuck u
+
