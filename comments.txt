@@ -3693,3 +3693,8 @@ x: 96.00355
 y: 4.567685
 message: i love nigger balls
 
+sceneName: Tut_03
+x: 87.52034
+y: 17.56768
+message: fuck you
+
