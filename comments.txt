@@ -4008,3 +4008,8 @@ x: 95,20812
 y: 4,567685
 message: gabriel dá o butico
 
+sceneName: Tut_03
+x: 110,7885
+y: 10,59416
+message: Gabriel minha putinha no silksong
+
