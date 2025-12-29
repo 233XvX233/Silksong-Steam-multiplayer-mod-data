@@ -3988,3 +3988,8 @@ x: 88,68632
 y: 3,567686
 message: Amassei a besta
 
+sceneName: Bone_05
+x: 181,0379
+y: 6,567685
+message: hg
+
