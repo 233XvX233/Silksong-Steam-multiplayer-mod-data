@@ -4013,3 +4013,8 @@ x: 110,7885
 y: 10,59416
 message: Gabriel minha putinha no silksong
 
+sceneName: Bone_03
+x: 44,53349
+y: 92,56767
+message: gozadao
+
