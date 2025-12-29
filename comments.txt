@@ -3858,3 +3858,8 @@ x: 28.4737
 y: 96.56046
 message: EIRA!!
 
+sceneName: Tut_03
+x: 49.10883
+y: 17.56768
+message: easy ahh
+
