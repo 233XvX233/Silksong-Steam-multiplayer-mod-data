@@ -3738,3 +3738,8 @@ x: 26,83151
 y: 4,567685
 message: ME TOO
 
+sceneName: Cog_Dancers
+x: 27.265
+y: 4.596971
+message: :rage:
+
