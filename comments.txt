@@ -3543,3 +3543,8 @@ x: 40.40314
 y: 4.568939
 message: hiii.我是ai5-7朋友
 
+sceneName: Tut_03
+x: 85,63812
+y: 17,56768
+message: NAZISMO
+
