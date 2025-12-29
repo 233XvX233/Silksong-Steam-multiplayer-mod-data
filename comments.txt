@@ -3848,3 +3848,8 @@ x: 68.43498
 y: 12.91139
 message: I think there's someone hanging right there... mmph...
 
+sceneName: Belltown_basement
+x: 30.95868
+y: 96.56767
+message: EIRAAAA!!
+
