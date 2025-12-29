@@ -3678,3 +3678,8 @@ x: 24.80495
 y: 4.567685
 message: yello
 
+sceneName: Tut_01
+x: 53.41985
+y: 88.56767
+message: fuck you too
+
