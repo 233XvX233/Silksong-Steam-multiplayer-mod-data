@@ -3933,3 +3933,8 @@ x: 12.81531
 y: 88.64124
 message: awoooooooooo :3
 
+sceneName: Belltown_04
+x: 21.48642
+y: 3.567686
+message: HELLO!!! :D
+
