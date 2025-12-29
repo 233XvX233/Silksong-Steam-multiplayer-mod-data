@@ -3818,3 +3818,8 @@ x: 12.02067
 y: 53.56768
 message: fuck you baker
 
+sceneName: Halfway_01
+x: 34.89394
+y: 6.157068
+message: lol ez
+
