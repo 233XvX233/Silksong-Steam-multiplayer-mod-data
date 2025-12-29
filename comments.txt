@@ -3923,3 +3923,8 @@ x: 229,8469
 y: 8,991272
 message: tua vó é banguela aquela abusada
 
+sceneName: Aspid_01
+x: 62.84491
+y: 17.56768
+message: Dumb
+
