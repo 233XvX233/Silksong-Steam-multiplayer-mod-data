@@ -3553,3 +3553,8 @@ x: 36.02312
 y: 96.56767
 message: EIRA!!!!!
 
+sceneName: Belltown
+x: 54.29395
+y: 7.567685
+message: FATTY
+
