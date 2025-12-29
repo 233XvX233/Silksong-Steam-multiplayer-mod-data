@@ -3823,3 +3823,8 @@ x: 34.89394
 y: 6.157068
 message: lol ez
 
+sceneName: Halfway_01
+x: 44.59499
+y: 10.92768
+message: i like men
+
