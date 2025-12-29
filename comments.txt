@@ -3608,3 +3608,8 @@ x: 83.27952
 y: 83.56767
 message: SB
 
+sceneName: Room_Forge
+x: 80.65012
+y: 32.61325
+message: QD
+
