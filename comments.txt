@@ -3733,3 +3733,8 @@ x: 22,70653
 y: 4,567685
 message: ME TOO
 
+sceneName: Halfway_01
+x: 26,83151
+y: 4,567685
+message: ME TOO
+
