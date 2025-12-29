@@ -3658,3 +3658,8 @@ x: 19,35301
 y: 4,567685
 message: HI HITLER
 
+sceneName: Bellshrine_05
+x: 18,18528
+y: 4,567685
+message: HI  HITLER
+
