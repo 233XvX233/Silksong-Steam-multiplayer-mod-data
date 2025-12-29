@@ -3978,3 +3978,8 @@ x: 30,61069
 y: 105,5847
 message: estive aqui - MathZera
 
+sceneName: Slab_20
+x: 38.37096
+y: 9.56741
+message: NOOO IM NAKED ;-;
+
