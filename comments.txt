@@ -3763,3 +3763,8 @@ x: 15.11609
 y: 57.56768
 message: THAT FUCKING BIRD THAT I HATE
 
+sceneName: Tut_01
+x: 48.63499
+y: 4.567685
+message: help
+
