@@ -3718,3 +3718,8 @@ x: 72,85493
 y: 9,567685
 message: я крутой
 
+sceneName: Belltown_basement
+x: 28,93357
+y: 96,56046
+message: EIRAAAAAAAAAAAAAAAAAAAAAAA
+
