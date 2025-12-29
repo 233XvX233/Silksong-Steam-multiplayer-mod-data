@@ -3783,3 +3783,8 @@ x: 64.00015
 y: 7.567687
 message: SING SHERMA, SING!
 
+sceneName: Bone_01
+x: 59.18983
+y: 7.567685
+message: SING!
+
