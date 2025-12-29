@@ -3943,3 +3943,8 @@ x: 33.77876
 y: 14.56769
 message: shaw
 
+sceneName: Bone_07
+x: 18.44203
+y: 15.56769
+message: IT'S A BOMB
+
