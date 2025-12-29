@@ -3948,3 +3948,8 @@ x: 18.44203
 y: 15.56769
 message: IT'S A BOMB
 
+sceneName: Mosstown_02
+x: 44,02407
+y: 33,56768
+message: gozada no pelo
+
