@@ -3968,3 +3968,8 @@ x: 28,48643
 y: 3,567686
 message: milf boobs
 
+sceneName: Belltown
+x: 66.64803
+y: 7.567685
+message: Babo
+
