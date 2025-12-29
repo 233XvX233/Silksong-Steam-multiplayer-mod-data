@@ -3958,3 +3958,8 @@ x: 242.9048
 y: 7.567685
 message: uohhhhhhhhhhhhhhh i love bunny :sob:
 
+sceneName: Mosstown_02c
+x: 34,10642
+y: 3,567686
+message: big boobs
+
