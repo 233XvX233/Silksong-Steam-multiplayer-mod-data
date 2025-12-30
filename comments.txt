@@ -4113,3 +4113,8 @@ x: 71.20654
 y: 71.56767
 message: ryrthryth
 
+sceneName: Bone_01
+x: 76.81657
+y: 71.56767
+message: I FUCKING HATE NIGGERS
+
