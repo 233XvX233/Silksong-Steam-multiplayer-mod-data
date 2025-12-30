@@ -4083,3 +4083,8 @@ x: 37,90503
 y: 7,567685
 message: puto
 
+sceneName: Abyss_Cocoon
+x: 30.45926
+y: 6.365186
+message: 小小蕾丝
+
