@@ -4273,3 +4273,8 @@ x: 79.55025
 y: 3.567686
 message: julian magnus scheidweiler is gay
 
+sceneName: Bone_05
+x: 77,83561
+y: 3,567686
+message: i hate fjonn wilhelm sauer
+
