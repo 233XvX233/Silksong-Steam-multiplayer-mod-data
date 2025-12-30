@@ -4178,3 +4178,8 @@ x: 40.10156
 y: 34.56768
 message: 残暴的兽蝇
 
+sceneName: Belltown
+x: 87.1852
+y: 7.567685
+message: 谢尔玛
+
