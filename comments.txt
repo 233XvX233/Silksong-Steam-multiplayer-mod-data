@@ -4053,3 +4053,8 @@ x: 14,05175
 y: 3,567686
 message: Hola
 
+sceneName: Belltown_04
+x: 12,99804
+y: 3,567686
+message: Hola
+
