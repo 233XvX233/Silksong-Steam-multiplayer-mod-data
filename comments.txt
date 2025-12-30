@@ -4303,3 +4303,8 @@ x: 98.11732
 y: 23.56768
 message: gay flea
 
+sceneName: Abyss_12
+x: 12.44668
+y: 8.567684
+message: 잼민이 도랏네
+
