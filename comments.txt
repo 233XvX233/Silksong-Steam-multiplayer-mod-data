@@ -4088,3 +4088,8 @@ x: 30.45926
 y: 6.365186
 message: 小小蕾丝
 
+sceneName: Abyss_Cocoon
+x: 37.53891
+y: 6.365186
+message: crx 你打的过吗
+
