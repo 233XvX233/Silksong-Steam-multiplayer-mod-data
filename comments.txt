@@ -4433,3 +4433,8 @@ x: 22,44968
 y: 4,567685
 message: gay gay gay gay gay
 
+sceneName: Bonetown
+x: 67.4
+y: 7.567685
+message: pinon es gei
+
