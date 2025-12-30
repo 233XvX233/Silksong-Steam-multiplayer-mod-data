@@ -4258,3 +4258,8 @@ x: 69.69476
 y: 7.567685
 message: 谢谢
 
+sceneName: Bonetown
+x: 78.4398
+y: 7.567685
+message: sm到此一游
+
