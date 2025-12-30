@@ -4343,3 +4343,8 @@ x: 126.7859
 y: 11.56769
 message: 噶啦吗！
 
+sceneName: Tut_01
+x: 47,28453
+y: 4,567685
+message: DieEnte
+
