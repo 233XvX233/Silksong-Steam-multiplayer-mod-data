@@ -4368,3 +4368,8 @@ x: 73.78313
 y: 14.56768
 message: STOP GETTING UP AND STAY DEAD I SWEAR
 
+sceneName: Cog_Dancers
+x: 42.73103
+y: 4.59697
+message: 回血点位在两边墙上
+
