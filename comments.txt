@@ -4223,3 +4223,8 @@ x: 33,73491
 y: 4,567685
 message: hfbcg
 
+sceneName: Bone_01c
+x: 162,8952
+y: 7,567686
+message: sigma blud
+
