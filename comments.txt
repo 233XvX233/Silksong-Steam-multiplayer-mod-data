@@ -4473,3 +4473,8 @@ x: 24,77987
 y: 32,56768
 message: menstruacion
 
+sceneName: Bonetown
+x: 79.28007
+y: 7.567686
+message: nigger
+
