@@ -4483,3 +4483,8 @@ x: 61.44996
 y: 7.567685
 message: nigger
 
+sceneName: Tut_03
+x: 106,0195
+y: 3,567686
+message: SHAW!!!
+
