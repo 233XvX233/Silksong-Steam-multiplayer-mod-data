@@ -4508,3 +4508,8 @@ x: 78,35744
 y: 7,567685
 message: ya ven
 
+sceneName: Bone_01
+x: 73,24242
+y: 7,567685
+message: vamos
+
