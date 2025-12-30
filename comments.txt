@@ -4348,3 +4348,8 @@ x: 47,28453
 y: 4,567685
 message: DieEnte
 
+sceneName: Halfway_01
+x: 43.27499
+y: 10.92768
+message: I love my gf big fat ass
+
