@@ -4383,3 +4383,8 @@ x: 29,06362
 y: 32,56768
 message: NIGGER
 
+sceneName: Bellway_08
+x: 148,5609
+y: 13,56769
+message: ryoiki tenkai muryokusho
+
