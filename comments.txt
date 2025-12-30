@@ -4233,3 +4233,8 @@ x: 165.7001
 y: 7.567685
 message: lick my fat balls
 
+sceneName: Bone_01c
+x: 167.604
+y: 7.567685
+message: nga
+
