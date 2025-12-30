@@ -4448,3 +4448,8 @@ x: 48,63082
 y: 4,567685
 message: valenn
 
+sceneName: Bone_East_12
+x: 100.805
+y: 7.567685
+message: a3
+
