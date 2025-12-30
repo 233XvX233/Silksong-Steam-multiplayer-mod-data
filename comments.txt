@@ -4153,3 +4153,8 @@ x: 78.16003
 y: 7.567686
 message: 我不否认
 
+sceneName: Bone_03
+x: 25.18045
+y: 92.56767
+message: hh
+
