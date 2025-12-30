@@ -4158,3 +4158,8 @@ x: 25.18045
 y: 92.56767
 message: hh
 
+sceneName: Ant_17
+x: 22.44415
+y: 6.567685
+message: 往左走
+
