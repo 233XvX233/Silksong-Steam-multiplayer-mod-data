@@ -4313,3 +4313,8 @@ x: 293.7382
 y: 7.567685
 message: 波尙卡
 
+sceneName: Ant_02
+x: 47,03999
+y: 4,567685
+message: i hate gay people
+
