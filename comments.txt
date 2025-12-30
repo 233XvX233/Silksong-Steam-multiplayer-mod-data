@@ -4518,3 +4518,8 @@ x: 43.2436
 y: 100.5677
 message: I FEEL BAD NOW ;-;
 
+sceneName: Song_Tower_01
+x: 47.9999
+y: 100.5677
+message: REST IN PEACE LACE </3
+
