@@ -4128,3 +4128,8 @@ x: 29.00076
 y: 4.567685
 message: 你好
 
+sceneName: Bone_East_18b
+x: 166.4901
+y: 1396.287
+message: jh
+
