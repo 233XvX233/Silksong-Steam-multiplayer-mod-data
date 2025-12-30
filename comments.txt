@@ -4363,3 +4363,8 @@ x: 231.1437
 y: 6.567685
 message: 不要纠缠，直接跳冲加下劈接冲刺直接走，血量很厚招式很多
 
+sceneName: Library_13
+x: 73.78313
+y: 14.56768
+message: STOP GETTING UP AND STAY DEAD I SWEAR
+
