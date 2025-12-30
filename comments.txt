@@ -4493,3 +4493,8 @@ x: 64,4289
 y: 17,56768
 message: tengala
 
+sceneName: Bonetown
+x: 57,84
+y: 7,567687
+message: menstruacion x2
+
