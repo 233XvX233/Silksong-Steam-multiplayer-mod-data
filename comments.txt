@@ -4333,3 +4333,8 @@ x: 21.39721
 y: 55.56768
 message: fuck up that red guy
 
+sceneName: Abyss_12
+x: 19.75998
+y: 8.567684
+message: ㅜㅜㅜㅜ
+
