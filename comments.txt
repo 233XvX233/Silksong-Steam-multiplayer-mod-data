@@ -4298,3 +4298,8 @@ x: 19.75998
 y: 8.567684
 message: 잼민이 돌았노
 
+sceneName: Bone_06
+x: 98.11732
+y: 23.56768
+message: gay flea
+
