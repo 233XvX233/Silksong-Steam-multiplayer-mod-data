@@ -4513,3 +4513,8 @@ x: 73,24242
 y: 7,567685
 message: vamos
 
+sceneName: Song_Tower_01
+x: 43.2436
+y: 100.5677
+message: I FEEL BAD NOW ;-;
+
