@@ -4108,3 +4108,8 @@ x: 36.86993
 y: 4.567685
 message: count ur days
 
+sceneName: Bone_01
+x: 71.20654
+y: 71.56767
+message: ryrthryth
+
