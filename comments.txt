@@ -4278,3 +4278,8 @@ x: 77,83561
 y: 3,567686
 message: i hate fjonn wilhelm sauer
 
+sceneName: Tut_02
+x: 9.059999
+y: 24.56768
+message: 有人已经在这里跳了一分钟了
+
