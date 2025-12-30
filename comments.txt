@@ -4238,3 +4238,8 @@ x: 167.604
 y: 7.567685
 message: nga
 
+sceneName: Bone_04
+x: 202.9563
+y: 18.56768
+message: sigmund freud
+
