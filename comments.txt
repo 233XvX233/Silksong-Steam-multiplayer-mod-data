@@ -4208,3 +4208,8 @@ x: 107.5091
 y: 52.56768
 message: 앙앙앙
 
+sceneName: Belltown_basement_03
+x: 104.6016
+y: 52.56768
+message: 종 진짜 짜증남
+
