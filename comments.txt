@@ -4488,3 +4488,8 @@ x: 106,0195
 y: 3,567686
 message: SHAW!!!
 
+sceneName: Tut_03
+x: 64,4289
+y: 17,56768
+message: tengala
+
