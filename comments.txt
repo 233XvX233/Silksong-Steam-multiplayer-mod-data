@@ -4068,3 +4068,8 @@ x: 104.3797
 y: 3.567686
 message: shaw
 
+sceneName: Bone_01
+x: 30,35492
+y: 8,567684
+message: hola
+
