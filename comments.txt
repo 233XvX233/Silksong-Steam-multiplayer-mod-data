@@ -4288,3 +4288,8 @@ x: 28.39987
 y: 32.56768
 message: zzz，快来
 
+sceneName: Bone_06
+x: 88,8162
+y: 3,567686
+message: Peen Prison moment
+
