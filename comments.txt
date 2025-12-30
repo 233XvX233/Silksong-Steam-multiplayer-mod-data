@@ -4388,3 +4388,8 @@ x: 148,5609
 y: 13,56769
 message: ryoiki tenkai muryokusho
 
+sceneName: Bellway_City
+x: 56,31032
+y: 11,55621
+message: HERRAH
+
