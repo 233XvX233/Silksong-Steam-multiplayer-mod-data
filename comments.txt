@@ -4138,3 +4138,8 @@ x: 79.47519
 y: 14.56769
 message: awdsada
 
+sceneName: Bone_East_12
+x: 94.47081
+y: 7.567685
+message: 有挂
+
