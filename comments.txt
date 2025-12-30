@@ -4408,3 +4408,8 @@ x: 58,45247
 y: 8,567684
 message: test
 
+sceneName: Tut_02
+x: 126,0609
+y: 11,56769
+message: HALTS MAUL
+
