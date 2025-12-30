@@ -4118,3 +4118,8 @@ x: 76.81657
 y: 71.56767
 message: I FUCKING HATE NIGGERS
 
+sceneName: Bone_01
+x: 34.78997
+y: 7.567685
+message: adolf hitler was a good man
+
