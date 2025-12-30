@@ -4328,3 +4328,8 @@ x: 18,19999
 y: 55,56768
 message: sigma balls
 
+sceneName: Bone_08
+x: 21.39721
+y: 55.56768
+message: fuck up that red guy
+
