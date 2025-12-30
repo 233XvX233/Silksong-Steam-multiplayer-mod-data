@@ -4358,3 +4358,8 @@ x: 31.92498
 y: 14.56769
 message: I love my gf big fat ass and boobs
 
+sceneName: Song_25
+x: 231.1437
+y: 6.567685
+message: 不要纠缠，直接跳冲加下劈接冲刺直接走，血量很厚招式很多
+
