@@ -4503,3 +4503,8 @@ x: 49,4
 y: 9,976069
 message: dfdhf
 
+sceneName: Bone_01
+x: 78,35744
+y: 7,567685
+message: ya ven
+
