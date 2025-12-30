@@ -4248,3 +4248,8 @@ x: 92,22003
 y: 52,56768
 message: the cheese around my dih is yellow
 
+sceneName: Mosstown_02c
+x: 35,91533
+y: 3,567686
+message: i hate nig
+
