@@ -4373,3 +4373,8 @@ x: 42.73103
 y: 4.59697
 message: 回血点位在两边墙上
 
+sceneName: Bellway_08
+x: 119,61
+y: 13,56769
+message: aaa
+
