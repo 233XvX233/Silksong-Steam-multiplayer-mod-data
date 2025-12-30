@@ -4308,3 +4308,8 @@ x: 12.44668
 y: 8.567684
 message: 잼민이 도랏네
 
+sceneName: Bonetown
+x: 293.7382
+y: 7.567685
+message: 波尙卡
+
