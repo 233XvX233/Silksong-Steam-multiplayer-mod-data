@@ -4423,3 +4423,8 @@ x: 36,14993
 y: 3,567686
 message: niggers
 
+sceneName: Mosstown_02c
+x: 18,86732
+y: 3,567686
+message: HUj
+
