@@ -4268,3 +4268,8 @@ x: 44.43347
 y: 4.567685
 message: 到此一游
 
+sceneName: Bone_05
+x: 79.55025
+y: 3.567686
+message: julian magnus scheidweiler is gay
+
