@@ -4378,3 +4378,8 @@ x: 119,61
 y: 13,56769
 message: aaa
 
+sceneName: Tut_01
+x: 29,06362
+y: 32,56768
+message: NIGGER
+
