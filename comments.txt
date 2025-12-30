@@ -4073,3 +4073,8 @@ x: 30,35492
 y: 8,567684
 message: hola
 
+sceneName: Bone_01
+x: 34,00999
+y: 7,567685
+message: puto el que leee
+
