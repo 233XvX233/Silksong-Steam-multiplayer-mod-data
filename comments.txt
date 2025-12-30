@@ -4458,3 +4458,8 @@ x: 47,44954
 y: 4,567685
 message: ah?
 
+sceneName: Tut_02
+x: 129,0237
+y: 13,59943
+message: OYE VAL
+
