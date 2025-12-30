@@ -4263,3 +4263,8 @@ x: 78.4398
 y: 7.567685
 message: sm到此一游
 
+sceneName: Tut_01
+x: 44.43347
+y: 4.567685
+message: 到此一游
+
