@@ -4293,3 +4293,8 @@ x: 88,8162
 y: 3,567686
 message: Peen Prison moment
 
+sceneName: Abyss_12
+x: 19.75998
+y: 8.567684
+message: 잼민이 돌았노
+
