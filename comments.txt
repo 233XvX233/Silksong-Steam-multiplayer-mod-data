@@ -4228,3 +4228,8 @@ x: 162,8952
 y: 7,567686
 message: sigma blud
 
+sceneName: Bone_01c
+x: 165.7001
+y: 7.567685
+message: lick my fat balls
+
