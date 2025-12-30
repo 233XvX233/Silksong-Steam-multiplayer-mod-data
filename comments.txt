@@ -4203,3 +4203,8 @@ x: 48.98283
 y: 96.56767
 message: 앙앙앙
 
+sceneName: Belltown_basement_03
+x: 107.5091
+y: 52.56768
+message: 앙앙앙
+
