@@ -4243,3 +4243,8 @@ x: 202.9563
 y: 18.56768
 message: sigmund freud
 
+sceneName: Mosstown_02
+x: 92,22003
+y: 52,56768
+message: the cheese around my dih is yellow
+
