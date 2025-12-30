@@ -4478,3 +4478,8 @@ x: 79.28007
 y: 7.567686
 message: nigger
 
+sceneName: Bonetown
+x: 61.44996
+y: 7.567685
+message: nigger
+
