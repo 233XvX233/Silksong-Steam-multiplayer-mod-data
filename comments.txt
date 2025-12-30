@@ -4323,3 +4323,8 @@ x: 47,03999
 y: 4,567685
 message: dihh cheese
 
+sceneName: Bone_08
+x: 18,19999
+y: 55,56768
+message: sigma balls
+
