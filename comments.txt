@@ -4253,3 +4253,8 @@ x: 35,91533
 y: 3,567686
 message: i hate nig
 
+sceneName: Bonetown
+x: 69.69476
+y: 7.567685
+message: 谢谢
+
