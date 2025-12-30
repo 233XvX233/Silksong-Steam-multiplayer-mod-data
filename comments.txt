@@ -4218,3 +4218,8 @@ x: 102.5551
 y: 52.56768
 message: 개큰동의
 
+sceneName: Tut_01
+x: 33,73491
+y: 4,567685
+message: hfbcg
+
