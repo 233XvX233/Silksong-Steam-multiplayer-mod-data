@@ -5017,3 +5017,8 @@ sceneName: Bellway_City
 x: 63,51163
 y: 11,57127
 message: °bitch
+
+sceneName: Bone_East_07
+x: 31.88672
+y: 9.567685
+message: 这里也有艾尔登法环优良传统？
