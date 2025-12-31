@@ -4678,3 +4678,8 @@ x: 36,92416
 y: 92,56767
 message: el damian es entero weko
 
+sceneName: Crawl_02
+x: 12.25403
+y: 2.14
+message: hit
+
