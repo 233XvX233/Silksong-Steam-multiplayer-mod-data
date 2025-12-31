@@ -4843,3 +4843,8 @@ sceneName: Bonetown
 x: 248.1846
 y: 7.567685
 message: 测试1
+
+sceneName: Coral_02
+x: 205.2166
+y: 4.567685
+message: jkhgljgh
