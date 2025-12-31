@@ -1,4 +1,4 @@
-name: Append feedback issue to comments.txt (Optimized)
+name: Append feedback issue to comments.txt (Fixed)
 
 on:
   issues:
@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   append:
+    # 仅当标签为 feedback 且未处理时运行
     if: github.event.label.name == 'feedback' && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
 
@@ -23,16 +24,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # 关键：不指定 ref，让 Action 默认处理或在后面手动 switch
-
-      - name: Prepare Branch
-        run: |
-          git fetch origin auto/comments || true
-          if git show-ref --verify --quiet refs/remotes/origin/auto/comments; then
-            git checkout auto/comments
-          else
-            git checkout main
-          fi
+          # 始终检出 main 作为基准，由插件负责合并/更新分支
+          ref: main
 
       - name: Extract feedback and append to comments.txt
         shell: bash
@@ -44,7 +37,7 @@ jobs:
           FILE="comments.txt"
           touch "$FILE"
 
-          # 提取 Message 块
+          # 提取 Message 块逻辑
           BLOCK=$(printf "%s\n" "$ISSUE_BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
@@ -54,7 +47,6 @@ jobs:
           
           if [ -z "${BLOCK:-}" ]; then BLOCK="$ISSUE_BODY"; fi
 
-          # 解析字段
           parse_field() {
             printf "%s\n" "$BLOCK" | awk -F': ' -v key="$1" '$1==key{sub(/^[^:]*:[ ]*/, "", $0); print; exit}' | sed 's/\r$//'
           }
@@ -64,9 +56,8 @@ jobs:
           y=$(parse_field "y")
           message=$(parse_field "message")
 
-          # 如果关键字段全为空，则跳过防止污染文件
           if [ -z "$sceneName" ] && [ -z "$message" ]; then
-            echo "Error: Could not parse content. Skipping."
+            echo "Error: No valid content found."
             exit 1
           fi
 
@@ -85,39 +76,34 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
           branch: auto/comments
-          branch-suffix: none  # 确保始终使用同一个分支名进行追加
-          delete-branch: false
+          # ⚠️ 修复点：删除 branch-suffix 参数，或设为空
           commit-message: "Append feedback (issue #${{ github.event.issue.number }})"
           title: "Auto-append feedback to comments.txt"
-          body: |
-            This PR is maintained by GitHub Actions. 
-            Latest update from Issue #${{ github.event.issue.number }}.
+          body: "This PR appends feedback from GitHub Issues automatically."
           add-paths: comments.txt
 
-      - name: Enable PR auto-merge (squash)
+      - name: Enable PR auto-merge
         if: steps.cpr.outputs.pull-request-number != ''
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
 
-      - name: Update Issue and Close
+      - name: Finalize Issue
         if: success()
         uses: actions/github-script@v7
         with:
           script: |
-            const prNumber = "${{ steps.cpr.outputs.pull-request-number }}";
+            const prNum = "${{ steps.cpr.outputs.pull-request-number }}";
             const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
             
-            // 1. 添加评论
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `✅ 已成功加入处理队列。\n- 追加至 PR: #${prNumber}\n- 链接: ${prUrl}\n\n该 Issue 将自动关闭并标记为已处理。`
+              body: `✅ 成功追加到 PR #${prNum}\n链接: ${prUrl}`
             });
 
-            // 2. 添加标签
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -125,7 +111,6 @@ jobs:
               labels: ["processed"]
             });
 
-            // 3. 关闭 Issue
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
