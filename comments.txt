@@ -4867,3 +4867,8 @@ sceneName: Dock_06_Church
 x: 34.41968
 y: 21.56566
 message: 头顶有珠子
+
+sceneName: Bellway_01
+x: 73,01741
+y: 9,597684
+message: goy
