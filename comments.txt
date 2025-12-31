@@ -4643,3 +4643,8 @@ x: 15,12151
 y: 3,567686
 message: FAÇA OUTRO SAVE
 
+sceneName: Bonetown
+x: 277.3654
+y: 7.567685
+message: que rico es el pene
+
