@@ -5122,3 +5122,8 @@ sceneName: Bonetown
 x: 236.1401
 y: 7.567685
 message: Good Luck!
+
+sceneName: Tut_01
+x: 36.97939
+y: 32.56768
+message: meow
