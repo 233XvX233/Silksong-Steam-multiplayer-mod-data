@@ -4713,3 +4713,8 @@ x: 25,11538
 y: 20,56767
 message: я фембой
 
+sceneName: Halfway_01
+x: 27,9952
+y: 5,337576
+message: авапа
+
