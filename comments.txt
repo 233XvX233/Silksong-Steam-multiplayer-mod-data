@@ -5067,3 +5067,8 @@ sceneName: Bone_03
 x: 11,94358
 y: 76,56767
 message: xd
+
+sceneName: Mosstown_01
+x: 48,18567
+y: 3,567686
+message: xdxdxdd
