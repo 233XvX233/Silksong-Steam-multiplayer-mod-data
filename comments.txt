@@ -4603,3 +4603,8 @@ x: 97,69496
 y: 83,56767
 message: aqui estuvo damiau
 
+sceneName: Tut_01b
+x: 96.43629
+y: 83.56767
+message: Lucario es entero weko
+
