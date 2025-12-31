@@ -4583,3 +4583,8 @@ x: 50.47498
 y: 20.56768
 message: AWO
 
+sceneName: Bone_05
+x: 88.2233
+y: 3.567686
+message: el panchito es gay
+
