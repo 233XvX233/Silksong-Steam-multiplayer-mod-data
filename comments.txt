@@ -5102,3 +5102,8 @@ sceneName: Bone_12
 x: 18,58236
 y: 4,917613
 message: mejor no xd
+
+sceneName: Ant_02
+x: 13.37
+y: 4.567686
+message: Lugar bien cutre
