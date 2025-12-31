@@ -4668,3 +4668,8 @@ x: 10
 y: 146.8365
 message: Good job!
 
+sceneName: Bone_East_17b
+x: 8.858994
+y: 11.56768
+message: Break here!
+
