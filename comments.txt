@@ -4942,3 +4942,8 @@ sceneName: Tut_02
 x: 122,0093
 y: 6,567685
 message: ven
+
+sceneName: Bone_04
+x: 67.32745
+y: 13.56769
+message: heil hit
