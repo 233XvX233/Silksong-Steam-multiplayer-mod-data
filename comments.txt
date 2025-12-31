@@ -4838,7 +4838,6 @@ x: 174.4329
 y: 6.567685
 message: sajdhk
 
-
 sceneName: Bonetown
 x: 248.1846
 y: 7.567685
