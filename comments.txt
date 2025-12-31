@@ -5077,3 +5077,8 @@ sceneName: Mosstown_02c
 x: 9,171506
 y: 3,567686
 message: xd
+
+sceneName: Mosstown_01
+x: 126,6305
+y: 18,56768
+message: mira bailesito
