@@ -5052,3 +5052,8 @@ sceneName: Bonetown
 x: 75,90382
 y: 7,567685
 message: Hellow Knight
+
+sceneName: Bone_12
+x: 38,95065
+y: 27,56973
+message: my discord is extreme015
