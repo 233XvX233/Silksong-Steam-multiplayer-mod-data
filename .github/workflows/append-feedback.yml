@@ -1,4 +1,4 @@
-name: Append feedback issue to comments.txt (Fixed)
+name: Append feedback issue to comments.txt
 
 on:
   issues:
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   append:
-    # 只有当新增标签是 feedback，且没有 processed 标签时运行
+    # 只有当标签为 feedback 且未标记为 processed 时运行
     if: github.event.label.name == 'feedback' && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
 
@@ -23,16 +23,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main # 始终从主分支开始
+          ref: main
 
-      - name: Extract data using JavaScript
+      - name: Extract data and format
         id: parser
         uses: actions/github-script@v7
         with:
           script: |
             const body = context.payload.issue.body || "";
             
-            // 匹配行首的 key: value，兼容中英文冒号和加粗
+            // 匹配行首的 key: value 模式
             const extract = (key) => {
               const regex = new RegExp(`^${key}\\s*[:：]\\s*(.*)`, 'mi');
               const match = body.match(regex);
@@ -45,16 +45,30 @@ jobs:
             const message = extract("message");
 
             if (!sceneName && !message) {
-              core.setFailed("无法解析 Issue 正文中的反馈数据。");
+              core.setFailed("解析失败：未能在 Issue 正文中找到 sceneName 或 message 字段。");
               return;
             }
 
-            // 将结果存入环境变量供后续步骤使用
-            core.exportVariable('EXTRACTED_DATA', `sceneName: ${sceneName}\nx: ${x}\ny: ${y}\nmessage: ${message}\n\n`);
+            // 构建输出字符串
+            const output = `sceneName: ${sceneName}\nx: ${x}\ny: ${y}\nmessage: ${message}\n`;
+            core.exportVariable('EXTRACTED_DATA', output);
 
-      - name: Append to file
+      - name: Append to comments.txt
         run: |
-          echo "$EXTRACTED_DATA" >> comments.txt
+          FILE="comments.txt"
+          touch "$FILE"
+          
+          # 如果文件不为空，且末尾没有空行，则先补一个换行
+          if [ -s "$FILE" ] && [ "$(tail -c 1 "$FILE" | wc -l)" -eq 0 ]; then
+            echo "" >> "$FILE"
+          fi
+          
+          # 确保新条目之前只有一个空行间隔
+          if [ -s "$FILE" ]; then
+            echo "" >> "$FILE"
+          fi
+          
+          printf "%s" "$EXTRACTED_DATA" >> "$FILE"
 
       - name: Create or update pull request
         id: cpr
@@ -63,10 +77,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
           branch: auto/comments
-          # 注意：v6 中不使用 branch-suffix: none，默认即为更新现有分支
-          commit-message: "Append feedback (issue #${{ github.event.issue.number }})"
+          delete-branch: false
+          commit-message: "Append feedback from issue #${{ github.event.issue.number }}"
           title: "Auto-append feedback to comments.txt"
-          body: "This PR is maintained by GitHub Actions to collect feedback from issues."
+          body: "This PR is automatically managed by GitHub Actions to sync feedback from Issues."
           add-paths: comments.txt
 
       - name: Enable PR auto-merge
@@ -76,7 +90,7 @@ jobs:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
 
-      - name: Finalize Issue
+      - name: Close and Label Issue
         if: success()
         uses: actions/github-script@v7
         with:
@@ -84,13 +98,15 @@ jobs:
             const prNum = "${{ steps.cpr.outputs.pull-request-number }}";
             const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
             
+            // 添加处理反馈
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `✅ 数据已成功提取并排队 PR #${prNum}\n${prUrl}`
+              body: `✅ **反馈已成功写入队列**\n\n- 数据已追加至 \`comments.txt\`\n- 统一 PR 链接：[#${prNum}](${prUrl})\n\n该 Issue 现已自动标记并关闭。`
             });
 
+            // 打上 processed 标签
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -98,6 +114,7 @@ jobs:
               labels: ["processed"]
             });
 
+            // 关闭 Issue
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
