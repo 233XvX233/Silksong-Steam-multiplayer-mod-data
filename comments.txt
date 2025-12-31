@@ -5002,3 +5002,8 @@ sceneName: Tut_03
 x: 90.40352
 y: 4.567685
 message: good english love from lzrnhj
+
+sceneName: Bone_01
+x: 93.83708
+y: 23.56768
+message: ？？？
