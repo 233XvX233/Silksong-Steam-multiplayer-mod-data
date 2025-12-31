@@ -4937,3 +4937,8 @@ sceneName: Bone_04
 x: 66.22496
 y: 13.56769
 message: Pushanka
+
+sceneName: Tut_02
+x: 122,0093
+y: 6,567685
+message: ven
