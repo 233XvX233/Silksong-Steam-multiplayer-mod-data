@@ -4553,3 +4553,8 @@ x: 27,74495
 y: 4,567685
 message: gosto de cuzudas peludas
 
+sceneName: Halfway_01
+x: 16,38805
+y: 4,567685
+message: suck penis gordo
+
