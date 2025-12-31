@@ -4613,3 +4613,8 @@ x: 233.0052
 y: 7.567685
 message: Report jett
 
+sceneName: Bonetown
+x: 239.862
+y: 7.567685
+message: que mirai
+
