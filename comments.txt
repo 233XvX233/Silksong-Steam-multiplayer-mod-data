@@ -5022,3 +5022,8 @@ sceneName: Bone_East_07
 x: 31.88672
 y: 9.567685
 message: 这里也有艾尔登法环优良传统？
+
+sceneName: Tut_01
+x: 50.75967
+y: 4.567685
+message: GALGAME的专家
