@@ -4708,3 +4708,8 @@ x: 20,05026
 y: 26,56858
 message: slava allahy
 
+sceneName: Halfway_01
+x: 25,11538
+y: 20,56767
+message: я фембой
+
