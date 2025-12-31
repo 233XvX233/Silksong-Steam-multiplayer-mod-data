@@ -4698,3 +4698,8 @@ x: 12.37
 y: 32.56768
 message: hola
 
+sceneName: Tut_03
+x: 106.0195
+y: 3.567686
+message: ADIAAAAA
+
