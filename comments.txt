@@ -4653,3 +4653,8 @@ x: 29.59492
 y: 143.4736
 message: BearBee!
 
+sceneName: Cog_04
+x: 7.992936
+y: 138.5695
+message: Bearbee!
+
