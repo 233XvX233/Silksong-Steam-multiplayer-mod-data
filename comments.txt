@@ -5012,3 +5012,8 @@ sceneName: Dust_Shack
 x: 19,06998
 y: 6,567685
 message: Fatty and Jimmy
+
+sceneName: Bellway_City
+x: 63,51163
+y: 11,57127
+message: °bitch
