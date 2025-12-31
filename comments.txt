@@ -4862,3 +4862,8 @@ sceneName: Bone_East_09
 x: 51.40204
 y: 43.58288
 message: furry
+
+sceneName: Dock_06_Church
+x: 34.41968
+y: 21.56566
+message: 头顶有珠子
