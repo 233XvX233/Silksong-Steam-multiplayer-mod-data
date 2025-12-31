@@ -4852,3 +4852,8 @@ sceneName: Bonetown
 x: 250.9895
 y: 7.567685
 message: 测试2
+
+sceneName: Song_Enclave
+x: 52.05376
+y: 7.567685
+message: 666
