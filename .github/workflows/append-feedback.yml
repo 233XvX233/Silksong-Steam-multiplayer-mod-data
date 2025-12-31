@@ -1,4 +1,4 @@
-name: Append feedback issue to comments.txt (single PR)
+name: Append feedback issue to comments.txt (Optimized)
 
 on:
   issues:
@@ -11,7 +11,6 @@ permissions:
 
 jobs:
   append:
-    # ✅ 只有“这次新增的标签就是 feedback”才跑；且未 processed 才跑
     if: github.event.label.name == 'feedback' && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
 
@@ -24,7 +23,16 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: main
+          # 关键：不指定 ref，让 Action 默认处理或在后面手动 switch
+
+      - name: Prepare Branch
+        run: |
+          git fetch origin auto/comments || true
+          if git show-ref --verify --quiet refs/remotes/origin/auto/comments; then
+            git checkout auto/comments
+          else
+            git checkout main
+          fi
 
       - name: Extract feedback and append to comments.txt
         shell: bash
@@ -36,28 +44,31 @@ jobs:
           FILE="comments.txt"
           touch "$FILE"
 
-          BODY="$ISSUE_BODY"
-
-          # 提取 Message: 块（到 Meta 或结尾）；没有则回退到全文
-          BLOCK=$(printf "%s\n" "$BODY" | awk '
+          # 提取 Message 块
+          BLOCK=$(printf "%s\n" "$ISSUE_BODY" | awk '
             BEGIN{inmsg=0}
             /^Message:/ {inmsg=1; next}
             /^Meta/ {if(inmsg==1){exit}}
             { if(inmsg==1) print }
           ')
-          if [ -z "${BLOCK:-}" ]; then
-            BLOCK="$BODY"
+          
+          if [ -z "${BLOCK:-}" ]; then BLOCK="$ISSUE_BODY"; fi
+
+          # 解析字段
+          parse_field() {
+            printf "%s\n" "$BLOCK" | awk -F': ' -v key="$1" '$1==key{sub(/^[^:]*:[ ]*/, "", $0); print; exit}' | sed 's/\r$//'
+          }
+
+          sceneName=$(parse_field "sceneName")
+          x=$(parse_field "x")
+          y=$(parse_field "y")
+          message=$(parse_field "message")
+
+          # 如果关键字段全为空，则跳过防止污染文件
+          if [ -z "$sceneName" ] && [ -z "$message" ]; then
+            echo "Error: Could not parse content. Skipping."
+            exit 1
           fi
-
-          sceneName=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="sceneName"{sub(/^sceneName:[ ]*/, "", $0); print; exit}')
-          x=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="x"{sub(/^x:[ ]*/, "", $0); print; exit}')
-          y=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="y"{sub(/^y:[ ]*/, "", $0); print; exit}')
-          message=$(printf "%s\n" "$BLOCK" | awk -F': ' '$1=="message"{sub(/^message:[ ]*/, "", $0); print; exit}')
-
-          sceneName=$(printf "%s" "${sceneName:-}" | sed 's/\r$//')
-          x=$(printf "%s" "${x:-}" | sed 's/\r$//')
-          y=$(printf "%s" "${y:-}" | sed 's/\r$//')
-          message=$(printf "%s" "${message:-}" | sed 's/\r$//')
 
           {
             echo "sceneName: ${sceneName}"
@@ -74,49 +85,39 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
           branch: auto/comments
+          branch-suffix: none  # 确保始终使用同一个分支名进行追加
           delete-branch: false
           commit-message: "Append feedback (issue #${{ github.event.issue.number }})"
           title: "Auto-append feedback to comments.txt"
           body: |
-            This PR is maintained by GitHub Actions and continuously appends feedback into comments.txt.
-          add-paths: |
-            comments.txt
+            This PR is maintained by GitHub Actions. 
+            Latest update from Issue #${{ github.event.issue.number }}.
+          add-paths: comments.txt
 
       - name: Enable PR auto-merge (squash)
-        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
+        if: steps.cpr.outputs.pull-request-number != ''
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
 
-      - name: Comment on issue
-        if: ${{ success() && steps.cpr.outputs.pull-request-number != '' }}
+      - name: Update Issue and Close
+        if: success()
         uses: actions/github-script@v7
         with:
           script: |
-            const prNumber = Number("${{ steps.cpr.outputs.pull-request-number }}");
+            const prNumber = "${{ steps.cpr.outputs.pull-request-number }}";
             const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
-            const rawUrl = `https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/main/comments.txt`;
+            
+            // 1. 添加评论
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: [
-                "已加入队列并写入 PR ✅",
-                "",
-                `- 已追加到 \`comments.txt\`（统一 PR #${prNumber}）`,
-                `- PR 链接：${prUrl}`,
-                `- 合并后 Unity Raw：${rawUrl}`,
-                "",
-                "（此 Issue 将打上 processed 并关闭）"
-              ].join("\n")
+              body: `✅ 已成功加入处理队列。\n- 追加至 PR: #${prNumber}\n- 链接: ${prUrl}\n\n该 Issue 将自动关闭并标记为已处理。`
             });
 
-      - name: Add processed label
-        if: ${{ success() }}
-        uses: actions/github-script@v7
-        with:
-          script: |
+            // 2. 添加标签
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -124,11 +125,7 @@ jobs:
               labels: ["processed"]
             });
 
-      - name: Close issue
-        if: ${{ success() }}
-        uses: actions/github-script@v7
-        with:
-          script: |
+            // 3. 关闭 Issue
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
