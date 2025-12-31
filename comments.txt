@@ -4588,3 +4588,8 @@ x: 88.2233
 y: 3.567686
 message: el panchito es gay
 
+sceneName: Bone_05
+x: 78.32325
+y: 3.567686
+message: al panchito le gusta la verga
+
