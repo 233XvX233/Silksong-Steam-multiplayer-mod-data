@@ -4882,3 +4882,8 @@ sceneName: Abyss_12
 x: 16.625
 y: 8.567684
 message: 123
+
+sceneName: Bone_East_12
+x: 10.06902
+y: 7.567685
+message: hi
