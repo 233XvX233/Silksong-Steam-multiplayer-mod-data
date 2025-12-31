@@ -5037,3 +5037,8 @@ sceneName: Mosstown_01
 x: 30
 y: 25.56768
 message: fk
+
+sceneName: Bone_01
+x: 54.05236
+y: 7.567685
+message: galgame的专家
