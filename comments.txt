@@ -4648,3 +4648,8 @@ x: 277.3654
 y: 7.567685
 message: que rico es el pene
 
+sceneName: Cog_04
+x: 29.59492
+y: 143.4736
+message: BearBee!
+
