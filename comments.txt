@@ -4688,3 +4688,8 @@ x: 21,06668
 y: 17,56768
 message: quiero panocha
 
+sceneName: Tut_03
+x: 52,26172
+y: 17,56769
+message: pvt4
+
