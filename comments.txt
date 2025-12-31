@@ -4781,3 +4781,9 @@ y: 87,56767
 message: Nice runback, eh?
 
 
+sceneName: Coral_32
+x: 156.0656
+y: 87.56767
+message: Kurwa bober
+
+
