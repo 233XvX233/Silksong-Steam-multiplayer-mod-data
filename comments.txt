@@ -4538,3 +4538,8 @@ x: 43.30496
 y: 4.567685
 message: dajkfslk
 
+sceneName: Cradle_03
+x: 44.06413
+y: 133.5677
+message: THIS IS SO HARDD
+
