@@ -4703,3 +4703,8 @@ x: 106.0195
 y: 3.567686
 message: ADIAAAAA
 
+sceneName: Dust_Chef
+x: 20,05026
+y: 26,56858
+message: slava allahy
+
