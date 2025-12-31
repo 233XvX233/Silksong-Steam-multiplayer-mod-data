@@ -4608,3 +4608,8 @@ x: 96.43629
 y: 83.56767
 message: Lucario es entero weko
 
+sceneName: Bonetown
+x: 233.0052
+y: 7.567685
+message: Report jett
+
