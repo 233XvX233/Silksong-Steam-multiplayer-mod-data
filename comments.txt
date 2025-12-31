@@ -4738,124 +4738,103 @@ x: 228.5504
 y: 7.567685
 message: 线痕
 
-
 sceneName: Hang_04
 x: 30.08009
 y: 4.567685
 message: 주발라나
-
 
 sceneName: Belltown_basement
 x: 32,0842
 y: 96,56769
 message: adama
 
-
 sceneName: Bone_05
 x: 81.37026
 y: 3.567686
 message: 前有狗
-
 
 sceneName: Dust_05
 x: 325.5633
 y: 13.46381
 message: 救救我
 
-
 sceneName: Tut_01b
 x: 145.1157
 y: 60.56768
 message: 门不能从这一侧打开
-
 
 sceneName: Bone_East_12
 x: 85.21521
 y: 7.567685
 message: 动不了了
 
-
 sceneName: Coral_32
 x: 152,1238
 y: 87,56767
 message: Nice runback, eh?
-
 
 sceneName: Coral_32
 x: 156.0656
 y: 87.56767
 message: Kurwa bober
 
-
 sceneName: Cog_Dancers
 x: 35,34351
 y: 4,59697
 message: Gay+
 
-
 sceneName: Tut_01
 x: 52.74002
 y: 4.567685
 message: 6767
 
-
 sceneName: Tut_01
 x: 52.74002
 y: 4.567685
 message: 6767
-
 
 sceneName: Crawl_02
 x: 7,409002
 y: 27,56768
 message: Titties
 
-
 sceneName: Tut_01
 x: 48.08999
 y: 4.567685
 message: oraoraoraora
-
 
 sceneName: Tut_02
 x: 120.8695
 y: 31.56768
 message: 飞舞队友变成茧了
 
-
 sceneName: Bellway_02
 x: 81,70998
 y: 17,55554
 message: Penis
-
 
 sceneName: Coral_32
 x: 152.5577
 y: 87.56767
 message: bitch
 
-
 sceneName: Coral_32
 x: 164,2969
 y: 87,56767
 message: The doubter must be silenced
-
 
 sceneName: Shadow_18
 x: 56.08545
 y: 11.44238
 message: 依旧bug
 
-
 sceneName: Bellway_08
 x: 123,745
 y: 13,56769
 message: God damn it anderson
 
-
 sceneName: Coral_11
 x: 174.4329
 y: 6.567685
 message: sajdhk
-
 
