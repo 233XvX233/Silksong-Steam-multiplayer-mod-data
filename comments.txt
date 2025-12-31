@@ -5092,3 +5092,8 @@ sceneName: Bone_07
 x: 56,07052
 y: 57,56767
 message: con escape
+
+sceneName: Bone_12
+x: 18,58236
+y: 4,567685
+message: ME SUicidio y cuando esta concentrado en mi le pegas
