@@ -4563,3 +4563,8 @@ x: 27,08496
 y: 4,567685
 message: mano esse cara é bom
 
+sceneName: Halfway_01
+x: 28,09796
+y: 9,919909
+message: dsi fisfjsodfj sfkds ,pfkdfp rfedk gpfd,p ,kpf iapk dpak,dpa d,ap f,apf ,apf kdpif dksaf [psdkfp[awekf[po awkf p[eowkf pe[wakf [peawf kewpa fkwa[pi fk,pofemkwfeam,fp[kdsfpkaep[ofk[pfk ep[okp[kdpkwpakd pkp [kwa[pd aw[dowakdpo akopd[waok dwpadk [pakpwk      ,
+
