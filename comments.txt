@@ -4558,3 +4558,8 @@ x: 16,38805
 y: 4,567685
 message: suck penis gordo
 
+sceneName: Halfway_01
+x: 27,08496
+y: 4,567685
+message: mano esse cara é bom
+
