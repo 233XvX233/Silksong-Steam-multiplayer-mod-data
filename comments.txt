@@ -4769,3 +4769,9 @@ y: 60.56768
 message: 门不能从这一侧打开
 
 
+sceneName: Bone_East_12
+x: 85.21521
+y: 7.567685
+message: 动不了了
+
+
