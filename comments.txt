@@ -5047,3 +5047,8 @@ sceneName: Bone_04
 x: 15.39
 y: 18.56768
 message: 不好打吧
+
+sceneName: Bonetown
+x: 75,90382
+y: 7,567685
+message: Hellow Knight
