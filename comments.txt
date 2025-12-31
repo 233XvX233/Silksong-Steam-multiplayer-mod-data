@@ -5127,3 +5127,8 @@ sceneName: Tut_01
 x: 36.97939
 y: 32.56768
 message: meow
+
+sceneName: Tut_01
+x: 47.94454
+y: 4.567685
+message: sq
