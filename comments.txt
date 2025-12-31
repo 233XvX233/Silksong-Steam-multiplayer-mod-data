@@ -5107,3 +5107,8 @@ sceneName: Ant_02
 x: 13.37
 y: 4.567686
 message: Lugar bien cutre
+
+sceneName: Ant_04_left
+x: 29.09322
+y: 6.567685
+message: f6
