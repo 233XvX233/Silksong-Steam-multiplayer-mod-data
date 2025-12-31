@@ -4912,3 +4912,8 @@ sceneName: Bone_East_12
 x: 90.98816
 y: 7.567685
 message: 我动不了
+
+sceneName: Halfway_01
+x: 22.92623
+y: 4.567685
+message: 111
