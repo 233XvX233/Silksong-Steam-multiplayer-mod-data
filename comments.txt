@@ -4787,3 +4787,9 @@ y: 87.56767
 message: Kurwa bober
 
 
+sceneName: Cog_Dancers
+x: 35,34351
+y: 4,59697
+message: Gay+
+
+
