@@ -4543,3 +4543,8 @@ x: 44.06413
 y: 133.5677
 message: THIS IS SO HARDD
 
+sceneName: Bonetown
+x: 74.82504
+y: 8.144377
+message: Swag Money
+
