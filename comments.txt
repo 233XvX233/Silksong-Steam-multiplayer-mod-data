@@ -4663,3 +4663,8 @@ x: 13.325
 y: 8.531463
 message: Good luck
 
+sceneName: Cog_08
+x: 10
+y: 146.8365
+message: Good job!
+
