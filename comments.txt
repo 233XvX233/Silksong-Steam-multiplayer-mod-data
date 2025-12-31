@@ -5082,3 +5082,8 @@ sceneName: Mosstown_01
 x: 126,6305
 y: 18,56768
 message: mira bailesito
+
+sceneName: Bone_07
+x: 54,09051
+y: 57,56768
+message: aprendi a flotar
