@@ -4623,3 +4623,8 @@ x: 206.1111
 y: 18.56768
 message: mom?
 
+sceneName: Bone_East_12
+x: 91.46389
+y: 7.567685
+message: This french lesbian
+
