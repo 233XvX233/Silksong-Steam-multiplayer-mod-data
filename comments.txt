@@ -4745,3 +4745,9 @@ y: 4.567685
 message: 주발라나
 
 
+sceneName: Belltown_basement
+x: 32,0842
+y: 96,56769
+message: adama
+
+
