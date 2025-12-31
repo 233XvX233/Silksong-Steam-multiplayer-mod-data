@@ -4872,3 +4872,8 @@ sceneName: Bellway_01
 x: 73,01741
 y: 9,597684
 message: goy
+
+sceneName: Bonetown
+x: 93.97515
+y: 9.84666
+message: wawu你在哪
