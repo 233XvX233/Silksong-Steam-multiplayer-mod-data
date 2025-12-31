@@ -5062,3 +5062,8 @@ sceneName: Tut_01
 x: 44.64449
 y: 4.567685
 message: HUEVOS
+
+sceneName: Bone_03
+x: 11,94358
+y: 76,56767
+message: xd
