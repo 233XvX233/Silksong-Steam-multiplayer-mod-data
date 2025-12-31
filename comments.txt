@@ -4907,3 +4907,8 @@ sceneName: Coral_Judge_Arena
 x: 47.4845
 y: 24.56768
 message: HEYYYYYYYYYYY :3
+
+sceneName: Bone_East_12
+x: 90.98816
+y: 7.567685
+message: 我动不了
