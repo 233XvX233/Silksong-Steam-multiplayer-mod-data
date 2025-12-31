@@ -4877,3 +4877,8 @@ sceneName: Bonetown
 x: 93.97515
 y: 9.84666
 message: wawu你在哪
+
+sceneName: Abyss_12
+x: 16.625
+y: 8.567684
+message: 123
