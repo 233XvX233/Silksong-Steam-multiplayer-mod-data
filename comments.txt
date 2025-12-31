@@ -4739,3 +4739,9 @@ y: 7.567685
 message: 线痕
 
 
+sceneName: Hang_04
+x: 30.08009
+y: 4.567685
+message: 주발라나
+
+
