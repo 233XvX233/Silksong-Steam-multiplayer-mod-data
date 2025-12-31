@@ -4835,3 +4835,9 @@ y: 87.56767
 message: bitch
 
 
+sceneName: Coral_32
+x: 164,2969
+y: 87,56767
+message: The doubter must be silenced
+
+
