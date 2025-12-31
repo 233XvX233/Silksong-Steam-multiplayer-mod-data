@@ -4683,3 +4683,8 @@ x: 12.25403
 y: 2.14
 message: hit
 
+sceneName: Tut_03
+x: 21,06668
+y: 17,56768
+message: quiero panocha
+
