@@ -4972,3 +4972,8 @@ sceneName: Tut_01
 x: 15,29
 y: 32,56768
 message: colicos xdxd
+
+sceneName: Tut_01
+x: 36.80991
+y: 32.56768
+message: NUV
