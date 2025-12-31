@@ -4658,3 +4658,8 @@ x: 7.992936
 y: 138.5695
 message: Bearbee!
 
+sceneName: Cog_08
+x: 13.325
+y: 8.531463
+message: Good luck
+
