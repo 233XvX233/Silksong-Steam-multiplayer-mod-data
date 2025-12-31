@@ -4922,3 +4922,8 @@ sceneName: Bone_05
 x: 74.99065
 y: 3.567686
 message: GUARNIZ ES GAY
+
+sceneName: Coral_32
+x: 148.1082
+y: 87.56767
+message: HOW DO YOU GET THE FREAKING FLEA HERE
