@@ -4733,3 +4733,9 @@ x: 42.41851
 y: 32.56768
 message: **
 
+sceneName: Bonetown
+x: 228.5504
+y: 7.567685
+message: 线痕
+
+
