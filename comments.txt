@@ -4857,3 +4857,8 @@ sceneName: Song_Enclave
 x: 52.05376
 y: 7.567685
 message: 666
+
+sceneName: Bone_East_09
+x: 51.40204
+y: 43.58288
+message: furry
