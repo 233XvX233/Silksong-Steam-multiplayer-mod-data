@@ -4987,3 +4987,8 @@ sceneName: Tut_01
 x: 32.88489
 y: 32.56768
 message: 111
+
+sceneName: Tut_01b
+x: 85.1496
+y: 35.56768
+message: 江雾到此一游
