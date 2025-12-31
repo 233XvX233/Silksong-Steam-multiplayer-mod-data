@@ -5072,3 +5072,8 @@ sceneName: Mosstown_01
 x: 48,18567
 y: 3,567686
 message: xdxdxdd
+
+sceneName: Mosstown_02c
+x: 9,171506
+y: 3,567686
+message: xd
