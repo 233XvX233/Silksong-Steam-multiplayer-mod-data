@@ -4718,3 +4718,8 @@ x: 27,9952
 y: 5,337576
 message: авапа
 
+sceneName: Bonetown
+x: 238.78
+y: 7.567686
+message: wawaw
+
