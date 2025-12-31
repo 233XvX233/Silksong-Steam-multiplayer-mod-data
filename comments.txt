@@ -4723,3 +4723,8 @@ x: 238.78
 y: 7.567686
 message: wawaw
 
+sceneName: Tut_01
+x: 43.96898
+y: 21.56768
+message: HI GUYS
+
