@@ -5042,3 +5042,8 @@ sceneName: Bone_01
 x: 54.05236
 y: 7.567685
 message: galgame的专家
+
+sceneName: Bone_04
+x: 15.39
+y: 18.56768
+message: 不好打吧
