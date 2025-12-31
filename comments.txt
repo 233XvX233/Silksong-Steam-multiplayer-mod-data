@@ -4962,3 +4962,8 @@ sceneName: Tut_01
 x: 29.23485
 y: 32.56768
 message: 111
+
+sceneName: Tut_01
+x: 31.50915
+y: 32.56768
+message: 22331323
