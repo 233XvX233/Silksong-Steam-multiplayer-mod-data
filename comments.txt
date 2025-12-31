@@ -4751,3 +4751,9 @@ y: 96,56769
 message: adama
 
 
+sceneName: Bone_05
+x: 81.37026
+y: 3.567686
+message: 前有狗
+
+
