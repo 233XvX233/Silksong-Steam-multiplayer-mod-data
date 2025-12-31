@@ -4841,3 +4841,9 @@ y: 87,56767
 message: The doubter must be silenced
 
 
+sceneName: Shadow_18
+x: 56.08545
+y: 11.44238
+message: 依旧bug
+
+
