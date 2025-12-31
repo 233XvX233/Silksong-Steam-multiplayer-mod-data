@@ -4902,3 +4902,8 @@ sceneName: Bellway_03
 x: 32,8926
 y: 9,567685
 message: хуй
+
+sceneName: Coral_Judge_Arena
+x: 47.4845
+y: 24.56768
+message: HEYYYYYYYYYYY :3
