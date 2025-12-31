@@ -1,13 +1,20 @@
-name: Bulk Process Feedback Issues
+name: Bulk Process Legacy Issues (Enhanced)
 on:
   workflow_dispatch: # 手动触发
 
 jobs:
   bulk-append:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Process All Open Issues
         uses: actions/github-script@v7
@@ -18,7 +25,7 @@ jobs:
             const fs = require('fs');
             const path = process.env.FILE_PATH;
             
-            // 1. 获取所有打开的 Issue (可以根据需要筛选 label)
+            // 1. 获取所有打开的 Issue
             const issues = await github.paginate(github.rest.issues.listForRepo, {
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -26,19 +33,21 @@ jobs:
               per_page: 100
             });
 
-            let appendedCount = 0;
             let newData = "";
+            let processedCount = 0;
 
             for (const issue of issues) {
-              // 排除掉已经是 PR 的 Issue
+              // 跳过 PR 和已经有 processed 标签的
               if (issue.pull_request) continue;
-              
-              // 解析逻辑 (模拟你之前的 awk 逻辑)
+              if (issue.labels.some(l => l.name === 'processed')) continue;
+
               const body = issue.body || "";
+              
+              // 增强版正则解析：兼容大小写、多余空格和不同的换行符
               const extract = (key) => {
                 const regex = new RegExp(`${key}:\\s*(.*)`, 'i');
                 const match = body.match(regex);
-                return match ? match[1].replace(/\r/g, '').trim() : "";
+                return match ? match[1].trim() : "";
               };
 
               const sceneName = extract("sceneName");
@@ -46,11 +55,11 @@ jobs:
               const y = extract("y");
               const message = extract("message");
 
-              // 只有解析出内容的才处理
+              // 只有当至少有 sceneName 或 message 时才记录
               if (sceneName || message) {
                 newData += `sceneName: ${sceneName}\nx: ${x}\ny: ${y}\nmessage: ${message}\n\n`;
                 
-                // 给 Issue 打标并关闭
+                // 批量操作：打标并关闭
                 await github.rest.issues.addLabels({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
@@ -63,21 +72,24 @@ jobs:
                   issue_number: issue.number,
                   state: 'closed'
                 });
-                appendedCount++;
+                processedCount++;
+                console.log(`Processed Issue #${issue.number}: ${sceneName}`);
+              } else {
+                console.log(`Skipped Issue #${issue.number}: Content not match format`);
               }
             }
 
-            if (appendedCount > 0) {
-              fs.appendFileSync(path, newData);
-              console.log(`Successfully processed ${appendedCount} issues.`);
+            if (processedCount > 0) {
+              // 读取旧文件内容并在末尾追加
+              const currentContent = fs.existsSync(path) ? fs.readFileSync(path, 'utf8') : "";
+              fs.writeFileSync(path, currentContent + newData);
             }
-            
-            return appendedCount;
+            return processedCount;
 
-      - name: Create Pull Request for Bulk Update
+      - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "Bulk cleanup: Append 134 legacy feedback issues"
-          title: "Maintenance: Bulk Feedback Import"
-          branch: maintenance/bulk-feedback
-          body: "This PR imports legacy feedback from 130+ open issues."
+          commit-message: "docs: bulk import 134 legacy comments"
+          title: "Maintenance: Bulk Import Legacy Feedback"
+          branch: maintenance/bulk-fix
+          body: "This PR automatically imports all legacy feedback issues into comments.txt."
