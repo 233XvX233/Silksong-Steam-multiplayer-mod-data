@@ -4817,3 +4817,9 @@ y: 4.567685
 message: oraoraoraora
 
 
+sceneName: Tut_02
+x: 120.8695
+y: 31.56768
+message: 飞舞队友变成茧了
+
+
