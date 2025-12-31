@@ -4548,3 +4548,8 @@ x: 74.82504
 y: 8.144377
 message: Swag Money
 
+sceneName: Halfway_01
+x: 27,74495
+y: 4,567685
+message: gosto de cuzudas peludas
+
