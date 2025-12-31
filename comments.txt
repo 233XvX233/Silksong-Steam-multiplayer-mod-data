@@ -4977,3 +4977,8 @@ sceneName: Tut_01
 x: 36.80991
 y: 32.56768
 message: NUV
+
+sceneName: Greymoor_03
+x: 38.02002
+y: 14.56769
+message: shaw
