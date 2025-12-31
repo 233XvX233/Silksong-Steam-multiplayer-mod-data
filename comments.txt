@@ -5117,3 +5117,8 @@ sceneName: Tut_01
 x: 43.76999
 y: 66.56767
 message: yyy\
+
+sceneName: Bonetown
+x: 236.1401
+y: 7.567685
+message: Good Luck!
