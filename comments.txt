@@ -5027,3 +5027,8 @@ sceneName: Tut_01
 x: 50.75967
 y: 4.567685
 message: GALGAME的专家
+
+sceneName: Bonetown
+x: 91.27895
+y: 7.567685
+message: GALGAME的专家
