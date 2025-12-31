@@ -4992,3 +4992,8 @@ sceneName: Tut_01b
 x: 85.1496
 y: 35.56768
 message: 江雾到此一游
+
+sceneName: Song_14
+x: 59,96368
+y: 6,567685
+message: AWOOOOOOOOOOOOOOOOOOOOOOOOOOOO
