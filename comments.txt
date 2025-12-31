@@ -4917,3 +4917,8 @@ sceneName: Halfway_01
 x: 22.92623
 y: 4.567685
 message: 111
+
+sceneName: Bone_05
+x: 74.99065
+y: 3.567686
+message: GUARNIZ ES GAY
