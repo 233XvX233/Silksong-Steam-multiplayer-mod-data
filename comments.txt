@@ -4633,3 +4633,8 @@ x: 26.87885
 y: 4.567685
 message: aaaaaaaaaaaaaaaa
 
+sceneName: Mosstown_02c
+x: 43,01647
+y: 3,567686
+message: FAÇA OUTRO SAVE
+
