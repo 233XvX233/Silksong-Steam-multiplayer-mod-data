@@ -5112,3 +5112,8 @@ sceneName: Ant_04_left
 x: 29.09322
 y: 6.567685
 message: f6
+
+sceneName: Tut_01
+x: 43.76999
+y: 66.56767
+message: yyy\
