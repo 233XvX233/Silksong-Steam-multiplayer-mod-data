@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   append:
-    # 仅当标签为 feedback 且未处理时运行
+    # 只有当新增标签是 feedback，且没有 processed 标签时运行
     if: github.event.label.name == 'feedback' && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
 
@@ -23,63 +23,50 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          # 始终检出 main 作为基准，由插件负责合并/更新分支
-          ref: main
+          ref: main # 始终从主分支开始
 
-      - name: Extract feedback and append to comments.txt
-        shell: bash
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
+      - name: Extract data using JavaScript
+        id: parser
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || "";
+            
+            // 匹配行首的 key: value，兼容中英文冒号和加粗
+            const extract = (key) => {
+              const regex = new RegExp(`^${key}\\s*[:：]\\s*(.*)`, 'mi');
+              const match = body.match(regex);
+              return match ? match[1].trim() : "";
+            };
+
+            const sceneName = extract("sceneName");
+            const x = extract("x");
+            const y = extract("y");
+            const message = extract("message");
+
+            if (!sceneName && !message) {
+              core.setFailed("无法解析 Issue 正文中的反馈数据。");
+              return;
+            }
+
+            // 将结果存入环境变量供后续步骤使用
+            core.exportVariable('EXTRACTED_DATA', `sceneName: ${sceneName}\nx: ${x}\ny: ${y}\nmessage: ${message}\n\n`);
+
+      - name: Append to file
         run: |
-          set -euo pipefail
+          echo "$EXTRACTED_DATA" >> comments.txt
 
-          FILE="comments.txt"
-          touch "$FILE"
-
-          # 提取 Message 块逻辑
-          BLOCK=$(printf "%s\n" "$ISSUE_BODY" | awk '
-            BEGIN{inmsg=0}
-            /^Message:/ {inmsg=1; next}
-            /^Meta/ {if(inmsg==1){exit}}
-            { if(inmsg==1) print }
-          ')
-          
-          if [ -z "${BLOCK:-}" ]; then BLOCK="$ISSUE_BODY"; fi
-
-          parse_field() {
-            printf "%s\n" "$BLOCK" | awk -F': ' -v key="$1" '$1==key{sub(/^[^:]*:[ ]*/, "", $0); print; exit}' | sed 's/\r$//'
-          }
-
-          sceneName=$(parse_field "sceneName")
-          x=$(parse_field "x")
-          y=$(parse_field "y")
-          message=$(parse_field "message")
-
-          if [ -z "$sceneName" ] && [ -z "$message" ]; then
-            echo "Error: No valid content found."
-            exit 1
-          fi
-
-          {
-            echo "sceneName: ${sceneName}"
-            echo "x: ${x}"
-            echo "y: ${y}"
-            echo "message: ${message}"
-            echo ""
-          } >> "$FILE"
-
-      - name: Create or update single pull request
+      - name: Create or update pull request
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
           branch: auto/comments
-          # ⚠️ 修复点：删除 branch-suffix 参数，或设为空
+          # 注意：v6 中不使用 branch-suffix: none，默认即为更新现有分支
           commit-message: "Append feedback (issue #${{ github.event.issue.number }})"
           title: "Auto-append feedback to comments.txt"
-          body: "This PR appends feedback from GitHub Issues automatically."
+          body: "This PR is maintained by GitHub Actions to collect feedback from issues."
           add-paths: comments.txt
 
       - name: Enable PR auto-merge
@@ -101,7 +88,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `✅ 成功追加到 PR #${prNum}\n链接: ${prUrl}`
+              body: `✅ 数据已成功提取并排队 PR #${prNum}\n${prUrl}`
             });
 
             await github.rest.issues.addLabels({
