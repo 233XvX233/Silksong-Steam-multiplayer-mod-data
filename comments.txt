@@ -4952,3 +4952,8 @@ sceneName: Tut_01
 x: 37,77692
 y: 4,567685
 message: cuantos fragmentos tienes
+
+sceneName: Tut_01
+x: 31.31292
+y: 4.567685
+message: AAAAAAAAA
