@@ -5087,3 +5087,8 @@ sceneName: Bone_07
 x: 54,09051
 y: 57,56768
 message: aprendi a flotar
+
+sceneName: Bone_07
+x: 56,07052
+y: 57,56767
+message: con escape
