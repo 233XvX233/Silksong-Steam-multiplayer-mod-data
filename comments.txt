@@ -4673,3 +4673,8 @@ x: 8.858994
 y: 11.56768
 message: Break here!
 
+sceneName: Bone_03
+x: 36,92416
+y: 92,56767
+message: el damian es entero weko
+
