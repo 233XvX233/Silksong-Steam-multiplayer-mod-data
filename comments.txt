@@ -5602,3 +5602,8 @@ sceneName: Coral_Judge_Arena
 x: 48.56506
 y: 24.56768
 message: Perdelis was here
+
+sceneName: Tut_01
+x: 56,01003
+y: 4,567685
+message: hunoTZ
