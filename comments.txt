@@ -5502,3 +5502,8 @@ sceneName: Bone_01
 x: 100,36
 y: 31,05003
 message: huj
+
+sceneName: Bone_02
+x: 74,18511
+y: 15,56769
+message: nigger
