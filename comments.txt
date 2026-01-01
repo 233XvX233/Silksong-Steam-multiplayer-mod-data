@@ -5357,3 +5357,8 @@ sceneName: Bone_East_08
 x: 85,06531
 y: 7,062735
 message: i love femboys
+
+sceneName: Shellwood_25b
+x: 19.526
+y: 5.567685
+message: ?W?
