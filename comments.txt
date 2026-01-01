@@ -5192,3 +5192,8 @@ sceneName: Cradle_03
 x: 34.3778
 y: 133.5677
 message: 旮旯嘛‘’
+
+sceneName: Coral_36
+x: 37.94202
+y: 5.567685
+message: 好吵！！！
