@@ -5267,3 +5267,8 @@ sceneName: Tut_01
 x: 47.6945
 y: 4.567685
 message: 信安啥比
+
+sceneName: Tut_01
+x: 38.8477
+y: 4.567685
+message: 高手启程
