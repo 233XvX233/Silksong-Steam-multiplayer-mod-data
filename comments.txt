@@ -5632,3 +5632,8 @@ sceneName: Bone_01c
 x: 164,3802
 y: 7,567685
 message: pe
+
+sceneName: Belltown_basement
+x: 30.70845
+y: 96.56767
+message: EIRA!
