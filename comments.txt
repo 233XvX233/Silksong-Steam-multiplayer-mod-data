@@ -5327,3 +5327,8 @@ sceneName: Tut_01
 x: 39.17994
 y: 4.567685
 message: 咕咕嘎嘎
+
+sceneName: Bonetown
+x: 67.48996
+y: 7.567685
+message: 哈气了
