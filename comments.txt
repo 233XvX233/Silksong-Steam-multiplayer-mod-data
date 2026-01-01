@@ -5627,3 +5627,8 @@ sceneName: Bone_01
 x: 99,84498
 y: 7,567685
 message: Саня был тут)
+
+sceneName: Bone_01c
+x: 164,3802
+y: 7,567685
+message: pe
