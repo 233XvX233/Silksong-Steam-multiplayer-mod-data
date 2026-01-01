@@ -5662,3 +5662,8 @@ sceneName: Coral_33
 x: 23,91071
 y: 61,56768
 message: tusk niech kurwa zginie
+
+sceneName: Coral_33
+x: 25,06681
+y: 61,56768
+message: kupa
