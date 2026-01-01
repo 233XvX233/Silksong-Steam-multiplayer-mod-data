@@ -5137,3 +5137,8 @@ sceneName: Tut_01
 x: 47.94454
 y: 4.567685
 message: sq
+
+sceneName: Bellshrine_05
+x: 27,7049
+y: 4,567685
+message: LOL2
