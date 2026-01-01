@@ -5607,3 +5607,8 @@ sceneName: Tut_01
 x: 56,01003
 y: 4,567685
 message: hunoTZ
+
+sceneName: Coral_10
+x: 47.96946
+y: 6.567685
+message: Perdelis
