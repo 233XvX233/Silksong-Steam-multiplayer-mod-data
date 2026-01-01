@@ -5202,3 +5202,8 @@ sceneName: Tut_01
 x: 33.8031
 y: 4.567685
 message: SB
+
+sceneName: Belltown
+x: 59.51464
+y: 40.99147
+message: 家！
