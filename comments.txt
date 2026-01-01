@@ -5197,3 +5197,8 @@ sceneName: Coral_36
 x: 37.94202
 y: 5.567685
 message: 好吵！！！
+
+sceneName: Tut_01
+x: 33.8031
+y: 4.567685
+message: SB
