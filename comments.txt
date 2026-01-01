@@ -5552,3 +5552,8 @@ sceneName: Tut_01
 x: 50,4
 y: 4,567685
 message: hiii
+
+sceneName: Ant_02
+x: 39,61494
+y: 4,567685
+message: fácil papi
