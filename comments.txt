@@ -5512,3 +5512,8 @@ sceneName: Bonetown
 x: 67,4
 y: 7,567685
 message: привет
+
+sceneName: Bone_02
+x: 8,299985
+y: 7,567685
+message: cweluch gejuch
