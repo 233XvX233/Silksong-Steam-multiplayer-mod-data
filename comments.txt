@@ -5517,3 +5517,8 @@ sceneName: Bone_02
 x: 8,299985
 y: 7,567685
 message: cweluch gejuch
+
+sceneName: Bonetown
+x: 239,2596
+y: 7,567685
+message: hii
