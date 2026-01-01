@@ -5262,3 +5262,8 @@ sceneName: Tut_01
 x: 50.4
 y: 4.567685
 message: 啥比信安
+
+sceneName: Tut_01
+x: 47.6945
+y: 4.567685
+message: 信安啥比
