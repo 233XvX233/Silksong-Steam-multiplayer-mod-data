@@ -5282,3 +5282,8 @@ sceneName: Mosstown_02c
 x: 31.91691
 y: 3.567686
 message: 艾斯比
+
+sceneName: Bone_05
+x: 101.7371
+y: 3.567686
+message: 666
