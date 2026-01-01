@@ -5237,3 +5237,8 @@ sceneName: Tut_01
 x: 53.59984
 y: 4.567685
 message: HELP
+
+sceneName: Tut_01
+x: 58.03986
+y: 35.56768
+message: YOU'LL NEVER TAKE ME ALIVEEEEEEEEEEEEE
