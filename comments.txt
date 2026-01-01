@@ -5347,3 +5347,8 @@ sceneName: Bone_East_08
 x: 88.53532
 y: 7.062735
 message: 鸡煲，往日种种，你当真不记得了？
+
+sceneName: Bone_East_09
+x: 50,74203
+y: 43,58416
+message: привет мои нищие смертные
