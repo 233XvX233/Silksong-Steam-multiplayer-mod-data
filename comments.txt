@@ -5387,3 +5387,8 @@ sceneName: Coral_Judge_Arena
 x: 29.4194
 y: 24.56768
 message: press f6 for the bubbles btw
+
+sceneName: Coral_Judge_Arena
+x: 28,68675
+y: 24,56768
+message: last judge is like gabriel ultrakill
