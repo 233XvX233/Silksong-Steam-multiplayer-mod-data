@@ -5652,3 +5652,8 @@ sceneName: Coral_32
 x: 159,0312
 y: 87,56767
 message: bubr kurwa
+
+sceneName: Tut_01
+x: 34,15985
+y: 4,567685
+message: окак
