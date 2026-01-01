@@ -5212,3 +5212,8 @@ sceneName: Bonetown
 x: 70.53502
 y: 7.567685
 message: 此人并非待女
+
+sceneName: Halfway_01
+x: 26.76848
+y: 4.567685
+message: 老板你家地窖闹蚂蚁！
