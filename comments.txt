@@ -5232,3 +5232,8 @@ sceneName: Tut_01
 x: 57.82508
 y: 4.567685
 message: asdasdasd
+
+sceneName: Tut_01
+x: 53.59984
+y: 4.567685
+message: HELP
