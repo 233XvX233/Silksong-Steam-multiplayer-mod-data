@@ -5572,3 +5572,8 @@ sceneName: Bone_01
 x: 54,79194
 y: 7,567685
 message: negro
+
+sceneName: Bone_01
+x: 58,8923
+y: 7,567685
+message: hello world
