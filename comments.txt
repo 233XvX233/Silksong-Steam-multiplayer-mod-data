@@ -5292,3 +5292,8 @@ sceneName: Bone_East_15
 x: 22.95224
 y: 53.56768
 message: 瓜皮有大病
+
+sceneName: Bonetown
+x: 66.24219
+y: 11.67379
+message: 快起来这里不让睡觉！
