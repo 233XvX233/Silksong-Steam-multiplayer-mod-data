@@ -5337,3 +5337,8 @@ sceneName: Room_Forge
 x: 43.46921
 y: 32.56768
 message: bro so fking long
+
+sceneName: Bone_East_08
+x: 77.85423
+y: 7.062735
+message: 第四喜欢的boss
