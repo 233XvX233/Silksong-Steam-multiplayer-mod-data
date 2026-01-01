@@ -5142,3 +5142,8 @@ sceneName: Bellshrine_05
 x: 27,7049
 y: 4,567685
 message: LOL2
+
+sceneName: Bellway_08
+x: 120,445
+y: 13,56769
+message: reara
