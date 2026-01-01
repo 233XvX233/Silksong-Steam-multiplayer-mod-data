@@ -5622,3 +5622,8 @@ sceneName: Bone_01
 x: 98,01997
 y: 7,567685
 message: penis
+
+sceneName: Bone_01
+x: 99,84498
+y: 7,567685
+message: Саня был тут)
