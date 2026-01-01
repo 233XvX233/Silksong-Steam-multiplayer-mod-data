@@ -5492,3 +5492,8 @@ sceneName: Under_23
 x: 37.94688
 y: 3.567686
 message: not worth it
+
+sceneName: Bone_01
+x: 94,53798
+y: 28,56003
+message: huj
