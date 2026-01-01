@@ -5532,3 +5532,8 @@ sceneName: Tut_01
 x: 33,56991
 y: 4,567685
 message: what
+
+sceneName: Tut_01
+x: 33,73491
+y: 4,567685
+message: what
