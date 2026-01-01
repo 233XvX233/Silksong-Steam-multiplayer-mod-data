@@ -5382,3 +5382,8 @@ sceneName: Tut_01
 x: 48.41999
 y: 4.567685
 message: dadlpaklpd
+
+sceneName: Coral_Judge_Arena
+x: 29.4194
+y: 24.56768
+message: press f6 for the bubbles btw
