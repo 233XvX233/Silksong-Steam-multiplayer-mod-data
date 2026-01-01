@@ -5167,3 +5167,8 @@ sceneName: Song_Tower_01
 x: 52.12959
 y: 100.5677
 message: my wife...
+
+sceneName: Greymoor_03
+x: 26.31572
+y: 8.506
+message: SHAW
