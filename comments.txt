@@ -5462,3 +5462,8 @@ sceneName: Coral_10
 x: 42.11032
 y: 6.567685
 message: Romina lesbi
+
+sceneName: Coral_10
+x: 70.30669
+y: 6.567685
+message: kess is very gay
