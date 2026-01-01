@@ -5247,3 +5247,8 @@ sceneName: Tut_01
 x: 10.01482
 y: 32.56768
 message: MEEEEEEEEEEEE
+
+sceneName: Tut_01
+x: 30.81998
+y: 4.567685
+message: 咕咕嘎嘎
