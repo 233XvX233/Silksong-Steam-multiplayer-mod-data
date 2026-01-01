@@ -5227,3 +5227,8 @@ sceneName: Tut_01
 x: 30.91992
 y: 4.567684
 message: asdnasda
+
+sceneName: Tut_01
+x: 57.82508
+y: 4.567685
+message: asdasdasd
