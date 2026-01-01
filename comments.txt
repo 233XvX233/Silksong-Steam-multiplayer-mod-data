@@ -5217,3 +5217,8 @@ sceneName: Halfway_01
 x: 26.76848
 y: 4.567685
 message: 老板你家地窖闹蚂蚁！
+
+sceneName: Tut_01
+x: 34.39491
+y: 4.567685
+message: what the fuck
