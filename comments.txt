@@ -5587,3 +5587,8 @@ sceneName: Bone_11b
 x: 10.02779
 y: 14.3932
 message: hello
+
+sceneName: Halfway_01
+x: 40.26799
+y: 13.5847
+message: I also like this guys GF's big fat ass
