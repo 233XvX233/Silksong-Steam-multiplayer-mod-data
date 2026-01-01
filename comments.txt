@@ -5207,3 +5207,8 @@ sceneName: Belltown
 x: 59.51464
 y: 40.99147
 message: 家！
+
+sceneName: Bonetown
+x: 70.53502
+y: 7.567685
+message: 此人并非待女
