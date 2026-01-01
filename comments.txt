@@ -5447,3 +5447,8 @@ sceneName: Aqueduct_05
 x: 140,0212
 y: 9,567684
 message: CANE DIO NERGO
+
+sceneName: Cog_Dancers
+x: 36,80742
+y: 7,074562
+message: ez
