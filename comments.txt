@@ -5497,3 +5497,8 @@ sceneName: Bone_01
 x: 94,53798
 y: 28,56003
 message: huj
+
+sceneName: Bone_01
+x: 100,36
+y: 31,05003
+message: huj
