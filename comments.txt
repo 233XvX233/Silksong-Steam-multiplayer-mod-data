@@ -5372,3 +5372,8 @@ sceneName: Tut_01
 x: 38,86755
 y: 4,567685
 message: dsadasdj
+
+sceneName: Library_13
+x: 85,7301
+y: 14,56767
+message: Чччччччяч
