@@ -5567,3 +5567,8 @@ sceneName: Tut_01
 x: 43,57689
 y: 4,567685
 message: ChrismasHornet
+
+sceneName: Bone_01
+x: 54,79194
+y: 7,567685
+message: negro
