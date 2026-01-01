@@ -5272,3 +5272,8 @@ sceneName: Tut_01
 x: 38.8477
 y: 4.567685
 message: 高手启程
+
+sceneName: Mosstown_02
+x: 108.2052
+y: 53.56768
+message: 信安啥比
