@@ -5162,3 +5162,8 @@ sceneName: Memory_Silk_Heart_LaceTower
 x: 26.26002
 y: 25.56768
 message: hi
+
+sceneName: Song_Tower_01
+x: 52.12959
+y: 100.5677
+message: my wife...
