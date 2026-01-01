@@ -5592,3 +5592,8 @@ sceneName: Halfway_01
 x: 40.26799
 y: 13.5847
 message: I also like this guys GF's big fat ass
+
+sceneName: Halfway_01
+x: 25.59996
+y: 4.567685
+message: Eleven dies at the end
