@@ -5457,3 +5457,8 @@ sceneName: Cog_Dancers
 x: 38.71211
 y: 4.59697
 message: sabubu lex
+
+sceneName: Coral_10
+x: 42.11032
+y: 6.567685
+message: Romina lesbi
