@@ -5277,3 +5277,8 @@ sceneName: Mosstown_02
 x: 108.2052
 y: 53.56768
 message: 信安啥比
+
+sceneName: Mosstown_02c
+x: 31.91691
+y: 3.567686
+message: 艾斯比
