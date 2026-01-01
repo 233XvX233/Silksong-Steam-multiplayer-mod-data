@@ -5677,3 +5677,8 @@ sceneName: Bone_01
 x: 15.18511
 y: 26.56768
 message: ERERERERER
+
+sceneName: Bone_01
+x: 74.26595
+y: 44.56768
+message: Hola Benjamin
