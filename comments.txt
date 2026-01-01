@@ -5582,3 +5582,8 @@ sceneName: Tut_01
 x: 6.734797
 y: 11.56769
 message: privet`
+
+sceneName: Bone_11b
+x: 10.02779
+y: 14.3932
+message: hello
