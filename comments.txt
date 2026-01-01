@@ -5507,3 +5507,8 @@ sceneName: Bone_02
 x: 74,18511
 y: 15,56769
 message: nigger
+
+sceneName: Bonetown
+x: 67,4
+y: 7,567685
+message: привет
