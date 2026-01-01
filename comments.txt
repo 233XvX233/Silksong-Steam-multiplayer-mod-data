@@ -5307,3 +5307,8 @@ sceneName: Bone_05
 x: 68,66741
 y: 3,567686
 message: здесь были ЭВЕР И ГЛЕБ♥♥♥
+
+sceneName: Ant_04_left
+x: 20.94901
+y: 6.567685
+message: 哈哈哈哈哈
