@@ -5152,3 +5152,8 @@ sceneName: Coral_19b
 x: 62.61499
 y: 48.56768
 message: 前有面甲碎片
+
+sceneName: Tut_01b
+x: 135,2451
+y: 38,56768
+message: kYS
