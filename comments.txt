@@ -5522,3 +5522,8 @@ sceneName: Bonetown
 x: 239,2596
 y: 7,567685
 message: hii
+
+sceneName: Bonetown
+x: 208,2146
+y: 63,56768
+message: MORRA
