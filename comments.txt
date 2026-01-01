@@ -5617,3 +5617,8 @@ sceneName: Tut_01
 x: 39,8595
 y: 4,567685
 message: white
+
+sceneName: Bone_01
+x: 98,01997
+y: 7,567685
+message: penis
