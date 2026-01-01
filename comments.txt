@@ -5297,3 +5297,8 @@ sceneName: Bonetown
 x: 66.24219
 y: 11.67379
 message: 快起来这里不让睡觉！
+
+sceneName: Bone_05
+x: 83,7488
+y: 3,567686
+message: Здесь был Эвер и ГЛЭБ
