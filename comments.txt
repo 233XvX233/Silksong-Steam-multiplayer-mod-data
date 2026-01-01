@@ -5657,3 +5657,8 @@ sceneName: Tut_01
 x: 34,15985
 y: 4,567685
 message: окак
+
+sceneName: Coral_33
+x: 23,91071
+y: 61,56768
+message: tusk niech kurwa zginie
