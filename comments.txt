@@ -5637,3 +5637,8 @@ sceneName: Belltown_basement
 x: 30.70845
 y: 96.56767
 message: EIRA!
+
+sceneName: Coral_03
+x: 4,274631
+y: 202,5677
+message: debil
