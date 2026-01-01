@@ -5642,3 +5642,8 @@ sceneName: Coral_03
 x: 4,274631
 y: 202,5677
 message: debil
+
+sceneName: Coral_Judge_Arena
+x: 39,19449
+y: 24,56768
+message: jebac tuska starą kurwe
