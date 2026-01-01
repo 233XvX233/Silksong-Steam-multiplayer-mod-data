@@ -5222,3 +5222,8 @@ sceneName: Tut_01
 x: 34.39491
 y: 4.567685
 message: what the fuck
+
+sceneName: Tut_01
+x: 30.91992
+y: 4.567684
+message: asdnasda
