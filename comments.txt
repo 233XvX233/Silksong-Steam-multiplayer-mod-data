@@ -5392,3 +5392,8 @@ sceneName: Coral_Judge_Arena
 x: 28,68675
 y: 24,56768
 message: last judge is like gabriel ultrakill
+
+sceneName: Room_Forge
+x: 61,94899
+y: 32,56768
+message: PORCODDIO
