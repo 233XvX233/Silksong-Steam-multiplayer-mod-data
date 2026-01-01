@@ -5332,3 +5332,8 @@ sceneName: Bonetown
 x: 67.48996
 y: 7.567685
 message: 哈气了
+
+sceneName: Room_Forge
+x: 43.46921
+y: 32.56768
+message: bro so fking long
