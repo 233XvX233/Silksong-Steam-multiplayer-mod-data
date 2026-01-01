@@ -5527,3 +5527,8 @@ sceneName: Bonetown
 x: 208,2146
 y: 63,56768
 message: MORRA
+
+sceneName: Tut_01
+x: 33,56991
+y: 4,567685
+message: what
