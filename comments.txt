@@ -5442,3 +5442,8 @@ sceneName: Aqueduct_05
 x: 133,6181
 y: 9,567684
 message: MANIACO SESSUALE
+
+sceneName: Aqueduct_05
+x: 140,0212
+y: 9,567684
+message: CANE DIO NERGO
