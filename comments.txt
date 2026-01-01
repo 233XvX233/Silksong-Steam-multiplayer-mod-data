@@ -5352,3 +5352,8 @@ sceneName: Bone_East_09
 x: 50,74203
 y: 43,58416
 message: привет мои нищие смертные
+
+sceneName: Bone_East_08
+x: 85,06531
+y: 7,062735
+message: i love femboys
