@@ -5577,3 +5577,8 @@ sceneName: Bone_01
 x: 58,8923
 y: 7,567685
 message: hello world
+
+sceneName: Tut_01
+x: 6.734797
+y: 11.56769
+message: privet`
