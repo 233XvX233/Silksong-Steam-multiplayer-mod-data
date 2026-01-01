@@ -5452,3 +5452,8 @@ sceneName: Cog_Dancers
 x: 36,80742
 y: 7,074562
 message: ez
+
+sceneName: Cog_Dancers
+x: 38.71211
+y: 4.59697
+message: sabubu lex
