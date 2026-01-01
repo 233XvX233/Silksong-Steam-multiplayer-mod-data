@@ -5362,3 +5362,8 @@ sceneName: Shellwood_25b
 x: 19.526
 y: 5.567685
 message: ?W?
+
+sceneName: Greymoor_03
+x: 29.29442
+y: 14.53768
+message: AE86
