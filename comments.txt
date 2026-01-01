@@ -5647,3 +5647,8 @@ sceneName: Coral_Judge_Arena
 x: 39,19449
 y: 24,56768
 message: jebac tuska starą kurwe
+
+sceneName: Coral_32
+x: 159,0312
+y: 87,56767
+message: bubr kurwa
