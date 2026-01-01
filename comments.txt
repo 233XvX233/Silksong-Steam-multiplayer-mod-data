@@ -5612,3 +5612,8 @@ sceneName: Coral_10
 x: 47.96946
 y: 6.567685
 message: Perdelis
+
+sceneName: Tut_01
+x: 39,8595
+y: 4,567685
+message: white
