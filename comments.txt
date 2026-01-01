@@ -5437,3 +5437,8 @@ sceneName: Aqueduct_05
 x: 112,323
 y: 9,567684
 message: I PULCINI
+
+sceneName: Aqueduct_05
+x: 133,6181
+y: 9,567684
+message: MANIACO SESSUALE
