@@ -5322,3 +5322,8 @@ sceneName: Organ_01
 x: 70.41
 y: 7.890357
 message: 我就试试
+
+sceneName: Tut_01
+x: 39.17994
+y: 4.567685
+message: 咕咕嘎嘎
