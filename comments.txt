@@ -5597,3 +5597,8 @@ sceneName: Halfway_01
 x: 25.59996
 y: 4.567685
 message: Eleven dies at the end
+
+sceneName: Coral_Judge_Arena
+x: 48.56506
+y: 24.56768
+message: Perdelis was here
