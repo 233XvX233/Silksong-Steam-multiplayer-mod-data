@@ -5182,3 +5182,8 @@ sceneName: Bellshrine
 x: 16.38103
 y: 4.567685
 message: 咕咕嘎嘎
+
+sceneName: Bone_05
+x: 152.7864
+y: 7.567685
+message: 咕咕嘎嘎！
