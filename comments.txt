@@ -5402,3 +5402,8 @@ sceneName: Room_Forge
 x: 56,28373
 y: 32,56768
 message: DIO LERCIO
+
+sceneName: Room_Forge
+x: 75,03766
+y: 32,58554
+message: dio can
