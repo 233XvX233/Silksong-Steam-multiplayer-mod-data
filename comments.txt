@@ -5342,3 +5342,8 @@ sceneName: Bone_East_08
 x: 77.85423
 y: 7.062735
 message: 第四喜欢的boss
+
+sceneName: Bone_East_08
+x: 88.53532
+y: 7.062735
+message: 鸡煲，往日种种，你当真不记得了？
