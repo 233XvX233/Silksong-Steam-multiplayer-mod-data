@@ -5287,3 +5287,8 @@ sceneName: Bone_05
 x: 101.7371
 y: 3.567686
 message: 666
+
+sceneName: Bone_East_15
+x: 22.95224
+y: 53.56768
+message: 瓜皮有大病
