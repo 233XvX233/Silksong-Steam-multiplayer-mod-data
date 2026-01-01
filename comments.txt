@@ -5397,3 +5397,8 @@ sceneName: Room_Forge
 x: 61,94899
 y: 32,56768
 message: PORCODDIO
+
+sceneName: Room_Forge
+x: 56,28373
+y: 32,56768
+message: DIO LERCIO
