@@ -5757,3 +5757,8 @@ sceneName: Tut_03
 x: 105,7996
 y: 3,567688
 message: nigga
+
+sceneName: Bone_02
+x: 29.19992
+y: 7.567685
+message: penis
