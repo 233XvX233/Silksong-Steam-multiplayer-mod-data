@@ -6337,3 +6337,8 @@ sceneName: Tut_03
 x: 38,08113
 y: 17,56768
 message: mod govno
+
+sceneName: Ant_04_left
+x: 23.76047
+y: 6.567685
+message: ALT f4
