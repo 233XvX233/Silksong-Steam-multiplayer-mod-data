@@ -6507,3 +6507,8 @@ sceneName: Bone_04
 x: 52,46875
 y: 13,56769
 message: pushanka
+
+sceneName: Bellshrine
+x: 26,77596
+y: 4,567685
+message: me no habla kebab
