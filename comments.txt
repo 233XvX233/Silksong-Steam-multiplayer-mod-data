@@ -6057,3 +6057,8 @@ sceneName: Tut_01b
 x: 91.04599
 y: 83.56767
 message: 114514
+
+sceneName: Bonetown
+x: 67.49995
+y: 7.567685
+message: CAO
