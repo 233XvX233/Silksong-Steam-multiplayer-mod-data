@@ -6217,3 +6217,8 @@ sceneName: Bonetown
 x: 60,56506
 y: 7,567685
 message: пенис
+
+sceneName: Aqueduct_01
+x: 154.3181
+y: 11.00188
+message: 上当
