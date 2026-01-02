@@ -6342,3 +6342,8 @@ sceneName: Ant_04_left
 x: 23.76047
 y: 6.567685
 message: ALT f4
+
+sceneName: Bone_01c
+x: 189,373
+y: 7,567685
+message: GOIDA
