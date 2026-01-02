@@ -6497,3 +6497,8 @@ sceneName: Under_06
 x: 105,1679
 y: 7,57055
 message: broma pesada
+
+sceneName: Bone_10
+x: 34,64999
+y: 16,56768
+message: cwel ahead
