@@ -5697,3 +5697,8 @@ sceneName: Ant_04_left
 x: 48,02416
 y: 10,56769
 message: holaaa
+
+sceneName: Ant_17
+x: 31,76498
+y: 6,567685
+message: santiago y justino estuvieron acá
