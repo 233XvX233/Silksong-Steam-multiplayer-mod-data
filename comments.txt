@@ -6247,3 +6247,8 @@ sceneName: Belltown
 x: 84.62968
 y: 7.567685
 message: 你好
+
+sceneName: Halfway_01
+x: 45.33506
+y: 10.92768
+message: 只因你太美
