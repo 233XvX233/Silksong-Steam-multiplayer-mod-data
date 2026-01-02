@@ -6237,3 +6237,8 @@ sceneName: Tut_03
 x: 82,40531
 y: 17,56769
 message: илья сын шлюхи
+
+sceneName: Tut_03
+x: 75,82307
+y: 17,56768
+message: ротебал
