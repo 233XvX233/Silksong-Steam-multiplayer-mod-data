@@ -5882,3 +5882,8 @@ sceneName: Bone_East_12
 x: 85.22999
 y: 7.567039
 message: lacey lacey
+
+sceneName: Bonetown
+x: 217.2361
+y: 7.817668
+message: 这是我
