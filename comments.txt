@@ -5782,3 +5782,8 @@ sceneName: Bone_05
 x: 95,19505
 y: 3,567686
 message: malditos venekos
+
+sceneName: Bone_05
+x: 74,39494
+y: 3,567686
+message: fuck nigger
