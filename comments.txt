@@ -6077,3 +6077,8 @@ sceneName: Bonetown
 x: 301.0849
 y: 24.56768
 message: PUSHANKA
+
+sceneName: Bonetown
+x: 301.7599
+y: 24.56768
+message: puchank
