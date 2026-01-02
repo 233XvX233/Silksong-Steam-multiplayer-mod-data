@@ -5952,3 +5952,8 @@ sceneName: Tut_01
 x: 82.33504
 y: 15.70368
 message: wtf
+
+sceneName: Tut_01
+x: 49,99501
+y: 4,567685
+message: holas
