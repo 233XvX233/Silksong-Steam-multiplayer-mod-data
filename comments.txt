@@ -5897,3 +5897,8 @@ sceneName: Tut_01b
 x: 72.10616
 y: 77.56767
 message: hola
+
+sceneName: Tut_01b
+x: 67.265
+y: 77.56767
+message: Hola Como Estas ;3
