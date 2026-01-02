@@ -6502,3 +6502,8 @@ sceneName: Bone_10
 x: 34,64999
 y: 16,56768
 message: cwel ahead
+
+sceneName: Bone_04
+x: 52,46875
+y: 13,56769
+message: pushanka
