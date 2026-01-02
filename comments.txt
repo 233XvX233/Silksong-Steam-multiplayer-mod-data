@@ -5707,3 +5707,8 @@ sceneName: Ant_17
 x: 26,59655
 y: 6,567685
 message: Uruguay
+
+sceneName: Tut_01
+x: 38,70561
+y: 4,567685
+message: CHOREM PUTAS
