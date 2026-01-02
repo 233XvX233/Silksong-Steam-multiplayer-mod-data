@@ -5887,3 +5887,8 @@ sceneName: Bonetown
 x: 217.2361
 y: 7.817668
 message: 这是我
+
+sceneName: Memory_Silk_Heart_LaceTower
+x: 28.1307
+y: 106.1647
+message: AHAHAHAHAHH
