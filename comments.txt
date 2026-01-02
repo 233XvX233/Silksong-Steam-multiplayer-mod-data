@@ -6147,3 +6147,8 @@ sceneName: Coral_32
 x: 167.2771
 y: 87.56767
 message: 앙앙앙
+
+sceneName: Bone_East_12
+x: 91.46
+y: 7.567685
+message: 搞笑mod bug还挺多
