@@ -6357,3 +6357,8 @@ sceneName: Ant_04_left
 x: 33,93559
 y: 6,567685
 message: INFINITI MONEY BRO EZ GAME
+
+sceneName: Bellshrine_05
+x: 20.506
+y: 5.017685
+message: KOJIMA
