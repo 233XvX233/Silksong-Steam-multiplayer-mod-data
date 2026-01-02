@@ -6407,3 +6407,8 @@ sceneName: Greymoor_03
 x: 107,4389
 y: 73,56769
 message: break'
+
+sceneName: Bellway_01
+x: 70,40255
+y: 9,597684
+message: помогите
