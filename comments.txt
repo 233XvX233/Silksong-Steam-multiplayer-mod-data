@@ -6002,3 +6002,8 @@ sceneName: Dock_08
 x: 27.87993
 y: 7.567685
 message: ger
+
+sceneName: Bone_05
+x: 77,86996
+y: 3,567686
+message: arremangala arrempujala
