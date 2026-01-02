@@ -6007,3 +6007,8 @@ sceneName: Bone_05
 x: 77,86996
 y: 3,567686
 message: arremangala arrempujala
+
+sceneName: Shellwood_03
+x: 25.47216
+y: 47.90563
+message: AWOOOOOOOOOOOOOO :3
