@@ -6377,3 +6377,8 @@ sceneName: Bone_East_01
 x: 15,37399
 y: 25,56768
 message: mama ebal
+
+sceneName: Bone_East_02
+x: 113,1885
+y: 13,56769
+message: сатору годжо
