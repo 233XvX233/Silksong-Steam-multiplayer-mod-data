@@ -5937,3 +5937,8 @@ sceneName: Greymoor_20c
 x: 41.6039
 y: 75.25767
 message: Reaper crest my beloved <3
+
+sceneName: Tut_01
+x: 100.8151
+y: 16.56768
+message: 谢谢嗷
