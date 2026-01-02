@@ -318,11 +318,6 @@ x: 16.36499
 y: 3.567686
 message: hi
 
-sceneName: Belltown_Shrine
-x: 54.5783
-y: 8.567684
-message: death to the ccp
-
 sceneName: Coral_Judge_Arena
 x: 32.74769
 y: 24.56768
@@ -462,11 +457,6 @@ sceneName: Memory_Red
 x: 392,5
 y: 1001
 message: fsefsf
-
-sceneName: Belltown_Shrine
-x: 45.98531
-y: 8.567684
-message: GLORY TO THE CCP
 
 sceneName: Tut_01b
 x: 76.1701
