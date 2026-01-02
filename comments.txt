@@ -5912,3 +5912,8 @@ sceneName: Bone_East_17b
 x: 81,52366
 y: 29,56768
 message: Awoooooo :3
+
+sceneName: Bone_East_17b
+x: 81.61685
+y: 29.56769
+message: AWOOOOOOOOOOOOOOOO :3
