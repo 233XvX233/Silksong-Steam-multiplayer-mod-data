@@ -6322,3 +6322,8 @@ sceneName: Bone_05
 x: 96.52362
 y: 3.567686
 message: Pancho
+
+sceneName: Tut_03
+x: 54,1337
+y: 17,56768
+message: ERT
