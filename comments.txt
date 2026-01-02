@@ -6172,3 +6172,8 @@ sceneName: Dock_03c
 x: 30.12592
 y: 36.56768
 message: fxxk the boom
+
+sceneName: Bonetown
+x: 240.6142
+y: 7.567685
+message: Summer is a d**k
