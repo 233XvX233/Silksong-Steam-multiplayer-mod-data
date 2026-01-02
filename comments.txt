@@ -6332,3 +6332,8 @@ sceneName: Tut_03
 x: 47,81618
 y: 17,56768
 message: HAI
+
+sceneName: Tut_03
+x: 38,08113
+y: 17,56768
+message: mod govno
