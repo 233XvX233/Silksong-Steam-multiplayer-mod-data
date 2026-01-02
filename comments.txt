@@ -6052,3 +6052,8 @@ sceneName: Tut_01b
 x: 111.9481
 y: 57.59003
 message: DWKKKKAKKKKKK
+
+sceneName: Tut_01b
+x: 91.04599
+y: 83.56767
+message: 114514
