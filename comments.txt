@@ -6242,3 +6242,8 @@ sceneName: Tut_03
 x: 75,82307
 y: 17,56768
 message: ротебал
+
+sceneName: Belltown
+x: 84.62968
+y: 7.567685
+message: 你好
