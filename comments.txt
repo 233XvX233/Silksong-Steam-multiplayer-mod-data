@@ -6447,3 +6447,8 @@ sceneName: Greymoor_03
 x: 51,0763
 y: 33,56768
 message: garama
+
+sceneName: Greymoor_03
+x: 24,15961
+y: 8,506
+message: SHAWo
