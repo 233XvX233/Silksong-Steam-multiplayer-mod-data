@@ -6452,3 +6452,8 @@ sceneName: Greymoor_03
 x: 24,15961
 y: 8,506
 message: SHAWo
+
+sceneName: Greymoor_03
+x: 19,66278
+y: 8,506
+message: SHAW
