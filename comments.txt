@@ -5682,3 +5682,8 @@ sceneName: Bone_01
 x: 74.26595
 y: 44.56768
 message: Hola Benjamin
+
+sceneName: Bone_01
+x: 27.58315
+y: 37.56768
+message: QUE PEDO
