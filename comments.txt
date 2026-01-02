@@ -6262,3 +6262,8 @@ sceneName: Bonetown
 x: 277.8211
 y: 7.572686
 message: help
+
+sceneName: Cog_04
+x: 23,39221
+y: 138,5695
+message: talib został zaatakonat przez antypisowców w rzezimieszku
