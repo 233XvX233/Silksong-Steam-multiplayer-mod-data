@@ -6477,3 +6477,8 @@ sceneName: Bellway_08
 x: 132,0049
 y: 13,56769
 message: eljefe
+
+sceneName: Bellway_08
+x: 130,4701
+y: 13,56769
+message: eljefe
