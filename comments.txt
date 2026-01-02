@@ -6197,3 +6197,8 @@ sceneName: Tut_01
 x: 36.3484
 y: 90.56767
 message: 你跑哪去了
+
+sceneName: Bone_East_12
+x: 101.1048
+y: 7.567685
+message: ni m
