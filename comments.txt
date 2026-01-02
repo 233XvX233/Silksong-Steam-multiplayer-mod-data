@@ -5822,3 +5822,8 @@ sceneName: Bone_06
 x: 91.67482
 y: 23.56768
 message: AWOOOOOOOOOOOOOOO :3
+
+sceneName: Ant_03
+x: 41.14004
+y: 69.56767
+message: AWOOOOOOOOOOOO :3
