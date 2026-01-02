@@ -6302,3 +6302,8 @@ sceneName: Organ_01
 x: 16,55911
 y: 7,567685
 message: um rei não hesita
+
+sceneName: Organ_01
+x: 20,21862
+y: 7,567685
+message: se curva
