@@ -6372,3 +6372,8 @@ sceneName: Greymoor_03
 x: 22.83361
 y: 8.506
 message: shaw
+
+sceneName: Bone_East_01
+x: 15,37399
+y: 25,56768
+message: mama ebal
