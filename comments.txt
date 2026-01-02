@@ -6042,3 +6042,8 @@ sceneName: Dock_08
 x: 66.20647
 y: 13.84727
 message: wow
+
+sceneName: Bone_East_12
+x: 42.82502
+y: 7.567685
+message: 前有高手
