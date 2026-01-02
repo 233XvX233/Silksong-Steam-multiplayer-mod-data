@@ -6387,3 +6387,8 @@ sceneName: Bonetown
 x: 61.94774
 y: 7.567685
 message: hi niggers
+
+sceneName: Song_Enclave
+x: 56.37159
+y: 7.567685
+message: 只因你太美
