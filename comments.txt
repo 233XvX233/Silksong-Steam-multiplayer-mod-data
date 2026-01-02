@@ -6127,3 +6127,8 @@ sceneName: Bone_East_12
 x: 71.38351
 y: 7.567685
 message: simp de la pochanka
+
+sceneName: Bone_East_12
+x: 76.53909
+y: 7.567686
+message: IG DE LA LACE?
