@@ -5987,3 +5987,8 @@ sceneName: Bonetown
 x: 236,0837
 y: 7,567685
 message: xd
+
+sceneName: Greymoor_15b
+x: 181.5702
+y: 53.56768
+message: AWOOOOOOOOOOOOOOO :3
