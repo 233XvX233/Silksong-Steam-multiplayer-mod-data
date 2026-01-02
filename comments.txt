@@ -5807,3 +5807,8 @@ sceneName: Bonetown
 x: 247.0011
 y: 7.567685
 message: whats yalls opinion on ramen
+
+sceneName: Bone_01
+x: 68.3351
+y: 7.567685
+message: fun fact, if you delete sherma from the files, the game is unbeatable
