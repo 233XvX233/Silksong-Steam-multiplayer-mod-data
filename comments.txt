@@ -5962,3 +5962,8 @@ sceneName: Tut_01
 x: 31,32992
 y: 4,567685
 message: ala
+
+sceneName: Tut_02
+x: 133,6707
+y: 11,56769
+message: mira
