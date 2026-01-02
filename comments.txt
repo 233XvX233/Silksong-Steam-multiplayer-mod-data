@@ -5812,3 +5812,8 @@ sceneName: Bone_01
 x: 68.3351
 y: 7.567685
 message: fun fact, if you delete sherma from the files, the game is unbeatable
+
+sceneName: Memory_Silk_Heart_BellBeast
+x: 29,28569
+y: 105,5847
+message: sex
