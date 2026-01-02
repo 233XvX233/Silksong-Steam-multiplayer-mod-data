@@ -6142,3 +6142,8 @@ sceneName: Coral_02
 x: 45.7211
 y: 62.56768
 message: 狗男女
+
+sceneName: Coral_32
+x: 167.2771
+y: 87.56767
+message: 앙앙앙
