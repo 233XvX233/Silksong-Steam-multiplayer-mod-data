@@ -6317,3 +6317,8 @@ sceneName: Organ_01
 x: 52,125
 y: 31,56768
 message: hao hao
+
+sceneName: Bone_05
+x: 96.52362
+y: 3.567686
+message: Pancho
