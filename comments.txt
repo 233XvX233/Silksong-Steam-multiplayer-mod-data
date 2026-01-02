@@ -6347,3 +6347,8 @@ sceneName: Bone_01c
 x: 189,373
 y: 7,567685
 message: GOIDA
+
+sceneName: Bone_07
+x: 24,84461
+y: 15,56769
+message: GAY
