@@ -5957,3 +5957,8 @@ sceneName: Tut_01
 x: 49,99501
 y: 4,567685
 message: holas
+
+sceneName: Tut_01
+x: 31,32992
+y: 4,567685
+message: ala
