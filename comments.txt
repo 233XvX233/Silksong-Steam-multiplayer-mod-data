@@ -6187,3 +6187,8 @@ sceneName: Coral_Judge_Arena
 x: 31,24862
 y: 24,56768
 message: die
+
+sceneName: Coral_Judge_Arena
+x: 31,76362
+y: 24,56769
+message: what
