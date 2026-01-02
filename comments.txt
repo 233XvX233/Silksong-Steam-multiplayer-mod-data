@@ -5802,3 +5802,8 @@ sceneName: Bonetown
 x: 240,7599
 y: 7,567685
 message: setskinname= Lukas
+
+sceneName: Bonetown
+x: 247.0011
+y: 7.567685
+message: whats yalls opinion on ramen
