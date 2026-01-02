@@ -6117,3 +6117,8 @@ sceneName: Ant_05c
 x: 59.82912
 y: 4.567685
 message: karama
+
+sceneName: Bone_East_05
+x: 94.83743
+y: 13.56769
+message: PONGAN BACHATA
