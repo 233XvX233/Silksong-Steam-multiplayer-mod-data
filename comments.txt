@@ -6422,3 +6422,8 @@ sceneName: Bone_East_10
 x: 57.1439
 y: 4.567685
 message: Canta Sherma CANTAAAAAAAAA
+
+sceneName: Bellway_08
+x: 128,985
+y: 13,56769
+message: nicolas es gay
