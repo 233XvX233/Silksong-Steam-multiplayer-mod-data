@@ -5797,3 +5797,8 @@ sceneName: Bone_06
 x: 81
 y: 3.567686
 message: Aqui fue donde tocaron al Kangri
+
+sceneName: Bonetown
+x: 240,7599
+y: 7,567685
+message: setskinname= Lukas
