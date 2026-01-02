@@ -6492,3 +6492,8 @@ sceneName: Tut_01
 x: 53,74985
 y: 88,56767
 message: I HATE NIGGERS
+
+sceneName: Under_06
+x: 105,1679
+y: 7,57055
+message: broma pesada
