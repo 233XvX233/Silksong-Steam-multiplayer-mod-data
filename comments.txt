@@ -6152,3 +6152,8 @@ sceneName: Bone_East_12
 x: 91.46
 y: 7.567685
 message: 搞笑mod bug还挺多
+
+sceneName: Ant_03
+x: 27.3194
+y: 40.56768
+message: 杨宏飞
