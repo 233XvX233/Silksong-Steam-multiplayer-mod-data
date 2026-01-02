@@ -6222,3 +6222,8 @@ sceneName: Aqueduct_01
 x: 154.3181
 y: 11.00188
 message: 上当
+
+sceneName: Tut_03
+x: 87,19034
+y: 17,56769
+message: секс
