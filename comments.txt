@@ -6072,3 +6072,8 @@ sceneName: Bellshrine
 x: 28.42595
 y: 4.567685
 message: Puto el que lo lea
+
+sceneName: Bonetown
+x: 301.0849
+y: 24.56768
+message: PUSHANKA
