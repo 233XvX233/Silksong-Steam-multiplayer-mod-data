@@ -6082,3 +6082,8 @@ sceneName: Bonetown
 x: 301.7599
 y: 24.56768
 message: puchank
+
+sceneName: Bellway_01
+x: 40.15997
+y: 25.56768
+message: X3
