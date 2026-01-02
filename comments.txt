@@ -5927,3 +5927,8 @@ sceneName: Halfway_01
 x: 39.24116
 y: 10.92768
 message: real
+
+sceneName: Tut_01
+x: 28.92992
+y: 4.567685
+message: 卧槽好好玩呀
