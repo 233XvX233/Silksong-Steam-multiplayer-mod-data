@@ -5877,3 +5877,8 @@ sceneName: Bone_02
 x: 56,2478
 y: 9,567685
 message: DICKS!!!!!
+
+sceneName: Bone_East_12
+x: 85.22999
+y: 7.567039
+message: lacey lacey
