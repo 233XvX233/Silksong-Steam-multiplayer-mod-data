@@ -6192,3 +6192,8 @@ sceneName: Coral_Judge_Arena
 x: 31,76362
 y: 24,56769
 message: what
+
+sceneName: Tut_01
+x: 36.3484
+y: 90.56767
+message: 你跑哪去了
