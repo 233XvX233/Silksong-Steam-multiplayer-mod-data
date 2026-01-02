@@ -5717,3 +5717,8 @@ sceneName: Tut_01
 x: 47,54492
 y: 4,567685
 message: gay
+
+sceneName: Ant_20
+x: 180,1933
+y: 35,18073
+message: prepare for the pain
