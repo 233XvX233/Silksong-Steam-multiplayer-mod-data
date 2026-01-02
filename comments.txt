@@ -5907,3 +5907,8 @@ sceneName: Tut_02
 x: 141.8574
 y: 33.8363
 message: Holy tuff
+
+sceneName: Bone_East_17b
+x: 81,52366
+y: 29,56768
+message: Awoooooo :3
