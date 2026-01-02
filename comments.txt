@@ -5982,3 +5982,8 @@ sceneName: Tut_02
 x: 142,8645
 y: 31,56768
 message: te va bien?
+
+sceneName: Bonetown
+x: 236,0837
+y: 7,567685
+message: xd
