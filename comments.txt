@@ -5712,3 +5712,8 @@ sceneName: Tut_01
 x: 38,70561
 y: 4,567685
 message: CHOREM PUTAS
+
+sceneName: Tut_01
+x: 47,54492
+y: 4,567685
+message: gay
