@@ -5862,3 +5862,8 @@ sceneName: Bonetown
 x: 274,4962
 y: 7,567685
 message: my house
+
+sceneName: Dock_16
+x: 54.31142
+y: 20.56768
+message: AWOOOOOOOOOOOOOOOOOOO :3
