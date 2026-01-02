@@ -5787,3 +5787,8 @@ sceneName: Bone_05
 x: 74,39494
 y: 3,567686
 message: fuck nigger
+
+sceneName: Bone_05
+x: 80.49997
+y: 3.567686
+message: fuck Negratas de mierda
