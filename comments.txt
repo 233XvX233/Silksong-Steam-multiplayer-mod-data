@@ -5742,3 +5742,8 @@ sceneName: Tut_01
 x: 55,20458
 y: 4,567685
 message: adadada
+
+sceneName: Tut_01
+x: 38.95444
+y: 32.56768
+message: dih
