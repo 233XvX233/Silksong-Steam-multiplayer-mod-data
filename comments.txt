@@ -6087,3 +6087,8 @@ sceneName: Bellway_01
 x: 40.15997
 y: 25.56768
 message: X3
+
+sceneName: Ant_04
+x: 324.5766
+y: 5.567685
+message: NO HABLO TAKATAKA
