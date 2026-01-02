@@ -5817,3 +5817,8 @@ sceneName: Memory_Silk_Heart_BellBeast
 x: 29,28569
 y: 105,5847
 message: sex
+
+sceneName: Bone_06
+x: 91.67482
+y: 23.56768
+message: AWOOOOOOOOOOOOOOO :3
