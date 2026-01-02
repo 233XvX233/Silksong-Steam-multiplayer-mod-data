@@ -5722,3 +5722,8 @@ sceneName: Ant_20
 x: 180,1933
 y: 35,18073
 message: prepare for the pain
+
+sceneName: Tut_03
+x: 109,8145
+y: 3,567686
+message: É OS GURI
