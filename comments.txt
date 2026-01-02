@@ -6132,3 +6132,8 @@ sceneName: Bone_East_12
 x: 76.53909
 y: 7.567686
 message: IG DE LA LACE?
+
+sceneName: Bone_East_12
+x: 91,61873
+y: 8,070827
+message: dada+
