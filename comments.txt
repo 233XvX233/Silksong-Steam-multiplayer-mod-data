@@ -5772,3 +5772,8 @@ sceneName: Bone_05
 x: 88.22572
 y: 3.567686
 message: dih
+
+sceneName: Bone_05
+x: 90.39206
+y: 3.567686
+message: EZ
