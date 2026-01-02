@@ -5687,3 +5687,8 @@ sceneName: Bone_01
 x: 27.58315
 y: 37.56768
 message: QUE PEDO
+
+sceneName: Ant_04_left
+x: 48,32875
+y: 10,56769
+message: holaaa
