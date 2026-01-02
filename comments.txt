@@ -5837,3 +5837,8 @@ sceneName: Coral_Judge_Arena
 x: 8.166147
 y: 24.56768
 message: kill me
+
+sceneName: Coral_32
+x: 153.2497
+y: 87.56767
+message: thats not nice
