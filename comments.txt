@@ -5902,3 +5902,8 @@ sceneName: Tut_01b
 x: 67.265
 y: 77.56767
 message: Hola Como Estas ;3
+
+sceneName: Tut_02
+x: 141.8574
+y: 33.8363
+message: Holy tuff
