@@ -5922,3 +5922,8 @@ sceneName: Greymoor_03
 x: 28.84501
 y: 8.506
 message: SHAW
+
+sceneName: Halfway_01
+x: 39.24116
+y: 10.92768
+message: real
