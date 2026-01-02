@@ -5767,3 +5767,8 @@ sceneName: Belltown_04
 x: 60,08347
 y: 48,56768
 message: break
+
+sceneName: Bone_05
+x: 88.22572
+y: 3.567686
+message: dih
