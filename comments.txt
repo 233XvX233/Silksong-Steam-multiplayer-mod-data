@@ -6012,3 +6012,8 @@ sceneName: Shellwood_03
 x: 25.47216
 y: 47.90563
 message: AWOOOOOOOOOOOOOO :3
+
+sceneName: Shellwood_03
+x: 25,62475
+y: 47,90563
+message: awooooooooooooooo
