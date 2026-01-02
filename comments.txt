@@ -6467,3 +6467,8 @@ sceneName: Halfway_01
 x: 41,158
 y: 10,92768
 message: shaw
+
+sceneName: Belltown
+x: 63,12496
+y: 7,567685
+message: shaw
