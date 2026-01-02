@@ -6232,3 +6232,8 @@ sceneName: Tut_03
 x: 80,4253
 y: 17,56769
 message: илья
+
+sceneName: Tut_03
+x: 82,40531
+y: 17,56769
+message: илья сын шлюхи
