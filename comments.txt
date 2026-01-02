@@ -5702,3 +5702,8 @@ sceneName: Ant_17
 x: 31,76498
 y: 6,567685
 message: santiago y justino estuvieron acá
+
+sceneName: Ant_17
+x: 26,59655
+y: 6,567685
+message: Uruguay
