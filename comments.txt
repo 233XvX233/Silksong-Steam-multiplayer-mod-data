@@ -5972,3 +5972,8 @@ sceneName: Tut_02
 x: 137,1337
 y: 31,56768
 message: MIRA
+
+sceneName: Tut_02
+x: 146,3293
+y: 32,56768
+message: como va?
