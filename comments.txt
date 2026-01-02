@@ -5747,3 +5747,8 @@ sceneName: Tut_01
 x: 38.95444
 y: 32.56768
 message: dih
+
+sceneName: Tut_01
+x: 55,09709
+y: 4,567685
+message: chupala gerardo
