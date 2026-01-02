@@ -6212,3 +6212,8 @@ sceneName: Bellway_03
 x: 53.52502
 y: 9.567685
 message: Hello
+
+sceneName: Bonetown
+x: 60,56506
+y: 7,567685
+message: пенис
