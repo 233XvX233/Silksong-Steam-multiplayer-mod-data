@@ -6062,3 +6062,8 @@ sceneName: Bonetown
 x: 67.49995
 y: 7.567685
 message: CAO
+
+sceneName: Bone_05
+x: 78.52996
+y: 3.567686
+message: tu vieja
