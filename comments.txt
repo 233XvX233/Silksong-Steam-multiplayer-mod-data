@@ -6297,3 +6297,8 @@ sceneName: Slab_06
 x: 89,51135
 y: 9,567685
 message: arılın anasını skm
+
+sceneName: Organ_01
+x: 16,55911
+y: 7,567685
+message: um rei não hesita
