@@ -5852,3 +5852,8 @@ sceneName: Song_19_entrance
 x: 31,78908
 y: 8,566812
 message: santiago se la come
+
+sceneName: Coral_32
+x: 160.3318
+y: 87.56767
+message: penis blast
