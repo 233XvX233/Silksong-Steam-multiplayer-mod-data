@@ -6492,3 +6492,8 @@ sceneName: Bellway_08
 x: 121,3325
 y: 13,56769
 message: nico
+
+sceneName: Belltown
+x: 70.23
+y: 7.567685
+message: dasd
