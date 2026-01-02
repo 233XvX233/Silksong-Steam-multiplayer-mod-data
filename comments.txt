@@ -6427,3 +6427,8 @@ sceneName: Bellway_08
 x: 128,985
 y: 13,56769
 message: nicolas es gay
+
+sceneName: Greymoor_03
+x: 26,82474
+y: 14,72914
+message: shaw
