@@ -5857,3 +5857,8 @@ sceneName: Coral_32
 x: 160.3318
 y: 87.56767
 message: penis blast
+
+sceneName: Bonetown
+x: 274,4962
+y: 7,567685
+message: my house
