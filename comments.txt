@@ -6137,3 +6137,8 @@ sceneName: Bone_East_12
 x: 91,61873
 y: 8,070827
 message: dada+
+
+sceneName: Coral_02
+x: 45.7211
+y: 62.56768
+message: 狗男女
