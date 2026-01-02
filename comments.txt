@@ -6122,3 +6122,8 @@ sceneName: Bone_East_05
 x: 94.83743
 y: 13.56769
 message: PONGAN BACHATA
+
+sceneName: Bone_East_12
+x: 71.38351
+y: 7.567685
+message: simp de la pochanka
