@@ -5842,3 +5842,8 @@ sceneName: Coral_32
 x: 153.2497
 y: 87.56767
 message: thats not nice
+
+sceneName: Coral_10
+x: 100,9479
+y: 8,567684
+message: justino gay
