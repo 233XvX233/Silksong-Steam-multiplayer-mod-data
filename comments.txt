@@ -6272,3 +6272,8 @@ sceneName: Shellwood_25b
 x: 21.01099
 y: 5.567685
 message: 惊不惊喜，意不意外
+
+sceneName: Ant_17
+x: 26.7871
+y: 6.567685
+message: 丝之歌不得不品的一环
