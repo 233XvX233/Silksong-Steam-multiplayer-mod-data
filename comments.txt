@@ -5992,3 +5992,8 @@ sceneName: Greymoor_15b
 x: 181.5702
 y: 53.56768
 message: AWOOOOOOOOOOOOOOO :3
+
+sceneName: Bone_09
+x: 109.5049
+y: 9.567685
+message: no you
