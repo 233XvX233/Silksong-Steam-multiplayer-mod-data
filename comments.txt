@@ -6327,3 +6327,8 @@ sceneName: Tut_03
 x: 54,1337
 y: 17,56768
 message: ERT
+
+sceneName: Tut_03
+x: 47,81618
+y: 17,56768
+message: HAI
