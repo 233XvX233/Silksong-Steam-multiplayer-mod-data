@@ -6102,3 +6102,8 @@ sceneName: Ant_14
 x: 5,75
 y: 69,56767
 message: Tu VIEJITA
+
+sceneName: Ant_17
+x: 24.48503
+y: 6.567685
+message: ← GO
