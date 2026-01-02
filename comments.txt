@@ -6392,3 +6392,8 @@ sceneName: Song_Enclave
 x: 56.37159
 y: 7.567685
 message: 只因你太美
+
+sceneName: Bone_07
+x: 53.47498
+y: 57.57117
+message: fuck leeeshizzy
