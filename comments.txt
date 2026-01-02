@@ -5727,3 +5727,8 @@ sceneName: Tut_03
 x: 109,8145
 y: 3,567686
 message: É OS GURI
+
+sceneName: Belltown
+x: 36,39266
+y: 7,567685
+message: Justin bieber and sergio were here
