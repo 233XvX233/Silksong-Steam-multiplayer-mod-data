@@ -6162,3 +6162,8 @@ sceneName: Ant_03
 x: 27.48002
 y: 40.56768
 message: 6666
+
+sceneName: Bonetown
+x: 245.1186
+y: 7.567685
+message: 666
