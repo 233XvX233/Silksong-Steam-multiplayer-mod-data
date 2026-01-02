@@ -6282,3 +6282,8 @@ sceneName: Tut_01
 x: 44,12141
 y: 4,567685
 message: porno
+
+sceneName: Tut_01
+x: 47.50491
+y: 4.567685
+message: Blub Blub
