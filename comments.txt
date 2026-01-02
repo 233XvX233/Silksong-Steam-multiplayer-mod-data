@@ -6412,3 +6412,8 @@ sceneName: Bellway_01
 x: 70,40255
 y: 9,597684
 message: помогите
+
+sceneName: Bellway_01
+x: 70,40255
+y: 9,597683
+message: чонгук
