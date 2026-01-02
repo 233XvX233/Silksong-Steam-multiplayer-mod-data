@@ -5832,3 +5832,8 @@ sceneName: Ant_03
 x: 40,81003
 y: 69,56767
 message: Awooooooooooooo
+
+sceneName: Coral_Judge_Arena
+x: 8.166147
+y: 24.56768
+message: kill me
