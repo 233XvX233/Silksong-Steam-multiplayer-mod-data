@@ -6462,3 +6462,8 @@ sceneName: Halfway_01
 x: 50,73501
 y: 10,92769
 message: shaw
+
+sceneName: Halfway_01
+x: 41,158
+y: 10,92768
+message: shaw
