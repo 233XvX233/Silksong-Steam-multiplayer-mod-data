@@ -6362,3 +6362,8 @@ sceneName: Bellshrine_05
 x: 20.506
 y: 5.017685
 message: KOJIMA
+
+sceneName: Tut_03
+x: 90.40352
+y: 4.767685
+message: cheese
