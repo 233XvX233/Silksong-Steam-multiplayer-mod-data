@@ -6112,3 +6112,8 @@ sceneName: Tut_03
 x: 61.15659
 y: 17.56768
 message: 原来是小兵
+
+sceneName: Ant_05c
+x: 59.82912
+y: 4.567685
+message: karama
