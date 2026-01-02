@@ -6027,3 +6027,8 @@ sceneName: Shellwood_03
 x: 25.87847
 y: 47.90561
 message: 嗷呜kk
+
+sceneName: Belltown_04
+x: 14.78824
+y: 3.567686
+message: wowowowow
