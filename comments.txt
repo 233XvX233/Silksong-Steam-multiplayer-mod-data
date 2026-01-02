@@ -6182,3 +6182,8 @@ sceneName: Bone_East_12
 x: 90.13876
 y: 7.567685
 message: 666
+
+sceneName: Coral_Judge_Arena
+x: 31,24862
+y: 24,56768
+message: die
