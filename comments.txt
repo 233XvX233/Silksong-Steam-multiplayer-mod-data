@@ -6227,3 +6227,8 @@ sceneName: Tut_03
 x: 87,19034
 y: 17,56769
 message: секс
+
+sceneName: Tut_03
+x: 80,4253
+y: 17,56769
+message: илья
