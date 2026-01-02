@@ -6267,3 +6267,8 @@ sceneName: Cog_04
 x: 23,39221
 y: 138,5695
 message: talib został zaatakonat przez antypisowców w rzezimieszku
+
+sceneName: Shellwood_25b
+x: 21.01099
+y: 5.567685
+message: 惊不惊喜，意不意外
