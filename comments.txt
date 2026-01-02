@@ -6352,3 +6352,8 @@ sceneName: Bone_07
 x: 24,84461
 y: 15,56769
 message: GAY
+
+sceneName: Ant_04_left
+x: 33,93559
+y: 6,567685
+message: INFINITI MONEY BRO EZ GAME
