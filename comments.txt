@@ -6092,3 +6092,8 @@ sceneName: Ant_04
 x: 324.5766
 y: 5.567685
 message: NO HABLO TAKATAKA
+
+sceneName: Ant_04
+x: 322,2354
+y: 5,567685
+message: vieja de alguien
