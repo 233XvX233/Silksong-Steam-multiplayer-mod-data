@@ -6067,3 +6067,8 @@ sceneName: Bone_05
 x: 78.52996
 y: 3.567686
 message: tu vieja
+
+sceneName: Bellshrine
+x: 28.42595
+y: 4.567685
+message: Puto el que lo lea
