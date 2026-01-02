@@ -6107,3 +6107,8 @@ sceneName: Ant_17
 x: 24.48503
 y: 6.567685
 message: ← GO
+
+sceneName: Tut_03
+x: 61.15659
+y: 17.56768
+message: 原来是小兵
