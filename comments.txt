@@ -5777,3 +5777,8 @@ sceneName: Bone_05
 x: 90.39206
 y: 3.567686
 message: EZ
+
+sceneName: Bone_05
+x: 95,19505
+y: 3,567686
+message: malditos venekos
