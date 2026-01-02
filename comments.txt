@@ -6487,3 +6487,8 @@ sceneName: Belltown
 x: 70.23
 y: 7.567685
 message: dasd
+
+sceneName: Tut_01
+x: 53,74985
+y: 88,56767
+message: I HATE NIGGERS
