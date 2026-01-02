@@ -6252,3 +6252,8 @@ sceneName: Halfway_01
 x: 45.33506
 y: 10.92768
 message: 只因你太美
+
+sceneName: Bone_East_16
+x: 42,96626
+y: 11,56769
+message: Hit
