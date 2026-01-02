@@ -5752,3 +5752,8 @@ sceneName: Tut_01
 x: 55,09709
 y: 4,567685
 message: chupala gerardo
+
+sceneName: Tut_03
+x: 105,7996
+y: 3,567688
+message: nigga
