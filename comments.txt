@@ -6382,3 +6382,8 @@ sceneName: Bone_East_02
 x: 113,1885
 y: 13,56769
 message: сатору годжо
+
+sceneName: Bonetown
+x: 61.94774
+y: 7.567685
+message: hi niggers
