@@ -6287,3 +6287,8 @@ sceneName: Tut_01
 x: 47.50491
 y: 4.567685
 message: Blub Blub
+
+sceneName: Slab_06
+x: 87,67635
+y: 9,567686
+message: efees
