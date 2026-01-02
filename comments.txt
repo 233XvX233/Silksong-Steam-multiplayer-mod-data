@@ -6032,3 +6032,8 @@ sceneName: Belltown_04
 x: 14.78824
 y: 3.567686
 message: wowowowow
+
+sceneName: Bellway_03
+x: 4.861308
+y: 9.567685
+message: shit
