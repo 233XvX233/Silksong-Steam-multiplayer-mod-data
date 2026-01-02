@@ -5947,3 +5947,8 @@ sceneName: Tut_01
 x: 82.33504
 y: 15.70368
 message: ？我咋动不了了
+
+sceneName: Tut_01
+x: 82.33504
+y: 15.70368
+message: wtf
