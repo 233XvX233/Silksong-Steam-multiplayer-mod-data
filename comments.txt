@@ -6292,3 +6292,8 @@ sceneName: Slab_06
 x: 87,67635
 y: 9,567686
 message: efees
+
+sceneName: Slab_06
+x: 89,51135
+y: 9,567685
+message: arılın anasını skm
