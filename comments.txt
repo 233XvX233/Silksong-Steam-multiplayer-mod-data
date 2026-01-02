@@ -5977,3 +5977,8 @@ sceneName: Tut_02
 x: 146,3293
 y: 32,56768
 message: como va?
+
+sceneName: Tut_02
+x: 142,8645
+y: 31,56768
+message: te va bien?
