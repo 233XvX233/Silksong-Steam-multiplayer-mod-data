@@ -5847,3 +5847,8 @@ sceneName: Coral_10
 x: 100,9479
 y: 8,567684
 message: justino gay
+
+sceneName: Song_19_entrance
+x: 31,78908
+y: 8,566812
+message: santiago se la come
