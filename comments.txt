@@ -6947,3 +6947,8 @@ sceneName: Crawl_01
 x: 44,77099
 y: 57,61271
 message: COA
+
+sceneName: Crawl_02
+x: 7,522518
+y: 10,56769
+message: CIAO
