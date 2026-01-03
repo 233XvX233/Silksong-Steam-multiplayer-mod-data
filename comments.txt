@@ -6777,3 +6777,8 @@ sceneName: Tut_01b
 x: 83.41807
 y: 35.56768
 message: 顶顶顶顶顶顶顶
+
+sceneName: Bonetown
+x: 231.9587
+y: 7.567685
+message: peler
