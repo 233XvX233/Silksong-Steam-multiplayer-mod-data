@@ -6562,3 +6562,8 @@ sceneName: Tut_01
 x: 43.9706
 y: 4.567685
 message: yoko
+
+sceneName: Tut_01
+x: 41.33058
+y: 4.567685
+message: yoko
