@@ -6992,3 +6992,8 @@ sceneName: Bone_05
 x: 96,52506
 y: 3,567686
 message: pato e zok1nha1 passaram aqui
+
+sceneName: Tut_01
+x: 31,47664
+y: 4,567685
+message: dgdgdgdg
