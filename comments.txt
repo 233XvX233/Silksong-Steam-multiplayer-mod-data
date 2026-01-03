@@ -6822,3 +6822,8 @@ sceneName: Belltown
 x: 88.19341
 y: 7.567685
 message: i dont think they silked the song enough
+
+sceneName: Belltown_07
+x: 11.46325
+y: 7.567685
+message: dont go this way
