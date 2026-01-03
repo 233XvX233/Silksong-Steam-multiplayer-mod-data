@@ -6957,3 +6957,8 @@ sceneName: Crawl_02
 x: 4,14153
 y: 4,567685
 message: HIT
+
+sceneName: Dust_09
+x: 104,6362
+y: 12,6494
+message: РУССКИЕ ЕБАЛИ В РОТ ЭТУ МГЛУ
