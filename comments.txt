@@ -6587,3 +6587,8 @@ sceneName: Tut_01
 x: 8.995
 y: 11.56769
 message: I love men
+
+sceneName: Tut_01
+x: 59,56998
+y: 4,567685
+message: invite dj
