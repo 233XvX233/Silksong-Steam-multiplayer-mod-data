@@ -6802,3 +6802,8 @@ sceneName: Shadow_28
 x: 28.83269
 y: 21.56768
 message: AWOOOOOOOOOOOOOOOOOOOOOO :#
+
+sceneName: Shadow_28
+x: 29,85808
+y: 21,56768
+message: awooooooo
