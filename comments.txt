@@ -6642,3 +6642,8 @@ sceneName: Bone_01c
 x: 178,0746
 y: 7,567685
 message: Ai delicia
+
+sceneName: Bone_01
+x: 59,53505
+y: 68,44497
+message: Já passei
