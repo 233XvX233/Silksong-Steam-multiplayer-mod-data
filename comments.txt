@@ -6842,3 +6842,8 @@ sceneName: Bonetown
 x: 214.2618
 y: 7.567685
 message: 最初的起点
+
+sceneName: Bone_01
+x: 97.94579
+y: 23.56768
+message: 没怪
