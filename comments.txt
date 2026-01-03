@@ -6807,3 +6807,8 @@ sceneName: Shadow_28
 x: 29,85808
 y: 21,56768
 message: awooooooo
+
+sceneName: Bone_07
+x: 29.41071
+y: 4.567685
+message: RUN AFTER HIT!!!
