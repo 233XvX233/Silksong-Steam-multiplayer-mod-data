@@ -6607,3 +6607,8 @@ sceneName: Bonetown
 x: 249,2498
 y: 7,567685
 message: pcd fracassad
+
+sceneName: Hang_06b
+x: 18.44299
+y: 4.567685
+message: hi
