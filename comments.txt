@@ -6752,3 +6752,8 @@ sceneName: Bonetown
 x: 57,84
 y: 7,567685
 message: ку
+
+sceneName: Bonetown
+x: 63,57997
+y: 7,567686
+message: ку
