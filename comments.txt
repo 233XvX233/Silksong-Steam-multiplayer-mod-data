@@ -6757,3 +6757,8 @@ sceneName: Bonetown
 x: 63,57997
 y: 7,567686
 message: ку
+
+sceneName: Shadow_18
+x: 73,90686
+y: 15,61906
+message: fuck youou
