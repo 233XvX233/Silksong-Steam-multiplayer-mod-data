@@ -6967,3 +6967,8 @@ sceneName: Bone_East_05
 x: 29,41286
 y: 38,56768
 message: AWOOOO
+
+sceneName: Bone_East_05
+x: 23,35558
+y: 38,56849
+message: AWOOO
