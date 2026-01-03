@@ -6862,3 +6862,8 @@ sceneName: Ant_05b
 x: 45.39005
 y: 7.567685
 message: dddd
+
+sceneName: Bonetown
+x: 78,62006
+y: 7,567685
+message: Have a good game!!!
