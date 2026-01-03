@@ -7007,3 +7007,8 @@ sceneName: Tut_02
 x: 16,315
 y: 24,56768
 message: sciemo chi legge
+
+sceneName: Bellshrine
+x: 23,14598
+y: 4,567685
+message: xixicoco pato
