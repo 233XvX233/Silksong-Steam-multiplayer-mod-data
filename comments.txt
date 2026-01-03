@@ -6847,3 +6847,8 @@ sceneName: Bone_01
 x: 97.94579
 y: 23.56768
 message: 没怪
+
+sceneName: Bone_01
+x: 108.25
+y: 23.57004
+message: 你已经离不开了
