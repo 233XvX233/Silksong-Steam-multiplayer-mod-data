@@ -6817,3 +6817,8 @@ sceneName: Greymoor_08
 x: 12.32421
 y: 4.567685
 message: test
+
+sceneName: Belltown
+x: 88.19341
+y: 7.567685
+message: i dont think they silked the song enough
