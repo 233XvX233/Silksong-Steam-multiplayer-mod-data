@@ -7087,3 +7087,8 @@ sceneName: Coral_32
 x: 164.665
 y: 87.56767
 message: yayyyyyy
+
+sceneName: Song_Enclave
+x: 42,96502
+y: 7,567685
+message: mambo
