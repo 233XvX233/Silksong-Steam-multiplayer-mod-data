@@ -6997,3 +6997,8 @@ sceneName: Tut_01
 x: 31,47664
 y: 4,567685
 message: dgdgdgdg
+
+sceneName: Tut_01
+x: 40,58169
+y: 4,567685
+message: hyjhfgfg
