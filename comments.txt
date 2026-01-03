@@ -7042,3 +7042,8 @@ sceneName: Library_01
 x: 46.63998
 y: 86.57692
 message: awooooooo :3
+
+sceneName: Belltown
+x: 49,08534
+y: 7,567685
+message: mambo
