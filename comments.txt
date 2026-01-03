@@ -6672,3 +6672,8 @@ sceneName: Crawl_03
 x: 23.20952
 y: 12.16452
 message: You can do it
+
+sceneName: Room_Forge
+x: 36.92382
+y: 32.56768
+message: shut up
