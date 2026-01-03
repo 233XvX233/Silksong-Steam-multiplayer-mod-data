@@ -7107,3 +7107,8 @@ sceneName: Song_Enclave
 x: 63,09513
 y: 7,567685
 message: mambo
+
+sceneName: Bellshrine
+x: 20,3887
+y: 4,567685
+message: gay
