@@ -7077,3 +7077,8 @@ sceneName: Coral_Judge_Arena
 x: 53.57215
 y: 31.22654
 message: caca
+
+sceneName: Tut_01
+x: 33,40446
+y: 4,567685
+message: феее
