@@ -6787,3 +6787,8 @@ sceneName: Bonetown
 x: 223.1024
 y: 7.567685
 message: PELER
+
+sceneName: Bonetown
+x: 209.0148
+y: 7.567685
+message: get lost
