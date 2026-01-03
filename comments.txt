@@ -6717,3 +6717,8 @@ sceneName: Song_05
 x: 41.76534
 y: 100.5677
 message: Puto el que lo lea
+
+sceneName: Belltown_04
+x: 37.73015
+y: 11.56768
+message: 小心！
