@@ -7027,3 +7027,8 @@ sceneName: Belltown
 x: 62,32874
 y: 7,567685
 message: mambo
+
+sceneName: Bone_East_15
+x: 39,61723
+y: 53,56768
+message: my mom is kinda homeless
