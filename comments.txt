@@ -6832,3 +6832,8 @@ sceneName: Tut_02
 x: 4.590667
 y: 12.56769
 message: 我去
+
+sceneName: Tut_03
+x: 48.4867
+y: 17.56768
+message: F6留言
