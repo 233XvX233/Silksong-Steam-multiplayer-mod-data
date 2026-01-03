@@ -6547,3 +6547,8 @@ sceneName: Belltown
 x: 70.03471
 y: 7.567685
 message: Kasane Teto
+
+sceneName: Belltown
+x: 70.03471
+y: 13.05019
+message: Kasane Teto
