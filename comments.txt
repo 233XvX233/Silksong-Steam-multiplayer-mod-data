@@ -6522,3 +6522,8 @@ sceneName: Bone_01
 x: 66,265
 y: 50,58768
 message: ]PIKAs
+
+sceneName: Bone_01
+x: 59,82996
+y: 55,56899
+message: crianças
