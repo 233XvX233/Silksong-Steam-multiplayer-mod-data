@@ -7032,3 +7032,8 @@ sceneName: Bone_East_15
 x: 39,61723
 y: 53,56768
 message: my mom is kinda homeless
+
+sceneName: Bellway_Aqueduct
+x: 60,74704
+y: 19,56768
+message: сосал?
