@@ -6632,3 +6632,8 @@ sceneName: Bellshrine
 x: 20.506
 y: 9.887998
 message: Teto Kasane
+
+sceneName: Bone_01c
+x: 173,1248
+y: 9,984358
+message: Meu pau ta torto
