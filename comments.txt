@@ -6617,3 +6617,8 @@ sceneName: Hang_06b
 x: 16.628
 y: 4.567685
 message: gj
+
+sceneName: Bonetown
+x: 238.6679
+y: 7.567685
+message: Ligma
