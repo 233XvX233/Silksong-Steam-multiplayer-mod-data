@@ -7162,3 +7162,8 @@ sceneName: Room_Forge
 x: 40,73392
 y: 32,56768
 message: aa
+
+sceneName: Bonetown
+x: 257.5003
+y: 7.567685
+message: kubus
