@@ -6867,3 +6867,8 @@ sceneName: Bonetown
 x: 78,62006
 y: 7,567685
 message: Have a good game!!!
+
+sceneName: Ant_05b
+x: 37.03503
+y: 7.567685
+message: 지료 바보
