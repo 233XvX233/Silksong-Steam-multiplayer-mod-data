@@ -6652,3 +6652,8 @@ sceneName: Bone_04
 x: 69,91499
 y: 13,56768
 message: Passei
+
+sceneName: Halfway_01
+x: 27,51002
+y: 20,56768
+message: nuuu come meu cuu
