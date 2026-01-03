@@ -6797,3 +6797,8 @@ sceneName: Peak_01
 x: 0.4099941
 y: 250.5677
 message: AWGJDHAGL,
+
+sceneName: Shadow_28
+x: 28.83269
+y: 21.56768
+message: AWOOOOOOOOOOOOOOOOOOOOOO :#
