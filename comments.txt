@@ -6987,3 +6987,8 @@ sceneName: Bone_05
 x: 83,31499
 y: 3,567686
 message: pato e zokinha passaram aqui
+
+sceneName: Bone_05
+x: 96,52506
+y: 3,567686
+message: pato e zok1nha1 passaram aqui
