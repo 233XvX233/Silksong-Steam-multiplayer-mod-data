@@ -6977,3 +6977,8 @@ sceneName: Mosstown_02c
 x: 45,01036
 y: 6,021176
 message: Hitler
+
+sceneName: Bellshrine
+x: 20,506
+y: 5,0172
+message: shaw
