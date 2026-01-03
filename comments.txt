@@ -6557,3 +6557,8 @@ sceneName: Belltown
 x: 73.66473
 y: 12.82204
 message: Gorda Conchuda
+
+sceneName: Tut_01
+x: 43.9706
+y: 4.567685
+message: yoko
