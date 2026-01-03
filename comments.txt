@@ -6532,3 +6532,8 @@ sceneName: Bone_04
 x: 171,6198
 y: 14,56768
 message: pedo
+
+sceneName: Tut_04
+x: 35.35723
+y: 6.567685
+message: :3
