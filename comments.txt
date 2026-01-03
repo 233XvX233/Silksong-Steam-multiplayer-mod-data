@@ -6767,3 +6767,8 @@ sceneName: Shadow_18
 x: 60,89554
 y: 11,68735
 message: this boss is stinky
+
+sceneName: Crawl_06
+x: 65.7459
+y: 8.567684
+message: LEAVE THE AWOOOOO ALONE!!!!
