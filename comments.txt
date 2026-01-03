@@ -7202,3 +7202,8 @@ sceneName: Bonetown
 x: 67,49995
 y: 7,567685
 message: niggers
+
+sceneName: Bonetown
+x: 80,93008
+y: 7,567686
+message: white cum
