@@ -6677,3 +6677,8 @@ sceneName: Room_Forge
 x: 36.92382
 y: 32.56768
 message: shut up
+
+sceneName: Tut_01
+x: 39.80424
+y: 4.567685
+message: lol
