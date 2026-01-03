@@ -6792,3 +6792,8 @@ sceneName: Bonetown
 x: 209.0148
 y: 7.567685
 message: get lost
+
+sceneName: Peak_01
+x: 0.4099941
+y: 250.5677
+message: AWGJDHAGL,
