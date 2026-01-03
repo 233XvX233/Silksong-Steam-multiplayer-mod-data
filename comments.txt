@@ -7157,3 +7157,8 @@ sceneName: Under_07c
 x: 36,49242
 y: 50,57363
 message: super idol
+
+sceneName: Room_Forge
+x: 40,73392
+y: 32,56768
+message: aa
