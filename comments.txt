@@ -6972,3 +6972,8 @@ sceneName: Bone_East_05
 x: 23,35558
 y: 38,56849
 message: AWOOO
+
+sceneName: Mosstown_02c
+x: 45,01036
+y: 6,021176
+message: Hitler
