@@ -7082,3 +7082,8 @@ sceneName: Tut_01
 x: 33,40446
 y: 4,567685
 message: феее
+
+sceneName: Coral_32
+x: 164.665
+y: 87.56767
+message: yayyyyyy
