@@ -6737,3 +6737,8 @@ sceneName: Cog_04
 x: 40.92316
 y: 138.5695
 message: outo
+
+sceneName: Song_Tower_01
+x: 55.99259
+y: 100.5677
+message: tongues out for lace
