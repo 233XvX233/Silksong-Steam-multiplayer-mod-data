@@ -7152,3 +7152,8 @@ sceneName: Under_07c
 x: 19,2178
 y: 34,56909
 message: sigma
+
+sceneName: Under_07c
+x: 36,49242
+y: 50,57363
+message: super idol
