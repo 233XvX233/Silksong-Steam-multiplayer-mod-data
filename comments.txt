@@ -7122,3 +7122,8 @@ sceneName: Bellshrine
 x: 30,78363
 y: 4,567685
 message: mateus e gay
+
+sceneName: Peak_02
+x: 84.61412
+y: 189.5677
+message: Fuck this place yo
