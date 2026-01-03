@@ -6812,3 +6812,8 @@ sceneName: Bone_07
 x: 29.41071
 y: 4.567685
 message: RUN AFTER HIT!!!
+
+sceneName: Greymoor_08
+x: 12.32421
+y: 4.567685
+message: test
