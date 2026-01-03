@@ -6602,3 +6602,8 @@ sceneName: Bonetown
 x: 250,2702
 y: 7,567685
 message: putas gordas
+
+sceneName: Bonetown
+x: 249,2498
+y: 7,567685
+message: pcd fracassad
