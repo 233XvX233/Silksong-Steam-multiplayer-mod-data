@@ -6982,3 +6982,8 @@ sceneName: Bellshrine
 x: 20,506
 y: 5,0172
 message: shaw
+
+sceneName: Bone_05
+x: 83,31499
+y: 3,567686
+message: pato e zokinha passaram aqui
