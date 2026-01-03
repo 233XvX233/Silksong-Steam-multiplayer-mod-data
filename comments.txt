@@ -7002,3 +7002,8 @@ sceneName: Tut_01
 x: 40,58169
 y: 4,567685
 message: hyjhfgfg
+
+sceneName: Tut_02
+x: 16,315
+y: 24,56768
+message: sciemo chi legge
