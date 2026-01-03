@@ -6552,3 +6552,8 @@ sceneName: Belltown
 x: 70.03471
 y: 13.05019
 message: Kasane Teto
+
+sceneName: Belltown
+x: 73.66473
+y: 12.82204
+message: Gorda Conchuda
