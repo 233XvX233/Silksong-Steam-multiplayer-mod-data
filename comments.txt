@@ -6952,3 +6952,8 @@ sceneName: Crawl_02
 x: 7,522518
 y: 10,56769
 message: CIAO
+
+sceneName: Crawl_02
+x: 4,14153
+y: 4,567685
+message: HIT
