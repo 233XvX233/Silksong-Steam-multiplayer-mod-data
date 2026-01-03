@@ -6707,3 +6707,8 @@ sceneName: Bone_05
 x: 192.804
 y: 6.567685
 message: El que siga este rumbo... es gay
+
+sceneName: Song_18
+x: 5.755004
+y: 57.56768
+message: Gola puto
