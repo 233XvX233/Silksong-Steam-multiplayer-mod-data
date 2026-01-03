@@ -7197,3 +7197,8 @@ sceneName: Ant_04_left
 x: 26.76803
 y: 6.567685
 message: Hormiga
+
+sceneName: Bonetown
+x: 67,49995
+y: 7,567685
+message: niggers
