@@ -6627,3 +6627,8 @@ sceneName: Bone_05
 x: 94,04005
 y: 3,567686
 message: oi
+
+sceneName: Bellshrine
+x: 20.506
+y: 9.887998
+message: Teto Kasane
