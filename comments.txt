@@ -6827,3 +6827,8 @@ sceneName: Belltown_07
 x: 11.46325
 y: 7.567685
 message: dont go this way
+
+sceneName: Tut_02
+x: 4.590667
+y: 12.56769
+message: 我去
