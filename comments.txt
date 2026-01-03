@@ -7117,3 +7117,8 @@ sceneName: Bellshrine
 x: 17,58371
 y: 4,567685
 message: mateus e gay
+
+sceneName: Bellshrine
+x: 30,78363
+y: 4,567685
+message: mateus e gay
