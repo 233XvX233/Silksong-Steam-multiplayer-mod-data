@@ -6512,3 +6512,8 @@ sceneName: Bellshrine
 x: 26,77596
 y: 4,567685
 message: me no habla kebab
+
+sceneName: Bellshrine_05
+x: 18,45936
+y: 4,567685
+message: FromSoftware
