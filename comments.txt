@@ -6887,3 +6887,8 @@ sceneName: Belltown
 x: 60,78
 y: 40,99147
 message: fgghhgh
+
+sceneName: Bone_04
+x: 203.7325
+y: 5.567685
+message: 我的钱。。。全掉下去了啊啊啊
