@@ -7062,3 +7062,8 @@ sceneName: Coral_Judge_Arena
 x: 28.88703
 y: 24.56768
 message: heeelllloooo
+
+sceneName: Coral_Judge_Arena
+x: 38.20024
+y: 24.56768
+message: yaaay, i m dead
