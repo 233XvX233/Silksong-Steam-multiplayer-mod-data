@@ -6517,3 +6517,8 @@ sceneName: Bellshrine_05
 x: 18,45936
 y: 4,567685
 message: FromSoftware
+
+sceneName: Bone_01
+x: 66,265
+y: 50,58768
+message: ]PIKAs
