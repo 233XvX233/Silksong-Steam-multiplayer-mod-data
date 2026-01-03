@@ -6762,3 +6762,8 @@ sceneName: Shadow_18
 x: 73,90686
 y: 15,61906
 message: fuck youou
+
+sceneName: Shadow_18
+x: 60,89554
+y: 11,68735
+message: this boss is stinky
