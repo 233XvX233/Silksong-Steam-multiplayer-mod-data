@@ -7022,3 +7022,8 @@ sceneName: Greymoor_03
 x: 14.22674
 y: 11.56769
 message: SHAW
+
+sceneName: Belltown
+x: 62,32874
+y: 7,567685
+message: mambo
