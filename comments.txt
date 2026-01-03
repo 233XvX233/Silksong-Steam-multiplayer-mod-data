@@ -6697,3 +6697,8 @@ sceneName: Tut_01
 x: 49.35442
 y: 4.567685
 message: sgsgsg
+
+sceneName: Tut_01
+x: 36.7554
+y: 4.567685
+message: sssss
