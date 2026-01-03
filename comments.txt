@@ -6942,3 +6942,8 @@ sceneName: Bone_10
 x: 31,15614
 y: 38,56768
 message: Found out i can teleport my m8 to me here
+
+sceneName: Crawl_01
+x: 44,77099
+y: 57,61271
+message: COA
