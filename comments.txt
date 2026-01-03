@@ -7132,3 +7132,8 @@ sceneName: Under_02
 x: 8,54677
 y: 145,5538
 message: carinha nao to te ouvindo
+
+sceneName: Under_02
+x: 10,88933
+y: 145,5538
+message: to descobrindo coisas legais
