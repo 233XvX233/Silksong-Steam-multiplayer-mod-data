@@ -6857,3 +6857,8 @@ sceneName: Bonetown
 x: 86,21011
 y: 7,567685
 message: ХУЙ
+
+sceneName: Ant_05b
+x: 45.39005
+y: 7.567685
+message: dddd
