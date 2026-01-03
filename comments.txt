@@ -6912,3 +6912,8 @@ sceneName: Belltown
 x: 68,91
 y: 7,567685
 message: rthtsr
+
+sceneName: Abyss_Cocoon
+x: 23.96906
+y: 6.365186
+message: 61岁张妈打过了
