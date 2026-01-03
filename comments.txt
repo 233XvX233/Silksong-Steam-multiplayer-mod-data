@@ -7182,3 +7182,8 @@ sceneName: Tut_01b
 x: 86,36124
 y: 83,56767
 message: окак
+
+sceneName: Dock_08
+x: 87,50508
+y: 20,78008
+message: break me
