@@ -6837,3 +6837,8 @@ sceneName: Tut_03
 x: 48.4867
 y: 17.56768
 message: F6留言
+
+sceneName: Bonetown
+x: 214.2618
+y: 7.567685
+message: 最初的起点
