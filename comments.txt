@@ -6937,3 +6937,8 @@ sceneName: Bone_06
 x: 13.24409
 y: 11.53082
 message: 女巫教堂
+
+sceneName: Bone_10
+x: 31,15614
+y: 38,56768
+message: Found out i can teleport my m8 to me here
