@@ -6927,3 +6927,8 @@ sceneName: Belltown_Shrine
 x: 66,17644
 y: 13,99326
 message: ТУТ БЫЛИ РУССКИЕ
+
+sceneName: Dust_06
+x: 24.3222
+y: 97.56767
+message: BREAK HERE
