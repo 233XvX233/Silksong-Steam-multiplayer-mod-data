@@ -7172,3 +7172,8 @@ sceneName: Bone_01
 x: 65.53008
 y: 7.567685
 message: sherma sherma sherma sherma
+
+sceneName: Shadow_18
+x: 105.7948
+y: 12.5636
+message: 这里一直往上跳有补丝的
