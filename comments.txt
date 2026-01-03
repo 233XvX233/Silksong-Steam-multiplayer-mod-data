@@ -6782,3 +6782,8 @@ sceneName: Bonetown
 x: 231.9587
 y: 7.567685
 message: peler
+
+sceneName: Bonetown
+x: 223.1024
+y: 7.567685
+message: PELER
