@@ -6612,3 +6612,8 @@ sceneName: Hang_06b
 x: 18.44299
 y: 4.567685
 message: hi
+
+sceneName: Hang_06b
+x: 16.628
+y: 4.567685
+message: gj
