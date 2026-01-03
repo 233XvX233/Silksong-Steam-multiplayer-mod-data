@@ -6772,3 +6772,8 @@ sceneName: Crawl_06
 x: 65.7459
 y: 8.567684
 message: LEAVE THE AWOOOOO ALONE!!!!
+
+sceneName: Tut_01b
+x: 83.41807
+y: 35.56768
+message: 顶顶顶顶顶顶顶
