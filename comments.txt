@@ -6657,3 +6657,8 @@ sceneName: Halfway_01
 x: 27,51002
 y: 20,56768
 message: nuuu come meu cuu
+
+sceneName: Halfway_01
+x: 27,30501
+y: 20,56768
+message: gostosa
