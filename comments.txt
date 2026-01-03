@@ -6917,3 +6917,8 @@ sceneName: Abyss_Cocoon
 x: 23.96906
 y: 6.365186
 message: 61岁张妈打过了
+
+sceneName: Mosstown_01
+x: 72.35416
+y: 12.56769
+message: 你想跳过去，对吧
