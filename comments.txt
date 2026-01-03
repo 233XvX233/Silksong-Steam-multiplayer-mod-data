@@ -6852,3 +6852,8 @@ sceneName: Bone_01
 x: 108.25
 y: 23.57004
 message: 你已经离不开了
+
+sceneName: Bonetown
+x: 86,21011
+y: 7,567685
+message: ХУЙ
