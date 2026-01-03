@@ -6872,3 +6872,8 @@ sceneName: Ant_05b
 x: 37.03503
 y: 7.567685
 message: 지료 바보
+
+sceneName: Tut_01
+x: 7,269965
+y: 11,56769
+message: trfurrfrrzurrt
