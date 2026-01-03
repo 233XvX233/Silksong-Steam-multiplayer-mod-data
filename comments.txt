@@ -6622,3 +6622,8 @@ sceneName: Bonetown
 x: 238.6679
 y: 7.567685
 message: Ligma
+
+sceneName: Bone_05
+x: 94,04005
+y: 3,567686
+message: oi
