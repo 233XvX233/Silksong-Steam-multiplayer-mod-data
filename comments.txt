@@ -6892,3 +6892,8 @@ sceneName: Bone_04
 x: 203.7325
 y: 5.567685
 message: 我的钱。。。全掉下去了啊啊啊
+
+sceneName: Bone_04
+x: 59.30005
+y: 13.56768
+message: POSHANKA
