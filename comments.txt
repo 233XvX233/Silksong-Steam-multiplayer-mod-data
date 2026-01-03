@@ -6662,3 +6662,8 @@ sceneName: Halfway_01
 x: 27,30501
 y: 20,56768
 message: gostosa
+
+sceneName: Halfway_01
+x: 27,51005
+y: 20,56768
+message: sexooooooooo
