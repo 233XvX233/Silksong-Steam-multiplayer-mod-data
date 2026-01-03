@@ -6727,3 +6727,8 @@ sceneName: Tut_02
 x: 94.35501
 y: 30.56768
 message: 咪咪咪
+
+sceneName: Halfway_01
+x: 32.53101
+y: 4.567685
+message: 321``1234567890[]
