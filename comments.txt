@@ -7067,3 +7067,8 @@ sceneName: Coral_Judge_Arena
 x: 38.20024
 y: 24.56768
 message: yaaay, i m dead
+
+sceneName: Bonetown
+x: 274,3563
+y: 7,567685
+message: Eh, Ok?
