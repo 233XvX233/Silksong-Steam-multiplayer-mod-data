@@ -6537,3 +6537,8 @@ sceneName: Tut_04
 x: 35.35723
 y: 6.567685
 message: :3
+
+sceneName: Belltown
+x: 55,76105
+y: 7,567685
+message: cuca
