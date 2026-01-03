@@ -6667,3 +6667,8 @@ sceneName: Halfway_01
 x: 27,51005
 y: 20,56768
 message: sexooooooooo
+
+sceneName: Crawl_03
+x: 23.20952
+y: 12.16452
+message: You can do it
