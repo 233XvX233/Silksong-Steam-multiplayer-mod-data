@@ -7017,3 +7017,8 @@ sceneName: Under_01b
 x: 22.06398
 y: 4.567685
 message: kess gay
+
+sceneName: Greymoor_03
+x: 14.22674
+y: 11.56769
+message: SHAW
