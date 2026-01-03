@@ -7052,3 +7052,8 @@ sceneName: Tut_03
 x: 100,1486
 y: 3,567686
 message: hi
+
+sceneName: Cog_Dancers
+x: 40,04891
+y: 4,59697
+message: vai se fuder arthur
