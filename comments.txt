@@ -7097,3 +7097,8 @@ sceneName: Song_Enclave
 x: 49,07006
 y: 7,567685
 message: mambo
+
+sceneName: Song_Enclave
+x: 53,19508
+y: 7,567685
+message: mambo
