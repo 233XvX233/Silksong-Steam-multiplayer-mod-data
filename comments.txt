@@ -7167,3 +7167,8 @@ sceneName: Bonetown
 x: 257.5003
 y: 7.567685
 message: kubus
+
+sceneName: Bone_01
+x: 65.53008
+y: 7.567685
+message: sherma sherma sherma sherma
