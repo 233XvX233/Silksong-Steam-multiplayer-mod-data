@@ -6932,3 +6932,8 @@ sceneName: Dust_06
 x: 24.3222
 y: 97.56767
 message: BREAK HERE
+
+sceneName: Bone_06
+x: 13.24409
+y: 11.53082
+message: 女巫教堂
