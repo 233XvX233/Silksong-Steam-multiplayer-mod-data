@@ -7072,3 +7072,8 @@ sceneName: Bonetown
 x: 274,3563
 y: 7,567685
 message: Eh, Ok?
+
+sceneName: Coral_Judge_Arena
+x: 53.57215
+y: 31.22654
+message: caca
