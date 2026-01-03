@@ -7037,3 +7037,8 @@ sceneName: Bellway_Aqueduct
 x: 60,74704
 y: 19,56768
 message: сосал?
+
+sceneName: Library_01
+x: 46.63998
+y: 86.57692
+message: awooooooo :3
