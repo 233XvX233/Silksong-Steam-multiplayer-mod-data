@@ -7057,3 +7057,8 @@ sceneName: Cog_Dancers
 x: 40,04891
 y: 4,59697
 message: vai se fuder arthur
+
+sceneName: Coral_Judge_Arena
+x: 28.88703
+y: 24.56768
+message: heeelllloooo
