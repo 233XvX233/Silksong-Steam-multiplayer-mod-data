@@ -6907,3 +6907,8 @@ sceneName: Greymoor_03
 x: 12,83899
 y: 11,56769
 message: piscio
+
+sceneName: Belltown
+x: 68,91
+y: 7,567685
+message: rthtsr
