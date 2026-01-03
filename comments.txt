@@ -6962,3 +6962,8 @@ sceneName: Dust_09
 x: 104,6362
 y: 12,6494
 message: РУССКИЕ ЕБАЛИ В РОТ ЭТУ МГЛУ
+
+sceneName: Bone_East_05
+x: 29,41286
+y: 38,56768
+message: AWOOOO
