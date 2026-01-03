@@ -6747,3 +6747,8 @@ sceneName: Song_Tower_01
 x: 56.52004
 y: 100.5677
 message: tongues out for lace
+
+sceneName: Bonetown
+x: 57,84
+y: 7,567685
+message: ку
