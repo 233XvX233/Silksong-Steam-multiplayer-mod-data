@@ -6897,3 +6897,8 @@ sceneName: Bone_04
 x: 59.30005
 y: 13.56768
 message: POSHANKA
+
+sceneName: Bone_11
+x: 74.66798
+y: 18.56768
+message: 这是前期的刷钱地点了，开始吧，你的刷钱之路
