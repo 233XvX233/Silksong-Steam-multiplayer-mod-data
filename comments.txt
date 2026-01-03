@@ -6922,3 +6922,8 @@ sceneName: Mosstown_01
 x: 72.35416
 y: 12.56769
 message: 你想跳过去，对吧
+
+sceneName: Belltown_Shrine
+x: 66,17644
+y: 13,99326
+message: ТУТ БЫЛИ РУССКИЕ
