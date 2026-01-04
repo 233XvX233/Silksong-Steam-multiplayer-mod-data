@@ -7262,3 +7262,8 @@ sceneName: Bellshrine_02
 x: 22.94926
 y: 4.567685
 message: hi
+
+sceneName: Bellshrine_02
+x: 18.32928
+y: 4.567685
+message: derrick stinks
