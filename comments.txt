@@ -7352,3 +7352,8 @@ sceneName: Ant_14
 x: 6,345
 y: 69,56767
 message: Dicki
+
+sceneName: Tut_03
+x: 106,0298
+y: 3,56769
+message: Lele pancha
