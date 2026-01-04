@@ -7327,3 +7327,8 @@ sceneName: Ant_17
 x: 35,06504
 y: 6,567686
 message: EL DIAVLO LOKO
+
+sceneName: Abyss_12
+x: 1.238327
+y: 8.567684
+message: era
