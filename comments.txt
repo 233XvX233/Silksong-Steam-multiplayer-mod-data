@@ -7287,3 +7287,8 @@ sceneName: Tut_04
 x: 38.84134
 y: 6.567686
 message: :P
+
+sceneName: Ant_04_left
+x: 49,07829
+y: 10,56769
+message: i love my bf so much
