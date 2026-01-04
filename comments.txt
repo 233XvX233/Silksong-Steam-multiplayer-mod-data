@@ -7222,3 +7222,8 @@ sceneName: Belltown_Room_Spare
 x: 26.76001
 y: 7.567673
 message: nap time :3
+
+sceneName: Belltown_Room_Spare
+x: 26.25
+y: 7.567685
+message: yayyy nap time :3
