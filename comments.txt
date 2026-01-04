@@ -7242,3 +7242,8 @@ sceneName: Cog_08
 x: 11.245
 y: 9.314271
 message: the fuck do you mean good luck
+
+sceneName: Cog_08
+x: 8.718963
+y: 146.8365
+message: thank yoooou :D
