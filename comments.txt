@@ -7237,3 +7237,8 @@ sceneName: Bellway_04
 x: 39,39944
 y: 20,56768
 message: gay
+
+sceneName: Cog_08
+x: 11.245
+y: 9.314271
+message: the fuck do you mean good luck
