@@ -7252,3 +7252,8 @@ sceneName: Song_Enclave
 x: 60.13022
 y: 7.567685
 message: 打了喔
+
+sceneName: Bellshrine_02
+x: 25.40503
+y: 4.567685
+message: hello
