@@ -7292,3 +7292,8 @@ sceneName: Ant_04_left
 x: 49,07829
 y: 10,56769
 message: i love my bf so much
+
+sceneName: Ant_04_left
+x: 65,18005
+y: 13,95567
+message: I love Pixelman, he's the best boyfriend
