@@ -7282,3 +7282,8 @@ sceneName: Ant_04_left
 x: 37,85124
 y: 6,567685
 message: i hate red things so much
+
+sceneName: Tut_04
+x: 38.84134
+y: 6.567686
+message: :P
