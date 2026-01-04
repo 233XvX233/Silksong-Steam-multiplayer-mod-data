@@ -7342,3 +7342,8 @@ sceneName: Tut_01
 x: 58.18695
 y: 35.56768
 message: porno
+
+sceneName: Tut_01
+x: 56,71
+y: 35,56768
+message: Me pica una nalga
