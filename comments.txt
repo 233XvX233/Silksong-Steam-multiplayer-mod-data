@@ -7322,3 +7322,8 @@ sceneName: Ant_14
 x: 6,314998
 y: 21,56768
 message: PUTA
+
+sceneName: Ant_17
+x: 35,06504
+y: 6,567686
+message: EL DIAVLO LOKO
