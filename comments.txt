@@ -7207,3 +7207,8 @@ sceneName: Bonetown
 x: 80,93008
 y: 7,567686
 message: white cum
+
+sceneName: Tut_02
+x: 120,38
+y: 6,567685
+message: leck eir
