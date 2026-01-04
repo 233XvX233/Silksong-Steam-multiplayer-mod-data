@@ -7227,3 +7227,8 @@ sceneName: Belltown_Room_Spare
 x: 26.25
 y: 7.567685
 message: yayyy nap time :3
+
+sceneName: Bellway_03
+x: 52,86502
+y: 9,567685
+message: Holaaa
