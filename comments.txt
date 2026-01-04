@@ -7267,3 +7267,8 @@ sceneName: Bellshrine_02
 x: 18.32928
 y: 4.567685
 message: derrick stinks
+
+sceneName: Song_25
+x: 10
+y: 23.56768
+message: bruh
