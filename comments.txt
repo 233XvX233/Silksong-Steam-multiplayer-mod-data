@@ -7212,3 +7212,8 @@ sceneName: Tut_02
 x: 120,38
 y: 6,567685
 message: leck eir
+
+sceneName: Bone_05
+x: 96,2978
+y: 3,567686
+message: dihenstein
