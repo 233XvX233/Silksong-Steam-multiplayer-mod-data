@@ -7277,3 +7277,8 @@ sceneName: Dust_06
 x: 26.5969
 y: 97.56767
 message: why would you direct me here
+
+sceneName: Ant_04_left
+x: 37,85124
+y: 6,567685
+message: i hate red things so much
