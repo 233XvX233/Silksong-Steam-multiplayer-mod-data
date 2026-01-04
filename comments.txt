@@ -7257,3 +7257,8 @@ sceneName: Bellshrine_02
 x: 25.40503
 y: 4.567685
 message: hello
+
+sceneName: Bellshrine_02
+x: 22.94926
+y: 4.567685
+message: hi
