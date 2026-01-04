@@ -7247,3 +7247,8 @@ sceneName: Cog_08
 x: 8.718963
 y: 146.8365
 message: thank yoooou :D
+
+sceneName: Song_Enclave
+x: 60.13022
+y: 7.567685
+message: 打了喔
