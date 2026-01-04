@@ -7272,3 +7272,8 @@ sceneName: Song_25
 x: 10
 y: 23.56768
 message: bruh
+
+sceneName: Dust_06
+x: 26.5969
+y: 97.56767
+message: why would you direct me here
