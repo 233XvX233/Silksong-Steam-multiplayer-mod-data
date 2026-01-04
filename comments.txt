@@ -7302,3 +7302,8 @@ sceneName: Ant_04_left
 x: 67,49005
 y: 13,95567
 message: I love tavish he's the best boyfriend
+
+sceneName: Room_Forge
+x: 107
+y: 32.61325
+message: Z?
