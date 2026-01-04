@@ -7347,3 +7347,8 @@ sceneName: Tut_01
 x: 56,71
 y: 35,56768
 message: Me pica una nalga
+
+sceneName: Ant_14
+x: 6,345
+y: 69,56767
+message: Dicki
